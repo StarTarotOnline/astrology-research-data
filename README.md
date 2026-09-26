@@ -21,7 +21,7 @@ with Waite's meanings and the Golden Dawn correspondences (DOI
 ## Licence
 
 Data and documentation: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Scripts: MIT.
-See [LICENSE](LICENSE) and [LICENSE-CODE](LICENSE-CODE).
+See [NOTICE](NOTICE), [LICENSE](LICENSE) (CC BY 4.0) and [LICENSE-CODE](LICENSE-CODE) (MIT).
 
 ## Citation
 
