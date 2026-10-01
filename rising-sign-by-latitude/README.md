@@ -39,5 +39,5 @@ The cross-check against the MC study runs only if `mc-whole-sign-10th.csv` lies 
 
 ## Cite
 
-StarTarot.online (2026). How common is each rising sign, by latitude.
+Matiushenok, V. (2026). How common is each rising sign, by latitude. StarTarot.online.
 https://startarot.online/research/rising-sign-by-latitude — data CC BY 4.0.

@@ -7,9 +7,16 @@ Licensed under the Creative Commons Attribution 4.0 International License
 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode
 
 You may share and adapt the data for any purpose, including commercially,
-provided you give appropriate credit (for example "StarTarot.online (2026)"
-with a link to the study), indicate if changes were made, and do not imply
+provided you give appropriate credit (for example "Matiushenok, V. (2026),
+StarTarot.online" with a link to the study), indicate if changes were made, and do not imply
 endorsement.
 
 The scripts (*.py) are licensed separately under the MIT License, see
 LICENSE-CODE.
+
+Third-party sources of real-births-chart-frequencies (aggregated counts only,
+no individual records are redistributed):
+- Brazil: SINASC, Ministerio da Saude / DATASUS (OpenDataSUS, CC BY-ND 3.0).
+- Japan: Vital Statistics, e-Stat (Government of Japan Standard Terms of Use).
+- USA: NCHS Natality public-use files and U.S. Census Bureau (public domain).
+- Municipality coordinates: github.com/kelvins/municipios-brasileiros (MIT).

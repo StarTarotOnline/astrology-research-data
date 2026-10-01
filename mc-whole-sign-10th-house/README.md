@@ -39,5 +39,5 @@ python3 mc_whole_sign_10th.py   # writes the CSV and a JSON summary next to itse
 
 ## Cite
 
-StarTarot.online (2026). How often the MC falls in the whole-sign 10th house, by latitude and
-rising sign. https://startarot.online/research/mc-whole-sign-10th-house — data CC BY 4.0.
+Matiushenok, V. (2026). How often the MC falls in the whole-sign 10th house, by latitude and
+rising sign. StarTarot.online. https://startarot.online/research/mc-whole-sign-10th-house — data CC BY 4.0.

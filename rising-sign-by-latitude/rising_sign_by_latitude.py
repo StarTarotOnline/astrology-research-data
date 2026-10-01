@@ -88,7 +88,9 @@ from pathlib import Path
 import swisseph as swe
 
 HERE = Path(__file__).resolve().parent
-REPO_ROOT = HERE.parents[1]
+# A downloaded copy may sit in a top-level folder (`/content` in Colab), where
+# `HERE.parents[1]` does not exist.
+REPO_ROOT = HERE.parents[1] if len(HERE.parents) > 1 else HERE
 if (REPO_ROOT / "frontend" / "src" / "lib" / "research").is_dir():
     # In the StarTarot repository: rewrite the files the page is built from.
     JSON_OUT = REPO_ROOT / "frontend" / "src" / "lib" / "research" / "rising-sign-by-latitude.json"

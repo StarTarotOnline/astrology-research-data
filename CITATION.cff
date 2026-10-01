@@ -3,18 +3,24 @@ message: "If you use these data, please cite the study you used (see README)."
 type: dataset
 title: "Astrology research data: computed answers, with scripts and CSV"
 authors:
-  - name: "StarTarot"
-    website: "https://startarot.online/"
-date-released: "2026-09-26"
+  - family-names: "Matiushenok"
+    given-names: "Vladimir"
+    affiliation: "StarTarot"
+    website: "https://startarot.online/about"
+date-released: "2026-10-01"
 license: CC-BY-4.0
 url: "https://startarot.online/research"
 repository-code: "https://github.com/StarTarotOnline/astrology-research-data"
 abstract: >-
-  Reproducible computed studies with Swiss Ephemeris: how common each rising sign
-  is by latitude, and how often the Midheaven falls in the whole-sign 10th house.
+  Reproducible computed studies, each with its script and CSV: how common each rising
+  sign is by latitude; how often the Midheaven falls in the whole-sign 10th house; how
+  often each planet is retrograde, 1900-2100; and how often each chart feature occurs
+  among 95.7 million recorded births in Brazil, Japan and the USA.
 keywords:
   - astrology
   - astronomy
   - ephemeris
   - ascendant
+  - retrograde
+  - birth time
   - dataset
