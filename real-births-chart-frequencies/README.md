@@ -25,12 +25,16 @@ would give.
   birth times.
 - The expected share of Mars in Michel Gauquelin's key sectors for babies born in a single year
   is anywhere from 12.4% to 22.4% in Japan (14.8–19.7% in Brazil), not a fixed one sixth.
+- Where no hospital schedule applies, the picture reverses. US births planned at home or in a
+  freestanding birth center (542,277 with a recorded time, 2016–2024) are most frequent between
+  1 and 5 in the morning and 45.9% of them have a day chart; births at Japanese midwife homes
+  and at home give 49.0%.
 
 Nothing here describes people born outside these countries and years.
 
 ## Files
 
-- `real-births-chart-frequencies.csv`: 113,978 rows, long format (7.4 MB).
+- `real-births-chart-frequencies.csv`: 120,629 rows, long format (7.9 MB).
 - `birth_sky.py`: the script that downloads the registers and computes everything.
 
 ### Columns
@@ -38,7 +42,7 @@ Nothing here describes people born outside these countries and years.
 | Column | Meaning |
 |---|---|
 | `country` | `BR`, `JP` or `US` |
-| `scope` | `national`, or a Brazilian state as `UF` + IBGE code (`UF35` = São Paulo) |
+| `scope` | `national`, a Brazilian state as `UF` + IBGE code (`UF35` = São Paulo), or `out_of_hospital` for US births planned at home or in a freestanding birth center |
 | `year` | Year of birth (BR 2006–2024, JP 2015–2024, US 2016–2024) |
 | `rung` | Which comparison the row belongs to, see below |
 | `feature` | Chart feature, see below |

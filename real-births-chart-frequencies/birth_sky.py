@@ -14,7 +14,7 @@ this script). Steps, in order:
     python3 birth_sky.py export          # page JSON + dataset CSV (+ a copy of this script in the repo)
 
 Sub-steps can be run alone: fetch-br|fetch-jp|fetch-us [years], compute-br|compute-us [years],
-compute-jp, degrade [years], mars-model.
+compute-jp, compute-us-groups [years] (only the US out-of-hospital group), degrade [years], mars-model.
 
 Run from the repo, export writes (GENERATED — regenerate, do not hand-edit):
     frontend/src/lib/research/real-births-chart-frequencies.json   data both pages render
@@ -64,6 +64,9 @@ USA — NCHS Natality public-use files 2016–2024 (U.S. government work): month
 matching dates; places are Census county births (co-est2024-alldata, public domain) at Gazetteer
 2024 county points, 1° cells per IANA zone. The error of exactly this imputation is measured on
 Brazil with the same information removed (``degrade``; 2018 has DST): published with the US numbers.
+One US group is also counted on its own, at its recorded times: births planned at home or in a
+freestanding birth center (BFACIL 2 and 3; CSV scope ``out_of_hospital``). The file gives them no
+place either, so they get the county weights of all births.
 Nothing here describes people born outside these countries and years.
 """
 from __future__ import annotations
@@ -669,7 +672,9 @@ def impute(counts, geo, year, bin_minutes, sub=1):
     return acc
 
 
-def compute_us(y, bin_minutes=5):
+def compute_us(y, bin_minutes=5, only_groups=False):
+    """All four rungs for one year plus the out-of-hospital group at its own recorded times.
+    ``only_groups`` recomputes just that group and merges it into the stored counts of the year."""
     nb = 1440 // bin_minutes
     c = pd.read_parquet(US_DIR / f'us_{y}_counts.parquet')
     audit = {'year': y, 'n_records': int(c.n.sum()), 'time_not_stated': int(c[c.hhmm == '9999'].n.sum())}
@@ -682,6 +687,10 @@ def compute_us(y, bin_minutes=5):
     audit['minute_x5_pct'] = float(c[mn % 5 == 0].n.sum() / c.n.sum() * 100)
     audit['n_used'] = int(c.n.sum())
     spont = (c.dmeth == '1') & (c.induced == 'N')
+    # BFACIL: 1 hospital, 2 freestanding birth center, 3 home (intended), 4 home (not intended),
+    # 5 home (unknown if intended), 6 clinic / doctor's office, 7 other, 9 unknown.
+    ooh = c.bfacil.isin(['2', '3'])
+    audit['out_of_hospital'] = {'birth_center': int(c[c.bfacil == '2'].n.sum()), 'home_intended': int(c[c.bfacil == '3'].n.sum())}
     audit['shares'] = {'caesarean': float(c[c.dmeth == '2'].n.sum() / c.n.sum()), 'induced': float(c[c.induced == 'Y'].n.sum() / c.n.sum()),
                        'spontaneous': float(c[spont].n.sum() / c.n.sum()), 'hospital': float(c[c.bfacil == '1'].n.sum() / c.n.sum())}
     real = c.groupby(['month', 'weekday', 'bin']).n.sum().reset_index()
@@ -702,9 +711,22 @@ def compute_us(y, bin_minutes=5):
     geo = co.groupby(['tz', 'cl', 'cn']).apply(lambda d: pd.Series({'lat': np.average(d.INTPTLAT, weights=d.w), 'lon': np.average(d.INTPTLONG, weights=d.w), 'n': d.w.sum()}), include_groups=False).reset_index()
     geo['share'] = geo.n / geo.n.sum(); audit['geo_weights'] = f'Census county {col}'; audit['geo_cells'] = len(geo)
     hour = lambda mask: c[mask].groupby(c[mask].minute // 60).n.sum().reindex(range(24), fill_value=0).values
-    out = {'audit': audit, 'rungs': {},
+    # Births planned at home or in a freestanding birth center, at their own recorded times. The file
+    # gives them no place either: they get the same county weights as all births (a stated limit).
+    group = {'out_of_hospital': impute(c[ooh].groupby(['month', 'weekday', 'bin']).n.sum().reset_index(), geo, y, bin_minutes)}
+    if only_groups:
+        out = load_counts(f'US_{y}')
+        out['audit']['out_of_hospital'] = audit['out_of_hospital']
+        out['hour_counts']['out_of_hospital'] = hour(ooh.values)
+        out['groups'] = group
+        save_counts(f'US_{y}', out)
+        G = group['out_of_hospital']
+        log(f"US {y} out of hospital: n {G['total']:.0f} day {G['sect_day'] / G['total'] * 100:.2f}")
+        return
+    out = {'audit': audit, 'rungs': {}, 'groups': group,
            'hour_counts': {'all': hour(np.ones(len(c), bool)), 'spontaneous_vaginal': hour(spont.values),
-                           'caesarean': hour((c.dmeth == '2').values), 'induced': hour((c.induced == 'Y').values)}}
+                           'caesarean': hour((c.dmeth == '2').values), 'induced': hour((c.induced == 'Y').values),
+                           'out_of_hospital': hour(ooh.values)}}
     for name, tab in (('B4_real', real), ('B1_period_astronomy', b1), ('B2_real_dates', b2), ('B3_spontaneous_profile', b3)):
         out['rungs'][name] = impute(tab[['month', 'weekday', 'bin', 'n']], geo, y, bin_minutes)
     save_counts(f'US_{y}', out)
@@ -818,6 +840,9 @@ def export():
             if v.sum() > 0:
                 for h, x in enumerate(v):
                     rows.append([c, 'national', y, 'B4_real', f'birth_hour_{g}', str(h), r2(x / v.sum() * 100, 4), r2(x, 1)])
+        if c == 'US':
+            # Births planned at home or in a freestanding birth center, at their recorded times.
+            emit(c, 'out_of_hospital', y, 'B4_real', obj['groups']['out_of_hospital'])
         if c == 'BR':
             for s in obj['by_state']:
                 rows.append([c, f"UF{s['uf']}", y, 'B4_real', 'sect_day', 'yes', r2(s['day'] * 100, 4), s['n']])
@@ -881,6 +906,23 @@ def export():
             for g, v in counts[(c, y)]['hour_counts'].items():
                 H[g] = H.get(g, 0) + np.asarray(v, float)
         hours[c] = {g: r2(v / v.sum() * 100) for g, v in H.items() if v.sum() > 0}
+    # USA: births planned at home or in a freestanding birth center, pooled over all years.
+    G = [counts[('US', y)]['groups']['out_of_hospital'] for y in US_YEARS]
+    A = [counts[('US', y)]['audit'] for y in US_YEARS]
+    g_tot = sum(g['total'] for g in G)
+    oh = hours['US']['out_of_hospital']; hosp = hours['US']['all']
+    top = sorted(np.argsort(oh)[-4:].tolist())
+    us_out_of_hospital = {
+        'years': [US_YEARS[0], US_YEARS[-1]], 'births': round(g_tot),
+        'home_intended': sum(a['out_of_hospital']['home_intended'] for a in A),
+        'birth_center': sum(a['out_of_hospital']['birth_center'] for a in A),
+        'share_of_births_pct': [r2((a['out_of_hospital']['home_intended'] + a['out_of_hospital']['birth_center']) / a['n_used'] * 100) for a in A],
+        'day': r2(sum(g['sect_day'] for g in G) / g_tot * 100),
+        'day_by_year': [r2(pct(g, 'sect_day')) for g in G],
+        'sun_house': r2(sum(np.asarray(g['sun_house'], float) for g in G) / g_tot * 100),
+        'share_8_to_18': r2(sum(oh[8:18])), 'share_8_to_18_all': r2(sum(hosp[8:18])),
+        'peak_hours': [top[0], top[-1] + 1],
+    }
     deg = {}
     for y in (2018, 2024):
         try:
@@ -924,7 +966,8 @@ def export():
         'totals': {c: {'years': [ys[0], ys[-1]], 'births': pooled[c]['births']} for c, ys in years.items()},
         'total_births': sum(pooled[c]['births'] for c in years),
         'series': series, 'br_decomposition': br_decomposition, 'br_states': {'points': len(st), 'corr_day_caesarean': r2(corr, 3), 'rows': states},
-        'pooled': pooled, 'hour_profiles_pct': hours, 'degradation_test': deg, 'mars_model': mars,
+        'pooled': pooled, 'hour_profiles_pct': hours, 'us_out_of_hospital': us_out_of_hospital,
+        'degradation_test': deg, 'mars_model': mars,
         'csv_rows': len(rows),
     }
     # Pages «planet in house» (natal SEO leaves) read their OWN small file: kept out of the
@@ -980,7 +1023,7 @@ def write_backend_facts(counts, years, pooled):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
     ap.add_argument('step', choices=['fetch', 'fetch-br', 'fetch-jp', 'fetch-us', 'compute', 'compute-br', 'compute-jp',
-                                     'compute-us', 'degrade', 'mars-model', 'export', 'selftest'])
+                                     'compute-us', 'compute-us-groups', 'degrade', 'mars-model', 'export', 'selftest'])
     ap.add_argument('years', nargs='*', type=int)
     a = ap.parse_args()
     ys = lambda default: a.years or default
@@ -992,6 +1035,8 @@ def main():
     if a.step in ('compute', 'compute-jp'): compute_jp()
     if a.step in ('compute', 'compute-us'):
         for y in ys(US_YEARS): compute_us(y)
+    if a.step == 'compute-us-groups':
+        for y in ys(US_YEARS): compute_us(y, only_groups=True)
     if a.step in ('compute', 'degrade'):
         for y in ys([2018, 2024]): degrade(y)
     if a.step in ('compute', 'mars-model'): mars_model()
