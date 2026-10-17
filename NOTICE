@@ -20,3 +20,13 @@ no individual records are redistributed):
 - Japan: Vital Statistics, e-Stat (Government of Japan Standard Terms of Use).
 - USA: NCHS Natality public-use files and U.S. Census Bureau (public domain).
 - Municipality coordinates: github.com/kelvins/municipios-brasileiros (MIT).
+
+Third-party sources of rarest-zodiac-sign (aggregated counts only):
+- Eurostat, live births by month (demo_fmonth), CC BY 4.0.
+- Human Fertility Database, Short-Term Fertility Fluctuations (STFF), CC BY 4.0.
+- France: INSEE, births by day (T79JNAIS), Licence Ouverte 2.0.
+- England and Wales: ONS, Births in England and Wales, table 12, OGL v3.0.
+- USA: NCHS natality data (public domain) via the Google BigQuery natality sample
+  (A. Vehtari's Birthdays case study) and FiveThirtyEight `births` (CC BY 4.0).
+- Brazil: SINASC, Ministerio da Saude / DATASUS (OpenDataSUS, CC BY-ND 3.0).
+- Japan: Vital Statistics, e-Stat (Government of Japan Standard Terms of Use).

@@ -15,7 +15,8 @@ abstract: >-
   Reproducible computed studies, each with its script and CSV: how common each rising
   sign is by latitude; how often the Midheaven falls in the whole-sign 10th house; how
   often each planet is retrograde, 1900-2100; and how often each chart feature occurs
-  among 95.7 million recorded births in Brazil, Japan and the USA.
+  among 95.7 million recorded births in Brazil, Japan and the USA; and how common each Sun
+  sign is among 710 million births in 55 countries, 1960-2024.
 keywords:
   - astrology
   - astronomy
@@ -23,4 +24,6 @@ keywords:
   - ascendant
   - retrograde
   - birth time
+  - zodiac sign
+  - birth seasonality
   - dataset
