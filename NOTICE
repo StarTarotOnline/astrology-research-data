@@ -30,3 +30,24 @@ Third-party sources of rarest-zodiac-sign (aggregated counts only):
   (A. Vehtari's Birthdays case study) and FiveThirtyEight `births` (CC BY 4.0).
 - Brazil: SINASC, Ministerio da Saude / DATASUS (OpenDataSUS, CC BY-ND 3.0).
 - Japan: Vital Statistics, e-Stat (Government of Japan Standard Terms of Use).
+
+Third-party sources of fire-horse-japan-births (aggregated counts only). Rows
+marked in the CSV's `source` column as sg_singstat, hk_csd or kr_kosis, and rows
+marked "calc from sg_singstat" or "calc from hk_csd", are NOT under CC BY 4.0:
+they stay under their publishers' terms, credited as below.
+- Japan: Vital Statistics, Ministry of Health, Labour and Welfare, via e-Stat
+  (Government of Japan Standard Terms of Use, compatible with CC BY 4.0), and
+  MHLW monthly reports 2026 (Public Data License 1.0); processed by StarTarot.
+- Taiwan: Department of Household Registration, Ministry of the Interior (Open
+  Government Data License, version 1.0).
+- Malaysia: Department of Statistics Malaysia (OpenDOSM), CC BY 4.0.
+- Singapore: Contains information from Live-Births By Sex And Ethnic Group,
+  Monthly (M810051) accessed on 2026-11-02 from the Singapore Department of
+  Statistics, which is made available under the terms of the Singapore Open Data
+  Licence version 1.0, https://data.gov.sg/open-data-licence . Aggregated to
+  lunar years by StarTarot; the raw monthly series is not redistributed. Not
+  attributed to or endorsed by the Government.
+- Hong Kong: Census and Statistics Department, Hong Kong, and DATA.GOV.HK.
+  Intellectual property rights: Government of the Hong Kong SAR. Modified by
+  StarTarot where marked.
+- South Korea: 국가데이터처, 인구동향조사, KOSIS (KOSIS terms of use).

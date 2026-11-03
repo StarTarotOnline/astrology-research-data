@@ -1,0 +1,3081 @@
+series,period,measure,value,source
+_attribution,jp_estat,attribution,"Source: Portal Site of Official Statistics of Japan (e-Stat), https://www.e-stat.go.jp/ ; Vital Statistics (Ministry of Health, Labour and Welfare), processed by StarTarot. 出典：政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）「人口動態統計」（厚生労働省）を加工して作成",jp_estat
+_attribution,jp_mhlw,attribution,"Source: Ministry of Health, Labour and Welfare website, https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/08.html (accessed 2026-11-02); processed by StarTarot. 出典：「人口動態統計速報」「人口動態統計月報（概数）」（厚生労働省）を加工して作成",jp_mhlw
+_attribution,sg_singstat,attribution,"Contains information from Live-Births By Sex And Ethnic Group, Monthly (M810051) accessed on 2026-11-02 from the Singapore Department of Statistics, which is made available under the terms of the Singapore Open Data Licence version 1.0, https://data.gov.sg/open-data-licence . Aggregated to lunar years by StarTarot; not attributed to or endorsed by the Government.",sg_singstat
+_attribution,hk_csd,attribution,"Source: website of the Census and Statistics Department, Hong Kong (https://www.censtatd.gov.hk/), and DATA.GOV.HK. Intellectual property rights: Government of the Hong Kong Special Administrative Region. Modified by StarTarot where marked (net of births to mainland mothers).",hk_csd
+_attribution,kr_kosis,attribution,"국가데이터처, 「인구동향조사」, 월.분기.연간 인구동향 (2026-10-28 갱신) and 인구동태건수 및 동태율 추이 (2026-09-22 갱신), KOSIS, https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B8000G , 2026.11.02.",kr_kosis
+_attribution,tw_ris,attribution,"Department of Household Registration, Ministry of the Interior (Taiwan), 2026, 出生數及粗出生率 and 縣市出生死亡結婚離婚; Open Government Data License, version 1.0, https://data.gov.tw/license",tw_ris
+_attribution,my_dosm,attribution,"Department of Statistics Malaysia (OpenDOSM), Annual Live Births by Sex & Ethnicity, CC BY 4.0. Calculations by StarTarot.",my_dosm
+_attribution,calc,attribution,"StarTarot, https://startarot.online/research/fire-horse-japan-births",calc
+japan_daily,1965-12-21,total,5133,jp_estat table 3.24 p.71
+japan_daily,1965-12-21,boys,2705,jp_estat table 3.24 p.71
+japan_daily,1965-12-21,girls,2428,jp_estat table 3.24 p.71
+japan_daily,1965-12-21,sex_ratio_printed,111.4,jp_estat table 3.23 p.70
+japan_daily,1965-12-22,total,4860,jp_estat table 3.24 p.71
+japan_daily,1965-12-22,boys,2468,jp_estat table 3.24 p.71
+japan_daily,1965-12-22,girls,2392,jp_estat table 3.24 p.71
+japan_daily,1965-12-22,sex_ratio_printed,103.2,jp_estat table 3.23 p.70
+japan_daily,1965-12-23,total,4956,jp_estat table 3.24 p.71
+japan_daily,1965-12-23,boys,2542,jp_estat table 3.24 p.71
+japan_daily,1965-12-23,girls,2414,jp_estat table 3.24 p.71
+japan_daily,1965-12-23,sex_ratio_printed,105.3,jp_estat table 3.23 p.70
+japan_daily,1965-12-24,total,4600,jp_estat table 3.24 p.71
+japan_daily,1965-12-24,boys,2355,jp_estat table 3.24 p.71
+japan_daily,1965-12-24,girls,2245,jp_estat table 3.24 p.71
+japan_daily,1965-12-24,sex_ratio_printed,104.9,jp_estat table 3.23 p.70
+japan_daily,1965-12-25,total,4667,jp_estat table 3.24 p.71
+japan_daily,1965-12-25,boys,2346,jp_estat table 3.24 p.71
+japan_daily,1965-12-25,girls,2321,jp_estat table 3.24 p.71
+japan_daily,1965-12-25,sex_ratio_printed,101.1,jp_estat table 3.23 p.70
+japan_daily,1965-12-26,total,4048,jp_estat table 3.24 p.71
+japan_daily,1965-12-26,boys,2065,jp_estat table 3.24 p.71
+japan_daily,1965-12-26,girls,1983,jp_estat table 3.24 p.71
+japan_daily,1965-12-26,sex_ratio_printed,104.1,jp_estat table 3.23 p.70
+japan_daily,1965-12-27,total,4354,jp_estat table 3.24 p.71
+japan_daily,1965-12-27,boys,2183,jp_estat table 3.24 p.71
+japan_daily,1965-12-27,girls,2171,jp_estat table 3.24 p.71
+japan_daily,1965-12-27,sex_ratio_printed,100.6,jp_estat table 3.23 p.70
+japan_daily,1965-12-28,total,4935,jp_estat table 3.24 p.71
+japan_daily,1965-12-28,boys,2485,jp_estat table 3.24 p.71
+japan_daily,1965-12-28,girls,2450,jp_estat table 3.24 p.71
+japan_daily,1965-12-28,sex_ratio_printed,101.4,jp_estat table 3.23 p.70
+japan_daily,1965-12-29,total,4260,jp_estat table 3.24 p.71
+japan_daily,1965-12-29,boys,2096,jp_estat table 3.24 p.71
+japan_daily,1965-12-29,girls,2164,jp_estat table 3.24 p.71
+japan_daily,1965-12-29,sex_ratio_printed,96.9,jp_estat table 3.23 p.70
+japan_daily,1965-12-30,total,5285,jp_estat table 3.24 p.71
+japan_daily,1965-12-30,boys,2068,jp_estat table 3.24 p.71
+japan_daily,1965-12-30,girls,3217,jp_estat table 3.24 p.71
+japan_daily,1965-12-30,sex_ratio_printed,64.3,jp_estat table 3.23 p.70
+japan_daily,1965-12-31,total,4688,jp_estat table 3.24 p.71
+japan_daily,1965-12-31,boys,1661,jp_estat table 3.24 p.71
+japan_daily,1965-12-31,girls,3027,jp_estat table 3.24 p.71
+japan_daily,1965-12-31,sex_ratio_printed,54.9,jp_estat table 3.23 p.70
+japan_daily,1965-12 days 1-20,total,91790,jp_estat table 3.24 p.71
+japan_daily,1965-12 days 1-20,boys,47093,jp_estat table 3.24 p.71
+japan_daily,1965-12 days 1-20,girls,44697,jp_estat table 3.24 p.71
+japan_daily,1965-12 days 1-20,sex_ratio_printed,105.4,jp_estat table 3.23 p.70
+japan_daily,1965-12,total,143576,jp_estat table 3.24 p.71
+japan_daily,1965-12,boys,72067,jp_estat table 3.24 p.71
+japan_daily,1965-12,girls,71509,jp_estat table 3.24 p.71
+japan_daily,1965-12,sex_ratio_printed,100.8,jp_estat table 3.23 p.70
+japan_daily,1966-01-01,total,3696,jp_estat table 3.25 p.72
+japan_daily,1966-01-01,boys,2366,jp_estat table 3.25 p.72
+japan_daily,1966-01-01,girls,1330,jp_estat table 3.25 p.72
+japan_daily,1966-01-01,sex_ratio_printed,177.9,jp_estat table 3.23 p.70
+japan_daily,1966-01-02,total,3042,jp_estat table 3.25 p.72
+japan_daily,1966-01-02,boys,1801,jp_estat table 3.25 p.72
+japan_daily,1966-01-02,girls,1241,jp_estat table 3.25 p.72
+japan_daily,1966-01-02,sex_ratio_printed,145.1,jp_estat table 3.23 p.70
+japan_daily,1966-01-03,total,3397,jp_estat table 3.25 p.72
+japan_daily,1966-01-03,boys,1924,jp_estat table 3.25 p.72
+japan_daily,1966-01-03,girls,1473,jp_estat table 3.25 p.72
+japan_daily,1966-01-03,sex_ratio_printed,130.6,jp_estat table 3.23 p.70
+japan_daily,1966-01-04,total,3388,jp_estat table 3.25 p.72
+japan_daily,1966-01-04,boys,1921,jp_estat table 3.25 p.72
+japan_daily,1966-01-04,girls,1467,jp_estat table 3.25 p.72
+japan_daily,1966-01-04,sex_ratio_printed,130.9,jp_estat table 3.23 p.70
+japan_daily,1966-01-05,total,3873,jp_estat table 3.25 p.72
+japan_daily,1966-01-05,boys,2128,jp_estat table 3.25 p.72
+japan_daily,1966-01-05,girls,1745,jp_estat table 3.25 p.72
+japan_daily,1966-01-05,sex_ratio_printed,121.9,jp_estat table 3.23 p.70
+japan_daily,1966-01-06,total,3786,jp_estat table 3.25 p.72
+japan_daily,1966-01-06,boys,2079,jp_estat table 3.25 p.72
+japan_daily,1966-01-06,girls,1707,jp_estat table 3.25 p.72
+japan_daily,1966-01-06,sex_ratio_printed,121.8,jp_estat table 3.23 p.70
+japan_daily,1966-01-07,total,3909,jp_estat table 3.25 p.72
+japan_daily,1966-01-07,boys,2125,jp_estat table 3.25 p.72
+japan_daily,1966-01-07,girls,1784,jp_estat table 3.25 p.72
+japan_daily,1966-01-07,sex_ratio_printed,119.1,jp_estat table 3.23 p.70
+japan_daily,1966-01-08,total,3856,jp_estat table 3.25 p.72
+japan_daily,1966-01-08,boys,2058,jp_estat table 3.25 p.72
+japan_daily,1966-01-08,girls,1798,jp_estat table 3.25 p.72
+japan_daily,1966-01-08,sex_ratio_printed,114.5,jp_estat table 3.23 p.70
+japan_daily,1966-01-09,total,3300,jp_estat table 3.25 p.72
+japan_daily,1966-01-09,boys,1716,jp_estat table 3.25 p.72
+japan_daily,1966-01-09,girls,1584,jp_estat table 3.25 p.72
+japan_daily,1966-01-09,sex_ratio_printed,108.3,jp_estat table 3.23 p.70
+japan_daily,1966-01-10,total,3924,jp_estat table 3.25 p.72
+japan_daily,1966-01-10,boys,2056,jp_estat table 3.25 p.72
+japan_daily,1966-01-10,girls,1868,jp_estat table 3.25 p.72
+japan_daily,1966-01-10,sex_ratio_printed,110.1,jp_estat table 3.23 p.70
+japan_daily,1966-01-11,total,4345,jp_estat table 3.25 p.72
+japan_daily,1966-01-11,boys,2213,jp_estat table 3.25 p.72
+japan_daily,1966-01-11,girls,2132,jp_estat table 3.25 p.72
+japan_daily,1966-01-11,sex_ratio_printed,103.8,jp_estat table 3.23 p.70
+japan_daily,1966-01-12,total,4211,jp_estat table 3.25 p.72
+japan_daily,1966-01-12,boys,2217,jp_estat table 3.25 p.72
+japan_daily,1966-01-12,girls,1994,jp_estat table 3.25 p.72
+japan_daily,1966-01-12,sex_ratio_printed,111.2,jp_estat table 3.23 p.70
+japan_daily,1966-01-13,total,3969,jp_estat table 3.25 p.72
+japan_daily,1966-01-13,boys,1984,jp_estat table 3.25 p.72
+japan_daily,1966-01-13,girls,1985,jp_estat table 3.25 p.72
+japan_daily,1966-01-13,sex_ratio_printed,99.9,jp_estat table 3.23 p.70
+japan_daily,1966-01-14,total,4011,jp_estat table 3.25 p.72
+japan_daily,1966-01-14,boys,2076,jp_estat table 3.25 p.72
+japan_daily,1966-01-14,girls,1935,jp_estat table 3.25 p.72
+japan_daily,1966-01-14,sex_ratio_printed,107.3,jp_estat table 3.23 p.70
+japan_daily,1966-01-15,total,4200,jp_estat table 3.25 p.72
+japan_daily,1966-01-15,boys,2193,jp_estat table 3.25 p.72
+japan_daily,1966-01-15,girls,2007,jp_estat table 3.25 p.72
+japan_daily,1966-01-15,sex_ratio_printed,109.3,jp_estat table 3.23 p.70
+japan_daily,1966-01-16,total,3615,jp_estat table 3.25 p.72
+japan_daily,1966-01-16,boys,1851,jp_estat table 3.25 p.72
+japan_daily,1966-01-16,girls,1764,jp_estat table 3.25 p.72
+japan_daily,1966-01-16,sex_ratio_printed,104.9,jp_estat table 3.23 p.70
+japan_daily,1966-01-17,total,4018,jp_estat table 3.25 p.72
+japan_daily,1966-01-17,boys,2081,jp_estat table 3.25 p.72
+japan_daily,1966-01-17,girls,1937,jp_estat table 3.25 p.72
+japan_daily,1966-01-17,sex_ratio_printed,107.4,jp_estat table 3.23 p.70
+japan_daily,1966-01-18,total,4443,jp_estat table 3.25 p.72
+japan_daily,1966-01-18,boys,2289,jp_estat table 3.25 p.72
+japan_daily,1966-01-18,girls,2154,jp_estat table 3.25 p.72
+japan_daily,1966-01-18,sex_ratio_printed,106.3,jp_estat table 3.23 p.70
+japan_daily,1966-01-19,total,4059,jp_estat table 3.25 p.72
+japan_daily,1966-01-19,boys,2081,jp_estat table 3.25 p.72
+japan_daily,1966-01-19,girls,1978,jp_estat table 3.25 p.72
+japan_daily,1966-01-19,sex_ratio_printed,105.2,jp_estat table 3.23 p.70
+japan_daily,1966-01-20,total,4190,jp_estat table 3.25 p.72
+japan_daily,1966-01-20,boys,2126,jp_estat table 3.25 p.72
+japan_daily,1966-01-20,girls,2064,jp_estat table 3.25 p.72
+japan_daily,1966-01-20,sex_ratio_printed,103.0,jp_estat table 3.23 p.70
+japan_daily,1966-01 days 21-31,total,44735,jp_estat table 3.25 p.72
+japan_daily,1966-01 days 21-31,boys,22799,jp_estat table 3.25 p.72
+japan_daily,1966-01 days 21-31,girls,21936,jp_estat table 3.25 p.72
+japan_daily,1966-01 days 21-31,sex_ratio_printed,103.9,jp_estat table 3.23 p.70
+japan_daily,1966-01,total,121967,jp_estat table 3.25 p.72
+japan_daily,1966-01,boys,64084,jp_estat table 3.25 p.72
+japan_daily,1966-01,girls,57883,jp_estat table 3.25 p.72
+japan_daily,1966-01,sex_ratio_printed,110.7,jp_estat table 3.23 p.70
+japan_daily,1966-12-21,total,4651,jp_estat table 3.26 p.73
+japan_daily,1966-12-21,boys,2491,jp_estat table 3.26 p.73
+japan_daily,1966-12-21,girls,2160,jp_estat table 3.26 p.73
+japan_daily,1966-12-21,sex_ratio_printed,115.3,jp_estat table 3.23 p.70
+japan_daily,1966-12-22,total,4559,jp_estat table 3.26 p.73
+japan_daily,1966-12-22,boys,2456,jp_estat table 3.26 p.73
+japan_daily,1966-12-22,girls,2103,jp_estat table 3.26 p.73
+japan_daily,1966-12-22,sex_ratio_printed,116.8,jp_estat table 3.23 p.70
+japan_daily,1966-12-23,total,4701,jp_estat table 3.26 p.73
+japan_daily,1966-12-23,boys,2593,jp_estat table 3.26 p.73
+japan_daily,1966-12-23,girls,2108,jp_estat table 3.26 p.73
+japan_daily,1966-12-23,sex_ratio_printed,123.0,jp_estat table 3.23 p.70
+japan_daily,1966-12-24,total,4511,jp_estat table 3.26 p.73
+japan_daily,1966-12-24,boys,2488,jp_estat table 3.26 p.73
+japan_daily,1966-12-24,girls,2023,jp_estat table 3.26 p.73
+japan_daily,1966-12-24,sex_ratio_printed,123.0,jp_estat table 3.23 p.70
+japan_daily,1966-12-25,total,4232,jp_estat table 3.26 p.73
+japan_daily,1966-12-25,boys,2411,jp_estat table 3.26 p.73
+japan_daily,1966-12-25,girls,1821,jp_estat table 3.26 p.73
+japan_daily,1966-12-25,sex_ratio_printed,132.4,jp_estat table 3.23 p.70
+japan_daily,1966-12-26,total,4338,jp_estat table 3.26 p.73
+japan_daily,1966-12-26,boys,2462,jp_estat table 3.26 p.73
+japan_daily,1966-12-26,girls,1876,jp_estat table 3.26 p.73
+japan_daily,1966-12-26,sex_ratio_printed,131.2,jp_estat table 3.23 p.70
+japan_daily,1966-12-27,total,4253,jp_estat table 3.26 p.73
+japan_daily,1966-12-27,boys,2530,jp_estat table 3.26 p.73
+japan_daily,1966-12-27,girls,1723,jp_estat table 3.26 p.73
+japan_daily,1966-12-27,sex_ratio_printed,146.8,jp_estat table 3.23 p.70
+japan_daily,1966-12-28,total,3964,jp_estat table 3.26 p.73
+japan_daily,1966-12-28,boys,2425,jp_estat table 3.26 p.73
+japan_daily,1966-12-28,girls,1539,jp_estat table 3.26 p.73
+japan_daily,1966-12-28,sex_ratio_printed,157.6,jp_estat table 3.23 p.70
+japan_daily,1966-12-29,total,3484,jp_estat table 3.26 p.73
+japan_daily,1966-12-29,boys,2124,jp_estat table 3.26 p.73
+japan_daily,1966-12-29,girls,1360,jp_estat table 3.26 p.73
+japan_daily,1966-12-29,sex_ratio_printed,156.2,jp_estat table 3.23 p.70
+japan_daily,1966-12-30,total,3301,jp_estat table 3.26 p.73
+japan_daily,1966-12-30,boys,2061,jp_estat table 3.26 p.73
+japan_daily,1966-12-30,girls,1240,jp_estat table 3.26 p.73
+japan_daily,1966-12-30,sex_ratio_printed,166.2,jp_estat table 3.23 p.70
+japan_daily,1966-12-31,total,2438,jp_estat table 3.26 p.73
+japan_daily,1966-12-31,boys,1620,jp_estat table 3.26 p.73
+japan_daily,1966-12-31,girls,818,jp_estat table 3.26 p.73
+japan_daily,1966-12-31,sex_ratio_printed,198.0,jp_estat table 3.23 p.70
+japan_daily,1966-12 days 1-20,total,88670,jp_estat table 3.26 p.73
+japan_daily,1966-12 days 1-20,boys,46164,jp_estat table 3.26 p.73
+japan_daily,1966-12 days 1-20,girls,42506,jp_estat table 3.26 p.73
+japan_daily,1966-12 days 1-20,sex_ratio_printed,108.6,jp_estat table 3.23 p.70
+japan_daily,1966-12,total,133102,jp_estat table 3.26 p.73
+japan_daily,1966-12,boys,71825,jp_estat table 3.26 p.73
+japan_daily,1966-12,girls,61277,jp_estat table 3.26 p.73
+japan_daily,1966-12,sex_ratio_printed,117.2,jp_estat table 3.23 p.70
+japan_daily,1967-01-01,total,10123,jp_estat table 3.27 p.74
+japan_daily,1967-01-01,boys,4236,jp_estat table 3.27 p.74
+japan_daily,1967-01-01,girls,5887,jp_estat table 3.27 p.74
+japan_daily,1967-01-01,sex_ratio_printed,72.0,jp_estat table 3.23 p.70
+japan_daily,1967-01-02,total,8681,jp_estat table 3.27 p.74
+japan_daily,1967-01-02,boys,3107,jp_estat table 3.27 p.74
+japan_daily,1967-01-02,girls,5574,jp_estat table 3.27 p.74
+japan_daily,1967-01-02,sex_ratio_printed,55.7,jp_estat table 3.23 p.70
+japan_daily,1967-01-03,total,6501,jp_estat table 3.27 p.74
+japan_daily,1967-01-03,boys,2879,jp_estat table 3.27 p.74
+japan_daily,1967-01-03,girls,3622,jp_estat table 3.27 p.74
+japan_daily,1967-01-03,sex_ratio_printed,79.5,jp_estat table 3.23 p.70
+japan_daily,1967-01-04,total,5148,jp_estat table 3.27 p.74
+japan_daily,1967-01-04,boys,2599,jp_estat table 3.27 p.74
+japan_daily,1967-01-04,girls,2549,jp_estat table 3.27 p.74
+japan_daily,1967-01-04,sex_ratio_printed,102.0,jp_estat table 3.23 p.70
+japan_daily,1967-01-05,total,6610,jp_estat table 3.27 p.74
+japan_daily,1967-01-05,boys,3068,jp_estat table 3.27 p.74
+japan_daily,1967-01-05,girls,3542,jp_estat table 3.27 p.74
+japan_daily,1967-01-05,sex_ratio_printed,86.6,jp_estat table 3.23 p.70
+japan_daily,1967-01-06,total,5685,jp_estat table 3.27 p.74
+japan_daily,1967-01-06,boys,2886,jp_estat table 3.27 p.74
+japan_daily,1967-01-06,girls,2799,jp_estat table 3.27 p.74
+japan_daily,1967-01-06,sex_ratio_printed,103.1,jp_estat table 3.23 p.70
+japan_daily,1967-01-07,total,5909,jp_estat table 3.27 p.74
+japan_daily,1967-01-07,boys,3027,jp_estat table 3.27 p.74
+japan_daily,1967-01-07,girls,2882,jp_estat table 3.27 p.74
+japan_daily,1967-01-07,sex_ratio_printed,105.0,jp_estat table 3.23 p.70
+japan_daily,1967-01-08,total,5392,jp_estat table 3.27 p.74
+japan_daily,1967-01-08,boys,2775,jp_estat table 3.27 p.74
+japan_daily,1967-01-08,girls,2617,jp_estat table 3.27 p.74
+japan_daily,1967-01-08,sex_ratio_printed,106.0,jp_estat table 3.23 p.70
+japan_daily,1967-01-09,total,5409,jp_estat table 3.27 p.74
+japan_daily,1967-01-09,boys,2796,jp_estat table 3.27 p.74
+japan_daily,1967-01-09,girls,2613,jp_estat table 3.27 p.74
+japan_daily,1967-01-09,sex_ratio_printed,107.0,jp_estat table 3.23 p.70
+japan_daily,1967-01-10,total,6212,jp_estat table 3.27 p.74
+japan_daily,1967-01-10,boys,3145,jp_estat table 3.27 p.74
+japan_daily,1967-01-10,girls,3067,jp_estat table 3.27 p.74
+japan_daily,1967-01-10,sex_ratio_printed,102.5,jp_estat table 3.23 p.70
+japan_daily,1967-01-11,total,5802,jp_estat table 3.27 p.74
+japan_daily,1967-01-11,boys,2967,jp_estat table 3.27 p.74
+japan_daily,1967-01-11,girls,2835,jp_estat table 3.27 p.74
+japan_daily,1967-01-11,sex_ratio_printed,104.7,jp_estat table 3.23 p.70
+japan_daily,1967-01-12,total,5958,jp_estat table 3.27 p.74
+japan_daily,1967-01-12,boys,3123,jp_estat table 3.27 p.74
+japan_daily,1967-01-12,girls,2835,jp_estat table 3.27 p.74
+japan_daily,1967-01-12,sex_ratio_printed,110.2,jp_estat table 3.23 p.70
+japan_daily,1967-01-13,total,5963,jp_estat table 3.27 p.74
+japan_daily,1967-01-13,boys,3051,jp_estat table 3.27 p.74
+japan_daily,1967-01-13,girls,2912,jp_estat table 3.27 p.74
+japan_daily,1967-01-13,sex_ratio_printed,104.8,jp_estat table 3.23 p.70
+japan_daily,1967-01-14,total,5554,jp_estat table 3.27 p.74
+japan_daily,1967-01-14,boys,2918,jp_estat table 3.27 p.74
+japan_daily,1967-01-14,girls,2636,jp_estat table 3.27 p.74
+japan_daily,1967-01-14,sex_ratio_printed,110.7,jp_estat table 3.23 p.70
+japan_daily,1967-01-15,total,5763,jp_estat table 3.27 p.74
+japan_daily,1967-01-15,boys,3036,jp_estat table 3.27 p.74
+japan_daily,1967-01-15,girls,2727,jp_estat table 3.27 p.74
+japan_daily,1967-01-15,sex_ratio_printed,111.3,jp_estat table 3.23 p.70
+japan_daily,1967-01-16,total,5620,jp_estat table 3.27 p.74
+japan_daily,1967-01-16,boys,2878,jp_estat table 3.27 p.74
+japan_daily,1967-01-16,girls,2742,jp_estat table 3.27 p.74
+japan_daily,1967-01-16,sex_ratio_printed,105.0,jp_estat table 3.23 p.70
+japan_daily,1967-01-17,total,6027,jp_estat table 3.27 p.74
+japan_daily,1967-01-17,boys,3056,jp_estat table 3.27 p.74
+japan_daily,1967-01-17,girls,2971,jp_estat table 3.27 p.74
+japan_daily,1967-01-17,sex_ratio_printed,102.9,jp_estat table 3.23 p.70
+japan_daily,1967-01-18,total,6193,jp_estat table 3.27 p.74
+japan_daily,1967-01-18,boys,3174,jp_estat table 3.27 p.74
+japan_daily,1967-01-18,girls,3019,jp_estat table 3.27 p.74
+japan_daily,1967-01-18,sex_ratio_printed,105.1,jp_estat table 3.23 p.70
+japan_daily,1967-01-19,total,6104,jp_estat table 3.27 p.74
+japan_daily,1967-01-19,boys,3122,jp_estat table 3.27 p.74
+japan_daily,1967-01-19,girls,2982,jp_estat table 3.27 p.74
+japan_daily,1967-01-19,sex_ratio_printed,104.7,jp_estat table 3.23 p.70
+japan_daily,1967-01-20,total,6378,jp_estat table 3.27 p.74
+japan_daily,1967-01-20,boys,3298,jp_estat table 3.27 p.74
+japan_daily,1967-01-20,girls,3080,jp_estat table 3.27 p.74
+japan_daily,1967-01-20,sex_ratio_printed,107.1,jp_estat table 3.23 p.70
+japan_daily,1967-01 days 21-31,total,65091,jp_estat table 3.27 p.74
+japan_daily,1967-01 days 21-31,boys,33419,jp_estat table 3.27 p.74
+japan_daily,1967-01 days 21-31,girls,31672,jp_estat table 3.27 p.74
+japan_daily,1967-01 days 21-31,sex_ratio_printed,105.5,jp_estat table 3.23 p.70
+japan_daily,1967-01,total,190123,jp_estat table 3.27 p.74
+japan_daily,1967-01,boys,94560,jp_estat table 3.27 p.74
+japan_daily,1967-01,girls,95563,jp_estat table 3.27 p.74
+japan_daily,1967-01,sex_ratio_printed,99.0,jp_estat table 3.23 p.70
+japan_annual,1899,births,1386981,jp_estat table 4.1
+japan_annual,1899,boys,713442,jp_estat table 4.1
+japan_annual,1899,girls,673539,jp_estat table 4.1
+japan_annual,1899,sex_ratio,105.9,jp_estat table 4.1
+japan_annual,1900,births,1420534,jp_estat table 4.1
+japan_annual,1900,boys,727916,jp_estat table 4.1
+japan_annual,1900,girls,692618,jp_estat table 4.1
+japan_annual,1900,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,1901,births,1501591,jp_estat table 4.1
+japan_annual,1901,boys,769494,jp_estat table 4.1
+japan_annual,1901,girls,732097,jp_estat table 4.1
+japan_annual,1901,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,1902,births,1510835,jp_estat table 4.1
+japan_annual,1902,boys,773296,jp_estat table 4.1
+japan_annual,1902,girls,737539,jp_estat table 4.1
+japan_annual,1902,sex_ratio,104.8,jp_estat table 4.1
+japan_annual,1903,births,1489816,jp_estat table 4.1
+japan_annual,1903,boys,763806,jp_estat table 4.1
+japan_annual,1903,girls,726010,jp_estat table 4.1
+japan_annual,1903,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,1904,births,1440371,jp_estat table 4.1
+japan_annual,1904,boys,738230,jp_estat table 4.1
+japan_annual,1904,girls,702141,jp_estat table 4.1
+japan_annual,1904,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,1905,births,1452770,jp_estat table 4.1
+japan_annual,1905,boys,735948,jp_estat table 4.1
+japan_annual,1905,girls,716822,jp_estat table 4.1
+japan_annual,1905,sex_ratio,102.7,jp_estat table 4.1
+japan_annual,1906,births,1394295,jp_estat table 4.1
+japan_annual,1906,boys,726155,jp_estat table 4.1
+japan_annual,1906,girls,668140,jp_estat table 4.1
+japan_annual,1906,sex_ratio,108.7,jp_estat table 4.1
+japan_annual,1907,births,1614472,jp_estat table 4.1
+japan_annual,1907,boys,818114,jp_estat table 4.1
+japan_annual,1907,girls,796358,jp_estat table 4.1
+japan_annual,1907,sex_ratio,102.7,jp_estat table 4.1
+japan_annual,1908,births,1662815,jp_estat table 4.1
+japan_annual,1908,boys,850209,jp_estat table 4.1
+japan_annual,1908,girls,812606,jp_estat table 4.1
+japan_annual,1908,sex_ratio,104.6,jp_estat table 4.1
+japan_annual,1909,births,1693850,jp_estat table 4.1
+japan_annual,1909,boys,863855,jp_estat table 4.1
+japan_annual,1909,girls,829995,jp_estat table 4.1
+japan_annual,1909,sex_ratio,104.1,jp_estat table 4.1
+japan_annual,1910,births,1712857,jp_estat table 4.1
+japan_annual,1910,boys,872779,jp_estat table 4.1
+japan_annual,1910,girls,840078,jp_estat table 4.1
+japan_annual,1910,sex_ratio,103.9,jp_estat table 4.1
+japan_annual,1911,births,1747803,jp_estat table 4.1
+japan_annual,1911,boys,891049,jp_estat table 4.1
+japan_annual,1911,girls,856754,jp_estat table 4.1
+japan_annual,1911,sex_ratio,104.0,jp_estat table 4.1
+japan_annual,1912,births,1737674,jp_estat table 4.1
+japan_annual,1912,boys,886449,jp_estat table 4.1
+japan_annual,1912,girls,851225,jp_estat table 4.1
+japan_annual,1912,sex_ratio,104.1,jp_estat table 4.1
+japan_annual,1913,births,1757441,jp_estat table 4.1
+japan_annual,1913,boys,897824,jp_estat table 4.1
+japan_annual,1913,girls,859617,jp_estat table 4.1
+japan_annual,1913,sex_ratio,104.4,jp_estat table 4.1
+japan_annual,1914,births,1808402,jp_estat table 4.1
+japan_annual,1914,boys,925855,jp_estat table 4.1
+japan_annual,1914,girls,882547,jp_estat table 4.1
+japan_annual,1914,sex_ratio,104.9,jp_estat table 4.1
+japan_annual,1915,births,1799326,jp_estat table 4.1
+japan_annual,1915,boys,918296,jp_estat table 4.1
+japan_annual,1915,girls,881030,jp_estat table 4.1
+japan_annual,1915,sex_ratio,104.2,jp_estat table 4.1
+japan_annual,1916,births,1804822,jp_estat table 4.1
+japan_annual,1916,boys,921347,jp_estat table 4.1
+japan_annual,1916,girls,883475,jp_estat table 4.1
+japan_annual,1916,sex_ratio,104.3,jp_estat table 4.1
+japan_annual,1917,births,1812413,jp_estat table 4.1
+japan_annual,1917,boys,924953,jp_estat table 4.1
+japan_annual,1917,girls,887460,jp_estat table 4.1
+japan_annual,1917,sex_ratio,104.2,jp_estat table 4.1
+japan_annual,1918,births,1791992,jp_estat table 4.1
+japan_annual,1918,boys,914685,jp_estat table 4.1
+japan_annual,1918,girls,877307,jp_estat table 4.1
+japan_annual,1918,sex_ratio,104.3,jp_estat table 4.1
+japan_annual,1919,births,1778685,jp_estat table 4.1
+japan_annual,1919,boys,910400,jp_estat table 4.1
+japan_annual,1919,girls,868285,jp_estat table 4.1
+japan_annual,1919,sex_ratio,104.9,jp_estat table 4.1
+japan_annual,1920,births,2025564,jp_estat table 4.1
+japan_annual,1920,boys,1035134,jp_estat table 4.1
+japan_annual,1920,girls,990430,jp_estat table 4.1
+japan_annual,1920,sex_ratio,104.5,jp_estat table 4.1
+japan_annual,1921,births,1990876,jp_estat table 4.1
+japan_annual,1921,boys,1017457,jp_estat table 4.1
+japan_annual,1921,girls,973419,jp_estat table 4.1
+japan_annual,1921,sex_ratio,104.5,jp_estat table 4.1
+japan_annual,1922,births,1969314,jp_estat table 4.1
+japan_annual,1922,boys,1004022,jp_estat table 4.1
+japan_annual,1922,girls,965292,jp_estat table 4.1
+japan_annual,1922,sex_ratio,104.0,jp_estat table 4.1
+japan_annual,1923,births,2043297,jp_estat table 4.1
+japan_annual,1923,boys,1043599,jp_estat table 4.1
+japan_annual,1923,girls,999698,jp_estat table 4.1
+japan_annual,1923,sex_ratio,104.4,jp_estat table 4.1
+japan_annual,1924,births,1998520,jp_estat table 4.1
+japan_annual,1924,boys,1019988,jp_estat table 4.1
+japan_annual,1924,girls,978532,jp_estat table 4.1
+japan_annual,1924,sex_ratio,104.2,jp_estat table 4.1
+japan_annual,1925,births,2086091,jp_estat table 4.1
+japan_annual,1925,boys,1060827,jp_estat table 4.1
+japan_annual,1925,girls,1025264,jp_estat table 4.1
+japan_annual,1925,sex_ratio,103.5,jp_estat table 4.1
+japan_annual,1926,births,2104405,jp_estat table 4.1
+japan_annual,1926,boys,1081793,jp_estat table 4.1
+japan_annual,1926,girls,1022611,jp_estat table 4.1
+japan_annual,1926,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,1927,births,2060737,jp_estat table 4.1
+japan_annual,1927,boys,1048946,jp_estat table 4.1
+japan_annual,1927,girls,1011791,jp_estat table 4.1
+japan_annual,1927,sex_ratio,103.7,jp_estat table 4.1
+japan_annual,1928,births,2135852,jp_estat table 4.1
+japan_annual,1928,boys,1090702,jp_estat table 4.1
+japan_annual,1928,girls,1045150,jp_estat table 4.1
+japan_annual,1928,sex_ratio,104.4,jp_estat table 4.1
+japan_annual,1929,births,2077026,jp_estat table 4.1
+japan_annual,1929,boys,1058666,jp_estat table 4.1
+japan_annual,1929,girls,1018360,jp_estat table 4.1
+japan_annual,1929,sex_ratio,104.0,jp_estat table 4.1
+japan_annual,1930,births,2085101,jp_estat table 4.1
+japan_annual,1930,boys,1069551,jp_estat table 4.1
+japan_annual,1930,girls,1015549,jp_estat table 4.1
+japan_annual,1930,sex_ratio,105.3,jp_estat table 4.1
+japan_annual,1931,births,2102784,jp_estat table 4.1
+japan_annual,1931,boys,1073385,jp_estat table 4.1
+japan_annual,1931,girls,1029399,jp_estat table 4.1
+japan_annual,1931,sex_ratio,104.3,jp_estat table 4.1
+japan_annual,1932,births,2182742,jp_estat table 4.1
+japan_annual,1932,boys,1117954,jp_estat table 4.1
+japan_annual,1932,girls,1064788,jp_estat table 4.1
+japan_annual,1932,sex_ratio,105.0,jp_estat table 4.1
+japan_annual,1933,births,2121253,jp_estat table 4.1
+japan_annual,1933,boys,1087688,jp_estat table 4.1
+japan_annual,1933,girls,1033565,jp_estat table 4.1
+japan_annual,1933,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,1934,births,2043783,jp_estat table 4.1
+japan_annual,1934,boys,1042736,jp_estat table 4.1
+japan_annual,1934,girls,1001047,jp_estat table 4.1
+japan_annual,1934,sex_ratio,104.2,jp_estat table 4.1
+japan_annual,1935,births,2190704,jp_estat table 4.1
+japan_annual,1935,boys,1122867,jp_estat table 4.1
+japan_annual,1935,girls,1067836,jp_estat table 4.1
+japan_annual,1935,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,1936,births,2101969,jp_estat table 4.1
+japan_annual,1936,boys,1076197,jp_estat table 4.1
+japan_annual,1936,girls,1025772,jp_estat table 4.1
+japan_annual,1936,sex_ratio,104.9,jp_estat table 4.1
+japan_annual,1937,births,2180734,jp_estat table 4.1
+japan_annual,1937,boys,1116154,jp_estat table 4.1
+japan_annual,1937,girls,1064580,jp_estat table 4.1
+japan_annual,1937,sex_ratio,104.8,jp_estat table 4.1
+japan_annual,1938,births,1928321,jp_estat table 4.1
+japan_annual,1938,boys,990888,jp_estat table 4.1
+japan_annual,1938,girls,937433,jp_estat table 4.1
+japan_annual,1938,sex_ratio,105.7,jp_estat table 4.1
+japan_annual,1939,births,1901573,jp_estat table 4.1
+japan_annual,1939,boys,973744,jp_estat table 4.1
+japan_annual,1939,girls,927829,jp_estat table 4.1
+japan_annual,1939,sex_ratio,104.9,jp_estat table 4.1
+japan_annual,1940,births,2115867,jp_estat table 4.1
+japan_annual,1940,boys,1084282,jp_estat table 4.1
+japan_annual,1940,girls,1031585,jp_estat table 4.1
+japan_annual,1940,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,1941,births,2277283,jp_estat table 4.1
+japan_annual,1941,boys,1165437,jp_estat table 4.1
+japan_annual,1941,girls,1111846,jp_estat table 4.1
+japan_annual,1941,sex_ratio,104.8,jp_estat table 4.1
+japan_annual,1942,births,2233660,jp_estat table 4.1
+japan_annual,1942,boys,1145068,jp_estat table 4.1
+japan_annual,1942,girls,1088592,jp_estat table 4.1
+japan_annual,1942,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,1943,births,2253535,jp_estat table 4.1
+japan_annual,1943,boys,1155983,jp_estat table 4.1
+japan_annual,1943,girls,1097552,jp_estat table 4.1
+japan_annual,1943,sex_ratio,105.3,jp_estat table 4.1
+japan_annual,1947,births,2678792,jp_estat table 4.1
+japan_annual,1947,boys,1376986,jp_estat table 4.1
+japan_annual,1947,girls,1301806,jp_estat table 4.1
+japan_annual,1947,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,1948,births,2681624,jp_estat table 4.1
+japan_annual,1948,boys,1378564,jp_estat table 4.1
+japan_annual,1948,girls,1303060,jp_estat table 4.1
+japan_annual,1948,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,1949,births,2696638,jp_estat table 4.1
+japan_annual,1949,boys,1380008,jp_estat table 4.1
+japan_annual,1949,girls,1316630,jp_estat table 4.1
+japan_annual,1949,sex_ratio,104.8,jp_estat table 4.1
+japan_annual,1950,births,2337507,jp_estat table 4.1
+japan_annual,1950,boys,1203111,jp_estat table 4.1
+japan_annual,1950,girls,1134396,jp_estat table 4.1
+japan_annual,1950,sex_ratio,106.1,jp_estat table 4.1
+japan_annual,1951,births,2137689,jp_estat table 4.1
+japan_annual,1951,boys,1094641,jp_estat table 4.1
+japan_annual,1951,girls,1043048,jp_estat table 4.1
+japan_annual,1951,sex_ratio,104.9,jp_estat table 4.1
+japan_annual,1952,births,2005162,jp_estat table 4.1
+japan_annual,1952,boys,1028061,jp_estat table 4.1
+japan_annual,1952,girls,977101,jp_estat table 4.1
+japan_annual,1952,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,1953,births,1868040,jp_estat table 4.1
+japan_annual,1953,boys,957524,jp_estat table 4.1
+japan_annual,1953,girls,910516,jp_estat table 4.1
+japan_annual,1953,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,1954,births,1769580,jp_estat table 4.1
+japan_annual,1954,boys,911212,jp_estat table 4.1
+japan_annual,1954,girls,858368,jp_estat table 4.1
+japan_annual,1954,sex_ratio,106.2,jp_estat table 4.1
+japan_annual,1955,births,1730692,jp_estat table 4.1
+japan_annual,1955,boys,889670,jp_estat table 4.1
+japan_annual,1955,girls,841022,jp_estat table 4.1
+japan_annual,1955,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,1956,births,1665278,jp_estat table 4.1
+japan_annual,1956,boys,856084,jp_estat table 4.1
+japan_annual,1956,girls,809194,jp_estat table 4.1
+japan_annual,1956,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,1957,births,1566713,jp_estat table 4.1
+japan_annual,1957,boys,805220,jp_estat table 4.1
+japan_annual,1957,girls,761493,jp_estat table 4.1
+japan_annual,1957,sex_ratio,105.7,jp_estat table 4.1
+japan_annual,1958,births,1653469,jp_estat table 4.1
+japan_annual,1958,boys,848733,jp_estat table 4.1
+japan_annual,1958,girls,804736,jp_estat table 4.1
+japan_annual,1958,sex_ratio,105.5,jp_estat table 4.1
+japan_annual,1959,births,1626088,jp_estat table 4.1
+japan_annual,1959,boys,835822,jp_estat table 4.1
+japan_annual,1959,girls,790266,jp_estat table 4.1
+japan_annual,1959,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,1960,births,1606041,jp_estat table 4.1
+japan_annual,1960,boys,824761,jp_estat table 4.1
+japan_annual,1960,girls,781280,jp_estat table 4.1
+japan_annual,1960,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,1961,births,1589372,jp_estat table 4.1
+japan_annual,1961,boys,817599,jp_estat table 4.1
+japan_annual,1961,girls,771773,jp_estat table 4.1
+japan_annual,1961,sex_ratio,105.9,jp_estat table 4.1
+japan_annual,1962,births,1618616,jp_estat table 4.1
+japan_annual,1962,boys,833269,jp_estat table 4.1
+japan_annual,1962,girls,785347,jp_estat table 4.1
+japan_annual,1962,sex_ratio,106.1,jp_estat table 4.1
+japan_annual,1963,births,1659521,jp_estat table 4.1
+japan_annual,1963,boys,852561,jp_estat table 4.1
+japan_annual,1963,girls,806960,jp_estat table 4.1
+japan_annual,1963,sex_ratio,105.7,jp_estat table 4.1
+japan_annual,1964,births,1716761,jp_estat table 4.1
+japan_annual,1964,boys,882924,jp_estat table 4.1
+japan_annual,1964,girls,833837,jp_estat table 4.1
+japan_annual,1964,sex_ratio,105.9,jp_estat table 4.1
+japan_annual,1965,births,1823697,jp_estat table 4.1
+japan_annual,1965,boys,935366,jp_estat table 4.1
+japan_annual,1965,girls,888331,jp_estat table 4.1
+japan_annual,1965,sex_ratio,105.3,jp_estat table 4.1
+japan_annual,1966,births,1360974,jp_estat table 4.1
+japan_annual,1966,boys,705463,jp_estat table 4.1
+japan_annual,1966,girls,655511,jp_estat table 4.1
+japan_annual,1966,sex_ratio,107.6,jp_estat table 4.1
+japan_annual,1967,births,1935647,jp_estat table 4.1
+japan_annual,1967,boys,992778,jp_estat table 4.1
+japan_annual,1967,girls,942869,jp_estat table 4.1
+japan_annual,1967,sex_ratio,105.3,jp_estat table 4.1
+japan_annual,1968,births,1871839,jp_estat table 4.1
+japan_annual,1968,boys,967996,jp_estat table 4.1
+japan_annual,1968,girls,903843,jp_estat table 4.1
+japan_annual,1968,sex_ratio,107.1,jp_estat table 4.1
+japan_annual,1969,births,1889815,jp_estat table 4.1
+japan_annual,1969,boys,977687,jp_estat table 4.1
+japan_annual,1969,girls,912128,jp_estat table 4.1
+japan_annual,1969,sex_ratio,107.2,jp_estat table 4.1
+japan_annual,1970,births,1934239,jp_estat table 4.1
+japan_annual,1970,boys,1000403,jp_estat table 4.1
+japan_annual,1970,girls,933836,jp_estat table 4.1
+japan_annual,1970,sex_ratio,107.1,jp_estat table 4.1
+japan_annual,1971,births,2000973,jp_estat table 4.1
+japan_annual,1971,boys,1032937,jp_estat table 4.1
+japan_annual,1971,girls,968036,jp_estat table 4.1
+japan_annual,1971,sex_ratio,106.7,jp_estat table 4.1
+japan_annual,1972,births,2038682,jp_estat table 4.1
+japan_annual,1972,boys,1051389,jp_estat table 4.1
+japan_annual,1972,girls,987293,jp_estat table 4.1
+japan_annual,1972,sex_ratio,106.5,jp_estat table 4.1
+japan_annual,1973,births,2091983,jp_estat table 4.1
+japan_annual,1973,boys,1077517,jp_estat table 4.1
+japan_annual,1973,girls,1014466,jp_estat table 4.1
+japan_annual,1973,sex_ratio,106.2,jp_estat table 4.1
+japan_annual,1974,births,2029989,jp_estat table 4.1
+japan_annual,1974,boys,1046538,jp_estat table 4.1
+japan_annual,1974,girls,983451,jp_estat table 4.1
+japan_annual,1974,sex_ratio,106.4,jp_estat table 4.1
+japan_annual,1975,births,1901440,jp_estat table 4.1
+japan_annual,1975,boys,979091,jp_estat table 4.1
+japan_annual,1975,girls,922349,jp_estat table 4.1
+japan_annual,1975,sex_ratio,106.2,jp_estat table 4.1
+japan_annual,1976,births,1832617,jp_estat table 4.1
+japan_annual,1976,boys,943829,jp_estat table 4.1
+japan_annual,1976,girls,888788,jp_estat table 4.1
+japan_annual,1976,sex_ratio,106.2,jp_estat table 4.1
+japan_annual,1977,births,1755100,jp_estat table 4.1
+japan_annual,1977,boys,903380,jp_estat table 4.1
+japan_annual,1977,girls,851720,jp_estat table 4.1
+japan_annual,1977,sex_ratio,106.1,jp_estat table 4.1
+japan_annual,1978,births,1708643,jp_estat table 4.1
+japan_annual,1978,boys,879149,jp_estat table 4.1
+japan_annual,1978,girls,829494,jp_estat table 4.1
+japan_annual,1978,sex_ratio,106.0,jp_estat table 4.1
+japan_annual,1979,births,1642580,jp_estat table 4.1
+japan_annual,1979,boys,845884,jp_estat table 4.1
+japan_annual,1979,girls,796696,jp_estat table 4.1
+japan_annual,1979,sex_ratio,106.2,jp_estat table 4.1
+japan_annual,1980,births,1576889,jp_estat table 4.1
+japan_annual,1980,boys,811418,jp_estat table 4.1
+japan_annual,1980,girls,765471,jp_estat table 4.1
+japan_annual,1980,sex_ratio,106.0,jp_estat table 4.1
+japan_annual,1981,births,1529455,jp_estat table 4.1
+japan_annual,1981,boys,786596,jp_estat table 4.1
+japan_annual,1981,girls,742859,jp_estat table 4.1
+japan_annual,1981,sex_ratio,105.9,jp_estat table 4.1
+japan_annual,1982,births,1515392,jp_estat table 4.1
+japan_annual,1982,boys,777855,jp_estat table 4.1
+japan_annual,1982,girls,737537,jp_estat table 4.1
+japan_annual,1982,sex_ratio,105.5,jp_estat table 4.1
+japan_annual,1983,births,1508687,jp_estat table 4.1
+japan_annual,1983,boys,775206,jp_estat table 4.1
+japan_annual,1983,girls,733481,jp_estat table 4.1
+japan_annual,1983,sex_ratio,105.7,jp_estat table 4.1
+japan_annual,1984,births,1489780,jp_estat table 4.1
+japan_annual,1984,boys,764597,jp_estat table 4.1
+japan_annual,1984,girls,725183,jp_estat table 4.1
+japan_annual,1984,sex_ratio,105.4,jp_estat table 4.1
+japan_annual,1985,births,1431577,jp_estat table 4.1
+japan_annual,1985,boys,735284,jp_estat table 4.1
+japan_annual,1985,girls,696293,jp_estat table 4.1
+japan_annual,1985,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,1986,births,1382946,jp_estat table 4.1
+japan_annual,1986,boys,711301,jp_estat table 4.1
+japan_annual,1986,girls,671645,jp_estat table 4.1
+japan_annual,1986,sex_ratio,105.9,jp_estat table 4.1
+japan_annual,1987,births,1346658,jp_estat table 4.1
+japan_annual,1987,boys,692304,jp_estat table 4.1
+japan_annual,1987,girls,654354,jp_estat table 4.1
+japan_annual,1987,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,1988,births,1314006,jp_estat table 4.1
+japan_annual,1988,boys,674883,jp_estat table 4.1
+japan_annual,1988,girls,639123,jp_estat table 4.1
+japan_annual,1988,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,1989,births,1246802,jp_estat table 4.1
+japan_annual,1989,boys,640506,jp_estat table 4.1
+japan_annual,1989,girls,606296,jp_estat table 4.1
+japan_annual,1989,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,1990,births,1221585,jp_estat table 4.1
+japan_annual,1990,boys,626971,jp_estat table 4.1
+japan_annual,1990,girls,594614,jp_estat table 4.1
+japan_annual,1990,sex_ratio,105.4,jp_estat table 4.1
+japan_annual,1991,births,1223245,jp_estat table 4.1
+japan_annual,1991,boys,628615,jp_estat table 4.1
+japan_annual,1991,girls,594630,jp_estat table 4.1
+japan_annual,1991,sex_ratio,105.7,jp_estat table 4.1
+japan_annual,1992,births,1208989,jp_estat table 4.1
+japan_annual,1992,boys,622136,jp_estat table 4.1
+japan_annual,1992,girls,586853,jp_estat table 4.1
+japan_annual,1992,sex_ratio,106.0,jp_estat table 4.1
+japan_annual,1993,births,1188282,jp_estat table 4.1
+japan_annual,1993,boys,610244,jp_estat table 4.1
+japan_annual,1993,girls,578038,jp_estat table 4.1
+japan_annual,1993,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,1994,births,1238328,jp_estat table 4.1
+japan_annual,1994,boys,635915,jp_estat table 4.1
+japan_annual,1994,girls,602413,jp_estat table 4.1
+japan_annual,1994,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,1995,births,1187064,jp_estat table 4.1
+japan_annual,1995,boys,608547,jp_estat table 4.1
+japan_annual,1995,girls,578517,jp_estat table 4.1
+japan_annual,1995,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,1996,births,1206555,jp_estat table 4.1
+japan_annual,1996,boys,619793,jp_estat table 4.1
+japan_annual,1996,girls,586762,jp_estat table 4.1
+japan_annual,1996,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,1997,births,1191665,jp_estat table 4.1
+japan_annual,1997,boys,610905,jp_estat table 4.1
+japan_annual,1997,girls,580760,jp_estat table 4.1
+japan_annual,1997,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,1998,births,1203147,jp_estat table 4.1
+japan_annual,1998,boys,617414,jp_estat table 4.1
+japan_annual,1998,girls,585733,jp_estat table 4.1
+japan_annual,1998,sex_ratio,105.4,jp_estat table 4.1
+japan_annual,1999,births,1177669,jp_estat table 4.1
+japan_annual,1999,boys,604769,jp_estat table 4.1
+japan_annual,1999,girls,572900,jp_estat table 4.1
+japan_annual,1999,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,2000,births,1190547,jp_estat table 4.1
+japan_annual,2000,boys,612148,jp_estat table 4.1
+japan_annual,2000,girls,578399,jp_estat table 4.1
+japan_annual,2000,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,2001,births,1170662,jp_estat table 4.1
+japan_annual,2001,boys,600918,jp_estat table 4.1
+japan_annual,2001,girls,569744,jp_estat table 4.1
+japan_annual,2001,sex_ratio,105.5,jp_estat table 4.1
+japan_annual,2002,births,1153855,jp_estat table 4.1
+japan_annual,2002,boys,592840,jp_estat table 4.1
+japan_annual,2002,girls,561015,jp_estat table 4.1
+japan_annual,2002,sex_ratio,105.7,jp_estat table 4.1
+japan_annual,2003,births,1123610,jp_estat table 4.1
+japan_annual,2003,boys,576736,jp_estat table 4.1
+japan_annual,2003,girls,546874,jp_estat table 4.1
+japan_annual,2003,sex_ratio,105.5,jp_estat table 4.1
+japan_annual,2004,births,1110721,jp_estat table 4.1
+japan_annual,2004,boys,569559,jp_estat table 4.1
+japan_annual,2004,girls,541162,jp_estat table 4.1
+japan_annual,2004,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,2005,births,1062530,jp_estat table 4.1
+japan_annual,2005,boys,545032,jp_estat table 4.1
+japan_annual,2005,girls,517498,jp_estat table 4.1
+japan_annual,2005,sex_ratio,105.3,jp_estat table 4.1
+japan_annual,2006,births,1092674,jp_estat table 4.1
+japan_annual,2006,boys,560439,jp_estat table 4.1
+japan_annual,2006,girls,532235,jp_estat table 4.1
+japan_annual,2006,sex_ratio,105.3,jp_estat table 4.1
+japan_annual,2007,births,1089818,jp_estat table 4.1
+japan_annual,2007,boys,559847,jp_estat table 4.1
+japan_annual,2007,girls,529971,jp_estat table 4.1
+japan_annual,2007,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,2008,births,1091156,jp_estat table 4.1
+japan_annual,2008,boys,559513,jp_estat table 4.1
+japan_annual,2008,girls,531643,jp_estat table 4.1
+japan_annual,2008,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,2009,births,1070036,jp_estat table 4.1
+japan_annual,2009,boys,548994,jp_estat table 4.1
+japan_annual,2009,girls,521042,jp_estat table 4.1
+japan_annual,2009,sex_ratio,105.4,jp_estat table 4.1
+japan_annual,2010,births,1071305,jp_estat table 4.1
+japan_annual,2010,boys,550743,jp_estat table 4.1
+japan_annual,2010,girls,520562,jp_estat table 4.1
+japan_annual,2010,sex_ratio,105.8,jp_estat table 4.1
+japan_annual,2011,births,1050807,jp_estat table 4.1
+japan_annual,2011,boys,538271,jp_estat table 4.1
+japan_annual,2011,girls,512536,jp_estat table 4.1
+japan_annual,2011,sex_ratio,105.0,jp_estat table 4.1
+japan_annual,2012,births,1037232,jp_estat table 4.1
+japan_annual,2012,boys,531781,jp_estat table 4.1
+japan_annual,2012,girls,505451,jp_estat table 4.1
+japan_annual,2012,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,2013,births,1029817,jp_estat table 4.1
+japan_annual,2013,boys,527657,jp_estat table 4.1
+japan_annual,2013,girls,502160,jp_estat table 4.1
+japan_annual,2013,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,2014,births,1003609,jp_estat table 4.1
+japan_annual,2014,boys,515572,jp_estat table 4.1
+japan_annual,2014,girls,488037,jp_estat table 4.1
+japan_annual,2014,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,2015,births,1005721,jp_estat table 4.1
+japan_annual,2015,boys,515468,jp_estat table 4.1
+japan_annual,2015,girls,490253,jp_estat table 4.1
+japan_annual,2015,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,2016,births,977242,jp_estat table 4.1
+japan_annual,2016,boys,502012,jp_estat table 4.1
+japan_annual,2016,girls,475230,jp_estat table 4.1
+japan_annual,2016,sex_ratio,105.6,jp_estat table 4.1
+japan_annual,2017,births,946146,jp_estat table 4.1
+japan_annual,2017,boys,484478,jp_estat table 4.1
+japan_annual,2017,girls,461668,jp_estat table 4.1
+japan_annual,2017,sex_ratio,104.9,jp_estat table 4.1
+japan_annual,2018,births,918400,jp_estat table 4.1
+japan_annual,2018,boys,470851,jp_estat table 4.1
+japan_annual,2018,girls,447549,jp_estat table 4.1
+japan_annual,2018,sex_ratio,105.2,jp_estat table 4.1
+japan_annual,2019,births,865239,jp_estat table 4.1
+japan_annual,2019,boys,443430,jp_estat table 4.1
+japan_annual,2019,girls,421809,jp_estat table 4.1
+japan_annual,2019,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,2020,births,840835,jp_estat table 4.1
+japan_annual,2020,boys,430713,jp_estat table 4.1
+japan_annual,2020,girls,410122,jp_estat table 4.1
+japan_annual,2020,sex_ratio,105.0,jp_estat table 4.1
+japan_annual,2021,births,811622,jp_estat table 4.1
+japan_annual,2021,boys,415903,jp_estat table 4.1
+japan_annual,2021,girls,395719,jp_estat table 4.1
+japan_annual,2021,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,2022,births,770759,jp_estat table 4.1
+japan_annual,2022,boys,395257,jp_estat table 4.1
+japan_annual,2022,girls,375502,jp_estat table 4.1
+japan_annual,2022,sex_ratio,105.3,jp_estat table 4.1
+japan_annual,2023,births,727288,jp_estat table 4.1
+japan_annual,2023,boys,372603,jp_estat table 4.1
+japan_annual,2023,girls,354685,jp_estat table 4.1
+japan_annual,2023,sex_ratio,105.1,jp_estat table 4.1
+japan_annual,2024,births,686173,jp_estat table 4.1
+japan_annual,2024,boys,351451,jp_estat table 4.1
+japan_annual,2024,girls,334722,jp_estat table 4.1
+japan_annual,2024,sex_ratio,105.0,jp_estat table 4.1
+japan_annual,2025,births,671270,jp_estat table 4.1
+japan_annual,2025,boys,344233,jp_estat table 4.1
+japan_annual,2025,girls,327037,jp_estat table 4.1
+japan_annual,2025,sex_ratio,105.3,jp_estat table 4.1
+japan_monthly,1965-01,births,167220,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-02,births,151449,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-03,births,159421,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-04,births,154749,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-05,births,140137,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-06,births,135226,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-07,births,151439,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-08,births,157205,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-09,births,158681,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-10,births,159240,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-11,births,144084,jp_estat 1966 yearbook table 3.4
+japan_monthly,1965-12,births,144846,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-01,births,122783,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-02,births,110695,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-03,births,111909,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-04,births,109581,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-05,births,102788,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-06,births,100914,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-07,births,113106,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-08,births,114427,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-09,births,111795,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-10,births,112387,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-11,births,116262,jp_estat 1966 yearbook table 3.4
+japan_monthly,1966-12,births,134327,jp_estat 1966 yearbook table 3.4
+japan_monthly,1967-01,births,191510,jp_estat 1967 yearbook table 4
+japan_monthly,1967-02,births,171359,jp_estat 1967 yearbook table 4
+japan_monthly,1967-03,births,183887,jp_estat 1967 yearbook table 4
+japan_monthly,1967-04,births,165341,jp_estat 1967 yearbook table 4
+japan_monthly,1967-05,births,160426,jp_estat 1967 yearbook table 4
+japan_monthly,1967-06,births,146094,jp_estat 1967 yearbook table 4
+japan_monthly,1967-07,births,161803,jp_estat 1967 yearbook table 4
+japan_monthly,1967-08,births,160167,jp_estat 1967 yearbook table 4
+japan_monthly,1967-09,births,153225,jp_estat 1967 yearbook table 4
+japan_monthly,1967-10,births,148940,jp_estat 1967 yearbook table 4
+japan_monthly,1967-11,births,141570,jp_estat 1967 yearbook table 4
+japan_monthly,1967-12,births,151325,jp_estat 1967 yearbook table 4
+japan_monthly,2024-01,births,61074,jp_mhlw preliminary 2026-08
+japan_monthly,2024-02,births,54532,jp_mhlw preliminary 2026-08
+japan_monthly,2024-03,births,55198,jp_mhlw preliminary 2026-08
+japan_monthly,2024-04,births,59210,jp_mhlw preliminary 2026-08
+japan_monthly,2024-05,births,62060,jp_mhlw preliminary 2026-08
+japan_monthly,2024-06,births,58000,jp_mhlw preliminary 2026-08
+japan_monthly,2024-07,births,65231,jp_mhlw preliminary 2026-08
+japan_monthly,2024-08,births,63805,jp_mhlw preliminary 2026-08
+japan_monthly,2024-09,births,61057,jp_mhlw preliminary 2026-08
+japan_monthly,2024-10,births,63471,jp_mhlw preliminary 2026-08
+japan_monthly,2024-11,births,57939,jp_mhlw preliminary 2026-08
+japan_monthly,2024-12,births,59411,jp_mhlw preliminary 2026-08
+japan_monthly,2025-01,births,58385,jp_mhlw preliminary 2026-08
+japan_monthly,2025-02,births,50951,jp_mhlw preliminary 2026-08
+japan_monthly,2025-03,births,53619,jp_mhlw preliminary 2026-08
+japan_monthly,2025-04,births,57306,jp_mhlw preliminary 2026-08
+japan_monthly,2025-05,births,60718,jp_mhlw preliminary 2026-08
+japan_monthly,2025-06,births,58301,jp_mhlw preliminary 2026-08
+japan_monthly,2025-07,births,63415,jp_mhlw preliminary 2026-08
+japan_monthly,2025-08,births,61822,jp_mhlw preliminary 2026-08
+japan_monthly,2025-09,births,60547,jp_mhlw preliminary 2026-08
+japan_monthly,2025-10,births,63210,jp_mhlw preliminary 2026-08
+japan_monthly,2025-11,births,56981,jp_mhlw preliminary 2026-08
+japan_monthly,2025-12,births,60554,jp_mhlw preliminary 2026-08
+japan_monthly,2026-01,births,58694,jp_mhlw preliminary 2026-08
+japan_monthly,2026-02,births,50761,jp_mhlw preliminary 2026-08
+japan_monthly,2026-03,births,53844,jp_mhlw preliminary 2026-08
+japan_monthly,2026-04,births,59260,jp_mhlw preliminary 2026-08
+japan_monthly,2026-05,births,59663,jp_mhlw preliminary 2026-08
+japan_monthly,2026-06,births,59846,jp_mhlw preliminary 2026-08
+japan_monthly,2026-07,births,62479,jp_mhlw preliminary 2026-08
+japan_monthly,2026-08,births,59563,jp_mhlw preliminary 2026-08
+japan_monthly_citizens,2025-01,births,51816,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-02,births,48256,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-03,births,50767,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-04,births,54686,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-05,births,57896,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-06,births,55658,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-07,births,60650,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-08,births,58976,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-09,births,57407,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-10,births,59979,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-11,births,54047,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2025-12,births,61098,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2026-01,births,51874,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2026-02,births,47904,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2026-03,births,50752,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2026-04,births,56441,jp_mhlw monthly report 2026-05
+japan_monthly_citizens,2026-05,births,56664,jp_mhlw monthly report 2026-05
+japan_abortions_reported,1955,count,1170143,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1956,count,1159288,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1957,count,1122316,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1958,count,1128231,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1959,count,1098853,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1960,count,1063256,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1961,count,1035329,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1962,count,985351,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1963,count,955092,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1964,count,878748,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1965,count,843248,jp_estat 1966 yearbook table 3.28
+japan_abortions_reported,1966,count,808378,jp_estat 1966 yearbook table 3.28
+displaced_girls_own_count,norm 104,girls_missing_from_1966,11521.731,calc
+displaced_girls_own_count,norm 104,girls_surplus_outside_1966,6853.731,calc
+displaced_girls_own_count,norm 105,girls_missing_from_1966,10277.143,calc
+displaced_girls_own_count,norm 105,girls_surplus_outside_1966,8379.619,calc
+displaced_girls_own_count,norm 106,girls_missing_from_1966,9056.038,calc
+displaced_girls_own_count,norm 106,girls_surplus_outside_1966,9876.717,calc
+year_effect,SG Chinese Tiger,n,6,calc from sg_singstat
+year_effect,SG Chinese Tiger,mean_pct,-5.227,calc from sg_singstat
+year_effect,SG Chinese Tiger,lo_pct,-9.511,calc from sg_singstat
+year_effect,SG Chinese Tiger,hi_pct,-0.74,calc from sg_singstat
+year_effect,SG Chinese Tiger,plc_p5,-9.459,calc from sg_singstat
+year_effect,SG Chinese Tiger,plc_p95,9.386,calc from sg_singstat
+year_effect,SG Chinese Tiger,q,0.147,calc from sg_singstat
+year_effect,SG Chinese Dragon,n,6,calc from sg_singstat
+year_effect,SG Chinese Dragon,mean_pct,10.268,calc from sg_singstat
+year_effect,SG Chinese Dragon,lo_pct,5.283,calc from sg_singstat
+year_effect,SG Chinese Dragon,hi_pct,15.489,calc from sg_singstat
+year_effect,SG Chinese Dragon,plc_p5,-9.459,calc from sg_singstat
+year_effect,SG Chinese Dragon,plc_p95,9.386,calc from sg_singstat
+year_effect,SG Chinese Dragon,q,0.0,calc from sg_singstat
+year_effect,SG Chinese Horse,n,5,calc from sg_singstat
+year_effect,SG Chinese Horse,mean_pct,2.4,calc from sg_singstat
+year_effect,SG Chinese Horse,lo_pct,-2.66,calc from sg_singstat
+year_effect,SG Chinese Horse,hi_pct,7.722,calc from sg_singstat
+year_effect,SG Chinese Horse,plc_p5,-9.459,calc from sg_singstat
+year_effect,SG Chinese Horse,plc_p95,9.386,calc from sg_singstat
+year_effect,SG Chinese Horse,q,0.657,calc from sg_singstat
+year_effect,SG Chinese Goat,n,5,calc from sg_singstat
+year_effect,SG Chinese Goat,mean_pct,-1.094,calc from sg_singstat
+year_effect,SG Chinese Goat,lo_pct,-5.981,calc from sg_singstat
+year_effect,SG Chinese Goat,hi_pct,4.047,calc from sg_singstat
+year_effect,SG Chinese Goat,plc_p5,-9.459,calc from sg_singstat
+year_effect,SG Chinese Goat,plc_p95,9.386,calc from sg_singstat
+year_effect,SG Chinese Goat,q,0.894,calc from sg_singstat
+year_effect,SG Malays Tiger,n,6,calc from sg_singstat
+year_effect,SG Malays Tiger,mean_pct,-1.66,calc from sg_singstat
+year_effect,SG Malays Tiger,lo_pct,-7.908,calc from sg_singstat
+year_effect,SG Malays Tiger,hi_pct,5.013,calc from sg_singstat
+year_effect,SG Malays Tiger,plc_p5,-12.377,calc from sg_singstat
+year_effect,SG Malays Tiger,plc_p95,13.339,calc from sg_singstat
+year_effect,SG Malays Tiger,q,0.859,calc from sg_singstat
+year_effect,SG Malays Dragon,n,6,calc from sg_singstat
+year_effect,SG Malays Dragon,mean_pct,-1.574,calc from sg_singstat
+year_effect,SG Malays Dragon,lo_pct,-7.828,calc from sg_singstat
+year_effect,SG Malays Dragon,hi_pct,5.105,calc from sg_singstat
+year_effect,SG Malays Dragon,plc_p5,-12.377,calc from sg_singstat
+year_effect,SG Malays Dragon,plc_p95,13.339,calc from sg_singstat
+year_effect,SG Malays Dragon,q,0.866,calc from sg_singstat
+year_effect,SG Malays Horse,n,5,calc from sg_singstat
+year_effect,SG Malays Horse,mean_pct,0.756,calc from sg_singstat
+year_effect,SG Malays Horse,lo_pct,-6.236,calc from sg_singstat
+year_effect,SG Malays Horse,hi_pct,8.269,calc from sg_singstat
+year_effect,SG Malays Horse,plc_p5,-12.377,calc from sg_singstat
+year_effect,SG Malays Horse,plc_p95,13.339,calc from sg_singstat
+year_effect,SG Malays Horse,q,0.979,calc from sg_singstat
+year_effect,SG Malays Goat,n,5,calc from sg_singstat
+year_effect,SG Malays Goat,mean_pct,-0.45,calc from sg_singstat
+year_effect,SG Malays Goat,lo_pct,-7.358,calc from sg_singstat
+year_effect,SG Malays Goat,hi_pct,6.973,calc from sg_singstat
+year_effect,SG Malays Goat,plc_p5,-12.377,calc from sg_singstat
+year_effect,SG Malays Goat,plc_p95,13.339,calc from sg_singstat
+year_effect,SG Malays Goat,q,0.979,calc from sg_singstat
+year_effect,SG Indians Tiger,n,6,calc from sg_singstat
+year_effect,SG Indians Tiger,mean_pct,-0.883,calc from sg_singstat
+year_effect,SG Indians Tiger,lo_pct,-6.389,calc from sg_singstat
+year_effect,SG Indians Tiger,hi_pct,4.946,calc from sg_singstat
+year_effect,SG Indians Tiger,plc_p5,-8.181,calc from sg_singstat
+year_effect,SG Indians Tiger,plc_p95,9.11,calc from sg_singstat
+year_effect,SG Indians Tiger,q,0.958,calc from sg_singstat
+year_effect,SG Indians Dragon,n,6,calc from sg_singstat
+year_effect,SG Indians Dragon,mean_pct,0.425,calc from sg_singstat
+year_effect,SG Indians Dragon,lo_pct,-5.154,calc from sg_singstat
+year_effect,SG Indians Dragon,hi_pct,6.331,calc from sg_singstat
+year_effect,SG Indians Dragon,plc_p5,-8.181,calc from sg_singstat
+year_effect,SG Indians Dragon,plc_p95,9.11,calc from sg_singstat
+year_effect,SG Indians Dragon,q,0.979,calc from sg_singstat
+year_effect,SG Indians Horse,n,5,calc from sg_singstat
+year_effect,SG Indians Horse,mean_pct,3.03,calc from sg_singstat
+year_effect,SG Indians Horse,lo_pct,-3.222,calc from sg_singstat
+year_effect,SG Indians Horse,hi_pct,9.686,calc from sg_singstat
+year_effect,SG Indians Horse,plc_p5,-8.181,calc from sg_singstat
+year_effect,SG Indians Horse,plc_p95,9.11,calc from sg_singstat
+year_effect,SG Indians Horse,q,0.657,calc from sg_singstat
+year_effect,SG Indians Goat,n,5,calc from sg_singstat
+year_effect,SG Indians Goat,mean_pct,1.13,calc from sg_singstat
+year_effect,SG Indians Goat,lo_pct,-5.007,calc from sg_singstat
+year_effect,SG Indians Goat,hi_pct,7.663,calc from sg_singstat
+year_effect,SG Indians Goat,plc_p5,-8.181,calc from sg_singstat
+year_effect,SG Indians Goat,plc_p95,9.11,calc from sg_singstat
+year_effect,SG Indians Goat,q,0.947,calc from sg_singstat
+year_effect,SG Chinese minus controls Tiger,n,6,calc from sg_singstat
+year_effect,SG Chinese minus controls Tiger,mean_pct,-4.017,calc from sg_singstat
+year_effect,SG Chinese minus controls Tiger,lo_pct,-8.129,calc from sg_singstat
+year_effect,SG Chinese minus controls Tiger,hi_pct,0.28,calc from sg_singstat
+year_effect,SG Chinese minus controls Tiger,plc_p5,-6.688,calc from sg_singstat
+year_effect,SG Chinese minus controls Tiger,plc_p95,9.044,calc from sg_singstat
+year_effect,SG Chinese minus controls Tiger,q,0.284,calc from sg_singstat
+year_effect,SG Chinese minus controls Dragon,n,6,calc from sg_singstat
+year_effect,SG Chinese minus controls Dragon,mean_pct,10.951,calc from sg_singstat
+year_effect,SG Chinese minus controls Dragon,lo_pct,6.197,calc from sg_singstat
+year_effect,SG Chinese minus controls Dragon,hi_pct,15.917,calc from sg_singstat
+year_effect,SG Chinese minus controls Dragon,plc_p5,-6.688,calc from sg_singstat
+year_effect,SG Chinese minus controls Dragon,plc_p95,9.044,calc from sg_singstat
+year_effect,SG Chinese minus controls Dragon,q,0.0,calc from sg_singstat
+year_effect,SG Chinese minus controls Horse,n,5,calc from sg_singstat
+year_effect,SG Chinese minus controls Horse,mean_pct,0.74,calc from sg_singstat
+year_effect,SG Chinese minus controls Horse,lo_pct,-3.979,calc from sg_singstat
+year_effect,SG Chinese minus controls Horse,hi_pct,5.69,calc from sg_singstat
+year_effect,SG Chinese minus controls Horse,plc_p5,-6.688,calc from sg_singstat
+year_effect,SG Chinese minus controls Horse,plc_p95,9.044,calc from sg_singstat
+year_effect,SG Chinese minus controls Horse,q,0.958,calc from sg_singstat
+year_effect,SG Chinese minus controls Goat,n,5,calc from sg_singstat
+year_effect,SG Chinese minus controls Goat,mean_pct,-1.216,calc from sg_singstat
+year_effect,SG Chinese minus controls Goat,lo_pct,-5.843,calc from sg_singstat
+year_effect,SG Chinese minus controls Goat,hi_pct,3.638,calc from sg_singstat
+year_effect,SG Chinese minus controls Goat,plc_p5,-6.688,calc from sg_singstat
+year_effect,SG Chinese minus controls Goat,plc_p95,9.044,calc from sg_singstat
+year_effect,SG Chinese minus controls Goat,q,0.859,calc from sg_singstat
+year_effect,HK Tiger,n,4,calc from hk_csd
+year_effect,HK Tiger,mean_pct,-0.379,calc from hk_csd
+year_effect,HK Tiger,lo_pct,-11.788,calc from hk_csd
+year_effect,HK Tiger,hi_pct,12.504,calc from hk_csd
+year_effect,HK Tiger,plc_p5,-16.221,calc from hk_csd
+year_effect,HK Tiger,plc_p95,18.045,calc from hk_csd
+year_effect,HK Tiger,q,0.99,calc from hk_csd
+year_effect,HK Dragon,n,4,calc from hk_csd
+year_effect,HK Dragon,mean_pct,10.346,calc from hk_csd
+year_effect,HK Dragon,lo_pct,-2.29,calc from hk_csd
+year_effect,HK Dragon,hi_pct,24.617,calc from hk_csd
+year_effect,HK Dragon,plc_p5,-16.221,calc from hk_csd
+year_effect,HK Dragon,plc_p95,18.045,calc from hk_csd
+year_effect,HK Dragon,q,0.416,calc from hk_csd
+year_effect,HK Horse,n,4,calc from hk_csd
+year_effect,HK Horse,mean_pct,-6.849,calc from hk_csd
+year_effect,HK Horse,lo_pct,-17.517,calc from hk_csd
+year_effect,HK Horse,hi_pct,5.198,calc from hk_csd
+year_effect,HK Horse,plc_p5,-16.221,calc from hk_csd
+year_effect,HK Horse,plc_p95,18.045,calc from hk_csd
+year_effect,HK Horse,q,0.562,calc from hk_csd
+year_effect,HK Goat,n,4,calc from hk_csd
+year_effect,HK Goat,mean_pct,-7.416,calc from hk_csd
+year_effect,HK Goat,lo_pct,-18.018,calc from hk_csd
+year_effect,HK Goat,hi_pct,4.558,calc from hk_csd
+year_effect,HK Goat,plc_p5,-16.221,calc from hk_csd
+year_effect,HK Goat,plc_p95,18.045,calc from hk_csd
+year_effect,HK Goat,q,0.539,calc from hk_csd
+year_effect,HK Gregorian Tiger,n,5,calc from hk_csd
+year_effect,HK Gregorian Tiger,mean_pct,-0.136,calc from hk_csd
+year_effect,HK Gregorian Tiger,lo_pct,-9.469,calc from hk_csd
+year_effect,HK Gregorian Tiger,hi_pct,10.159,calc from hk_csd
+year_effect,HK Gregorian Tiger,plc_p5,-15.835,calc from hk_csd
+year_effect,HK Gregorian Tiger,plc_p95,17.58,calc from hk_csd
+year_effect,HK Gregorian Tiger,q,0.99,calc from hk_csd
+year_effect,HK Gregorian Dragon,n,6,calc from hk_csd
+year_effect,HK Gregorian Dragon,mean_pct,6.723,calc from hk_csd
+year_effect,HK Gregorian Dragon,lo_pct,-2.42,calc from hk_csd
+year_effect,HK Gregorian Dragon,hi_pct,16.724,calc from hk_csd
+year_effect,HK Gregorian Dragon,plc_p5,-15.835,calc from hk_csd
+year_effect,HK Gregorian Dragon,plc_p95,17.58,calc from hk_csd
+year_effect,HK Gregorian Dragon,q,0.471,calc from hk_csd
+year_effect,HK Gregorian Horse,n,5,calc from hk_csd
+year_effect,HK Gregorian Horse,mean_pct,-6.543,calc from hk_csd
+year_effect,HK Gregorian Horse,lo_pct,-15.277,calc from hk_csd
+year_effect,HK Gregorian Horse,hi_pct,3.092,calc from hk_csd
+year_effect,HK Gregorian Horse,plc_p5,-15.835,calc from hk_csd
+year_effect,HK Gregorian Horse,plc_p95,17.58,calc from hk_csd
+year_effect,HK Gregorian Horse,q,0.513,calc from hk_csd
+year_effect,HK Gregorian Goat,n,5,calc from hk_csd
+year_effect,HK Gregorian Goat,mean_pct,-6.288,calc from hk_csd
+year_effect,HK Gregorian Goat,lo_pct,-15.046,calc from hk_csd
+year_effect,HK Gregorian Goat,hi_pct,3.373,calc from hk_csd
+year_effect,HK Gregorian Goat,plc_p5,-15.835,calc from hk_csd
+year_effect,HK Gregorian Goat,plc_p95,17.58,calc from hk_csd
+year_effect,HK Gregorian Goat,q,0.539,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Tiger,n,3,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Tiger,mean_pct,-6.784,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Tiger,lo_pct,-14.952,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Tiger,hi_pct,2.168,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Tiger,plc_p5,-10.444,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Tiger,plc_p95,15.588,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Tiger,q,0.449,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Dragon,n,4,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Dragon,mean_pct,9.296,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Dragon,lo_pct,0.953,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Dragon,hi_pct,18.33,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Dragon,plc_p5,-10.444,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Dragon,plc_p95,15.588,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Dragon,q,0.164,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Horse,n,3,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Horse,mean_pct,0.058,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Horse,lo_pct,-8.709,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Horse,hi_pct,9.667,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Horse,plc_p5,-10.444,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Horse,plc_p95,15.588,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Horse,q,0.99,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Goat,n,3,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Goat,mean_pct,-0.637,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Goat,lo_pct,-9.343,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Goat,hi_pct,8.906,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Goat,plc_p5,-10.444,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Goat,plc_p95,15.588,calc from hk_csd
+year_effect,HK excl. mainland mothers (spouse not permanent resident) Goat,q,0.979,calc from hk_csd
+year_effect,KR Tiger,n,4,calc
+year_effect,KR Tiger,mean_pct,-2.226,calc
+year_effect,KR Tiger,lo_pct,-9.254,calc
+year_effect,KR Tiger,hi_pct,5.347,calc
+year_effect,KR Tiger,plc_p5,-11.659,calc
+year_effect,KR Tiger,plc_p95,8.984,calc
+year_effect,KR Tiger,q,0.855,calc
+year_effect,KR Dragon,n,4,calc
+year_effect,KR Dragon,mean_pct,2.523,calc
+year_effect,KR Dragon,lo_pct,-4.847,calc
+year_effect,KR Dragon,hi_pct,10.463,calc
+year_effect,KR Dragon,plc_p5,-11.659,calc
+year_effect,KR Dragon,plc_p95,8.984,calc
+year_effect,KR Dragon,q,0.82,calc
+year_effect,KR Horse,n,3,calc
+year_effect,KR Horse,mean_pct,0.205,calc
+year_effect,KR Horse,lo_pct,-8.065,calc
+year_effect,KR Horse,hi_pct,9.219,calc
+year_effect,KR Horse,plc_p5,-11.659,calc
+year_effect,KR Horse,plc_p95,8.984,calc
+year_effect,KR Horse,q,0.99,calc
+year_effect,KR Goat,n,3,calc
+year_effect,KR Goat,mean_pct,4.547,calc
+year_effect,KR Goat,lo_pct,-4.082,calc
+year_effect,KR Goat,hi_pct,13.951,calc
+year_effect,KR Goat,plc_p5,-11.659,calc
+year_effect,KR Goat,plc_p95,8.984,calc
+year_effect,KR Goat,q,0.623,calc
+year_effect,KR Gregorian Tiger,n,5,calc
+year_effect,KR Gregorian Tiger,mean_pct,-1.945,calc
+year_effect,KR Gregorian Tiger,lo_pct,-8.272,calc
+year_effect,KR Gregorian Tiger,hi_pct,4.818,calc
+year_effect,KR Gregorian Tiger,plc_p5,-11.544,calc
+year_effect,KR Gregorian Tiger,plc_p95,11.77,calc
+year_effect,KR Gregorian Tiger,q,0.855,calc
+year_effect,KR Gregorian Dragon,n,5,calc
+year_effect,KR Gregorian Dragon,mean_pct,-0.1,calc
+year_effect,KR Gregorian Dragon,lo_pct,-6.546,calc
+year_effect,KR Gregorian Dragon,hi_pct,6.79,calc
+year_effect,KR Gregorian Dragon,plc_p5,-11.544,calc
+year_effect,KR Gregorian Dragon,plc_p95,11.77,calc
+year_effect,KR Gregorian Dragon,q,0.99,calc
+year_effect,KR Gregorian Horse,n,4,calc
+year_effect,KR Gregorian Horse,mean_pct,-3.851,calc
+year_effect,KR Gregorian Horse,lo_pct,-10.76,calc
+year_effect,KR Gregorian Horse,hi_pct,3.593,calc
+year_effect,KR Gregorian Horse,plc_p5,-11.544,calc
+year_effect,KR Gregorian Horse,plc_p95,11.77,calc
+year_effect,KR Gregorian Horse,q,0.623,calc
+year_effect,KR Gregorian Goat,n,4,calc
+year_effect,KR Gregorian Goat,mean_pct,4.533,calc
+year_effect,KR Gregorian Goat,lo_pct,-2.978,calc
+year_effect,KR Gregorian Goat,hi_pct,12.626,calc
+year_effect,KR Gregorian Goat,plc_p5,-11.544,calc
+year_effect,KR Gregorian Goat,plc_p95,11.77,calc
+year_effect,KR Gregorian Goat,q,0.562,calc
+year_effect,TW Tiger,n,2,calc
+year_effect,TW Tiger,mean_pct,-9.698,calc
+year_effect,TW Tiger,lo_pct,-16.304,calc
+year_effect,TW Tiger,hi_pct,-2.572,calc
+year_effect,TW Tiger,plc_p5,-5.711,calc
+year_effect,TW Tiger,plc_p95,10.507,calc
+year_effect,TW Tiger,q,0.06,calc
+year_effect,TW Dragon,n,3,calc
+year_effect,TW Dragon,mean_pct,14.206,calc
+year_effect,TW Dragon,lo_pct,7.338,calc
+year_effect,TW Dragon,hi_pct,21.513,calc
+year_effect,TW Dragon,plc_p5,-5.711,calc
+year_effect,TW Dragon,plc_p95,10.507,calc
+year_effect,TW Dragon,q,0.0,calc
+year_effect,TW Horse,n,2,calc
+year_effect,TW Horse,mean_pct,6.263,calc
+year_effect,TW Horse,lo_pct,-1.51,calc
+year_effect,TW Horse,hi_pct,14.649,calc
+year_effect,TW Horse,plc_p5,-5.711,calc
+year_effect,TW Horse,plc_p95,10.507,calc
+year_effect,TW Horse,q,0.416,calc
+year_effect,TW Goat,n,2,calc
+year_effect,TW Goat,mean_pct,4.516,calc
+year_effect,TW Goat,lo_pct,-3.129,calc
+year_effect,TW Goat,hi_pct,12.764,calc
+year_effect,TW Goat,plc_p5,-5.711,calc
+year_effect,TW Goat,plc_p95,10.507,calc
+year_effect,TW Goat,q,0.562,calc
+year_effect,TW Gregorian Tiger,n,6,calc
+year_effect,TW Gregorian Tiger,mean_pct,-7.194,calc
+year_effect,TW Gregorian Tiger,lo_pct,-10.903,calc
+year_effect,TW Gregorian Tiger,hi_pct,-3.33,calc
+year_effect,TW Gregorian Tiger,plc_p5,-7.202,calc
+year_effect,TW Gregorian Tiger,plc_p95,9.32,calc
+year_effect,TW Gregorian Tiger,q,0.003,calc
+year_effect,TW Gregorian Dragon,n,6,calc
+year_effect,TW Gregorian Dragon,mean_pct,9.749,calc
+year_effect,TW Gregorian Dragon,lo_pct,5.362,calc
+year_effect,TW Gregorian Dragon,hi_pct,14.319,calc
+year_effect,TW Gregorian Dragon,plc_p5,-7.202,calc
+year_effect,TW Gregorian Dragon,plc_p95,9.32,calc
+year_effect,TW Gregorian Dragon,q,0.0,calc
+year_effect,TW Gregorian Horse,n,5,calc
+year_effect,TW Gregorian Horse,mean_pct,4.702,calc
+year_effect,TW Gregorian Horse,lo_pct,0.127,calc
+year_effect,TW Gregorian Horse,hi_pct,9.487,calc
+year_effect,TW Gregorian Horse,plc_p5,-7.202,calc
+year_effect,TW Gregorian Horse,plc_p95,9.32,calc
+year_effect,TW Gregorian Horse,q,0.208,calc
+year_effect,TW Gregorian Goat,n,5,calc
+year_effect,TW Gregorian Goat,mean_pct,2.198,calc
+year_effect,TW Gregorian Goat,lo_pct,-2.268,calc
+year_effect,TW Gregorian Goat,hi_pct,6.868,calc
+year_effect,TW Gregorian Goat,plc_p5,-7.202,calc
+year_effect,TW Gregorian Goat,plc_p95,9.32,calc
+year_effect,TW Gregorian Goat,q,0.657,calc
+year_effect,JP Tiger,n,6,calc
+year_effect,JP Tiger,mean_pct,1.624,calc
+year_effect,JP Tiger,lo_pct,-0.93,calc
+year_effect,JP Tiger,hi_pct,4.243,calc
+year_effect,JP Tiger,plc_p5,-4.208,calc
+year_effect,JP Tiger,plc_p95,4.781,calc
+year_effect,JP Tiger,q,0.539,calc
+year_effect,JP Dragon,n,6,calc
+year_effect,JP Dragon,mean_pct,0.317,calc
+year_effect,JP Dragon,lo_pct,-2.203,calc
+year_effect,JP Dragon,hi_pct,2.903,calc
+year_effect,JP Dragon,plc_p5,-4.208,calc
+year_effect,JP Dragon,plc_p95,4.781,calc
+year_effect,JP Dragon,q,0.975,calc
+year_effect,JP Horse,n,6,calc
+year_effect,JP Horse,mean_pct,-4.956,calc
+year_effect,JP Horse,lo_pct,-7.344,calc
+year_effect,JP Horse,hi_pct,-2.506,calc
+year_effect,JP Horse,plc_p5,-4.208,calc
+year_effect,JP Horse,plc_p95,4.781,calc
+year_effect,JP Horse,q,0.001,calc
+year_effect,JP Goat,n,6,calc
+year_effect,JP Goat,mean_pct,0.732,calc
+year_effect,JP Goat,lo_pct,-1.799,calc
+year_effect,JP Goat,hi_pct,3.328,calc
+year_effect,JP Goat,plc_p5,-4.208,calc
+year_effect,JP Goat,plc_p95,4.781,calc
+year_effect,JP Goat,q,0.855,calc
+year_effect,MY Chinese Tiger,n,2,calc
+year_effect,MY Chinese Tiger,mean_pct,-6.891,calc
+year_effect,MY Chinese Tiger,lo_pct,-13.071,calc
+year_effect,MY Chinese Tiger,hi_pct,-0.273,calc
+year_effect,MY Chinese Tiger,plc_p5,-4.131,calc
+year_effect,MY Chinese Tiger,plc_p95,10.948,calc
+year_effect,MY Chinese Tiger,q,0.208,calc
+year_effect,MY Chinese Dragon,n,2,calc
+year_effect,MY Chinese Dragon,mean_pct,17.401,calc
+year_effect,MY Chinese Dragon,lo_pct,9.609,calc
+year_effect,MY Chinese Dragon,hi_pct,25.746,calc
+year_effect,MY Chinese Dragon,plc_p5,-4.131,calc
+year_effect,MY Chinese Dragon,plc_p95,10.948,calc
+year_effect,MY Chinese Dragon,q,0.0,calc
+year_effect,MY Chinese Horse,n,2,calc
+year_effect,MY Chinese Horse,mean_pct,7.255,calc
+year_effect,MY Chinese Horse,lo_pct,0.137,calc
+year_effect,MY Chinese Horse,hi_pct,14.879,calc
+year_effect,MY Chinese Horse,plc_p5,-4.131,calc
+year_effect,MY Chinese Horse,plc_p95,10.948,calc
+year_effect,MY Chinese Horse,q,0.208,calc
+year_effect,MY Chinese Goat,n,2,calc
+year_effect,MY Chinese Goat,mean_pct,4.402,calc
+year_effect,MY Chinese Goat,lo_pct,-2.526,calc
+year_effect,MY Chinese Goat,hi_pct,11.824,calc
+year_effect,MY Chinese Goat,plc_p5,-4.131,calc
+year_effect,MY Chinese Goat,plc_p95,10.948,calc
+year_effect,MY Chinese Goat,q,0.539,calc
+year_effect,MY Malays Tiger,n,2,calc
+year_effect,MY Malays Tiger,mean_pct,-2.127,calc
+year_effect,MY Malays Tiger,lo_pct,-6.983,calc
+year_effect,MY Malays Tiger,hi_pct,2.983,calc
+year_effect,MY Malays Tiger,plc_p5,-4.359,calc
+year_effect,MY Malays Tiger,plc_p95,6.304,calc
+year_effect,MY Malays Tiger,q,0.687,calc
+year_effect,MY Malays Dragon,n,2,calc
+year_effect,MY Malays Dragon,mean_pct,-0.725,calc
+year_effect,MY Malays Dragon,lo_pct,-5.651,calc
+year_effect,MY Malays Dragon,hi_pct,4.458,calc
+year_effect,MY Malays Dragon,plc_p5,-4.359,calc
+year_effect,MY Malays Dragon,plc_p95,6.304,calc
+year_effect,MY Malays Dragon,q,0.959,calc
+year_effect,MY Malays Horse,n,2,calc
+year_effect,MY Malays Horse,mean_pct,2.842,calc
+year_effect,MY Malays Horse,lo_pct,-2.261,calc
+year_effect,MY Malays Horse,hi_pct,8.211,calc
+year_effect,MY Malays Horse,plc_p5,-4.359,calc
+year_effect,MY Malays Horse,plc_p95,6.304,calc
+year_effect,MY Malays Horse,q,0.598,calc
+year_effect,MY Malays Goat,n,2,calc
+year_effect,MY Malays Goat,mean_pct,2.271,calc
+year_effect,MY Malays Goat,lo_pct,-2.804,calc
+year_effect,MY Malays Goat,hi_pct,7.61,calc
+year_effect,MY Malays Goat,plc_p5,-4.359,calc
+year_effect,MY Malays Goat,plc_p95,6.304,calc
+year_effect,MY Malays Goat,q,0.686,calc
+year_effect,MY Indians Tiger,n,2,calc
+year_effect,MY Indians Tiger,mean_pct,-2.62,calc
+year_effect,MY Indians Tiger,lo_pct,-8.419,calc
+year_effect,MY Indians Tiger,hi_pct,3.546,calc
+year_effect,MY Indians Tiger,plc_p5,-4.954,calc
+year_effect,MY Indians Tiger,plc_p95,6.372,calc
+year_effect,MY Indians Tiger,q,0.686,calc
+year_effect,MY Indians Dragon,n,2,calc
+year_effect,MY Indians Dragon,mean_pct,0.629,calc
+year_effect,MY Indians Dragon,lo_pct,-5.363,calc
+year_effect,MY Indians Dragon,hi_pct,7.001,calc
+year_effect,MY Indians Dragon,plc_p5,-4.954,calc
+year_effect,MY Indians Dragon,plc_p95,6.372,calc
+year_effect,MY Indians Dragon,q,0.979,calc
+year_effect,MY Indians Horse,n,2,calc
+year_effect,MY Indians Horse,mean_pct,1.667,calc
+year_effect,MY Indians Horse,lo_pct,-4.387,calc
+year_effect,MY Indians Horse,hi_pct,8.104,calc
+year_effect,MY Indians Horse,plc_p5,-4.954,calc
+year_effect,MY Indians Horse,plc_p95,6.372,calc
+year_effect,MY Indians Horse,q,0.859,calc
+year_effect,MY Indians Goat,n,2,calc
+year_effect,MY Indians Goat,mean_pct,0.413,calc
+year_effect,MY Indians Goat,lo_pct,-5.566,calc
+year_effect,MY Indians Goat,hi_pct,6.771,calc
+year_effect,MY Indians Goat,plc_p5,-4.954,calc
+year_effect,MY Indians Goat,plc_p95,6.372,calc
+year_effect,MY Indians Goat,q,0.979,calc
+year_effect,MY Chinese minus controls Tiger,n,2,calc
+year_effect,MY Chinese minus controls Tiger,mean_pct,-4.854,calc
+year_effect,MY Chinese minus controls Tiger,lo_pct,-10.264,calc
+year_effect,MY Chinese minus controls Tiger,hi_pct,0.882,calc
+year_effect,MY Chinese minus controls Tiger,plc_p5,-4.5,calc
+year_effect,MY Chinese minus controls Tiger,plc_p95,7.311,calc
+year_effect,MY Chinese minus controls Tiger,q,0.383,calc
+year_effect,MY Chinese minus controls Dragon,n,2,calc
+year_effect,MY Chinese minus controls Dragon,mean_pct,18.236,calc
+year_effect,MY Chinese minus controls Dragon,lo_pct,11.513,calc
+year_effect,MY Chinese minus controls Dragon,hi_pct,25.365,calc
+year_effect,MY Chinese minus controls Dragon,plc_p5,-4.5,calc
+year_effect,MY Chinese minus controls Dragon,plc_p95,7.311,calc
+year_effect,MY Chinese minus controls Dragon,q,0.0,calc
+year_effect,MY Chinese minus controls Horse,n,2,calc
+year_effect,MY Chinese minus controls Horse,mean_pct,4.397,calc
+year_effect,MY Chinese minus controls Horse,lo_pct,-1.539,calc
+year_effect,MY Chinese minus controls Horse,hi_pct,10.691,calc
+year_effect,MY Chinese minus controls Horse,plc_p5,-4.5,calc
+year_effect,MY Chinese minus controls Horse,plc_p95,7.311,calc
+year_effect,MY Chinese minus controls Horse,q,0.471,calc
+year_effect,MY Chinese minus controls Goat,n,2,calc
+year_effect,MY Chinese minus controls Goat,mean_pct,2.226,calc
+year_effect,MY Chinese minus controls Goat,lo_pct,-3.587,calc
+year_effect,MY Chinese minus controls Goat,hi_pct,8.389,calc
+year_effect,MY Chinese minus controls Goat,plc_p5,-4.5,calc
+year_effect,MY Chinese minus controls Goat,plc_p95,7.311,calc
+year_effect,MY Chinese minus controls Goat,q,0.757,calc
+boundary_step,SG Chinese Tiger enter,n,6,calc from sg_singstat
+boundary_step,SG Chinese Tiger enter,mean_pct,-7.098,calc from sg_singstat
+boundary_step,SG Chinese Tiger enter,plc_sd_pct,3.26,calc from sg_singstat
+boundary_step,SG Chinese Tiger enter,plc_p5,-5.079,calc from sg_singstat
+boundary_step,SG Chinese Tiger enter,plc_p95,6.03,calc from sg_singstat
+boundary_step,SG Chinese Tiger leave,n,6,calc from sg_singstat
+boundary_step,SG Chinese Tiger leave,mean_pct,6.925,calc from sg_singstat
+boundary_step,SG Chinese Tiger leave,plc_sd_pct,3.26,calc from sg_singstat
+boundary_step,SG Chinese Tiger leave,plc_p5,-5.079,calc from sg_singstat
+boundary_step,SG Chinese Tiger leave,plc_p95,6.03,calc from sg_singstat
+boundary_step,SG Chinese Dragon enter,n,6,calc from sg_singstat
+boundary_step,SG Chinese Dragon enter,mean_pct,8.655,calc from sg_singstat
+boundary_step,SG Chinese Dragon enter,plc_sd_pct,3.26,calc from sg_singstat
+boundary_step,SG Chinese Dragon enter,plc_p5,-5.079,calc from sg_singstat
+boundary_step,SG Chinese Dragon enter,plc_p95,6.03,calc from sg_singstat
+boundary_step,SG Chinese Dragon leave,n,6,calc from sg_singstat
+boundary_step,SG Chinese Dragon leave,mean_pct,-13.819,calc from sg_singstat
+boundary_step,SG Chinese Dragon leave,plc_sd_pct,3.26,calc from sg_singstat
+boundary_step,SG Chinese Dragon leave,plc_p5,-5.079,calc from sg_singstat
+boundary_step,SG Chinese Dragon leave,plc_p95,6.03,calc from sg_singstat
+boundary_step,SG Chinese Horse enter,n,6,calc from sg_singstat
+boundary_step,SG Chinese Horse enter,mean_pct,5.804,calc from sg_singstat
+boundary_step,SG Chinese Horse enter,plc_sd_pct,3.26,calc from sg_singstat
+boundary_step,SG Chinese Horse enter,plc_p5,-5.079,calc from sg_singstat
+boundary_step,SG Chinese Horse enter,plc_p95,6.03,calc from sg_singstat
+boundary_step,SG Chinese Horse leave,n,5,calc from sg_singstat
+boundary_step,SG Chinese Horse leave,mean_pct,-4.369,calc from sg_singstat
+boundary_step,SG Chinese Horse leave,plc_sd_pct,3.26,calc from sg_singstat
+boundary_step,SG Chinese Horse leave,plc_p5,-5.079,calc from sg_singstat
+boundary_step,SG Chinese Horse leave,plc_p95,6.03,calc from sg_singstat
+boundary_step,SG Chinese Goat enter,n,5,calc from sg_singstat
+boundary_step,SG Chinese Goat enter,mean_pct,-4.369,calc from sg_singstat
+boundary_step,SG Chinese Goat enter,plc_sd_pct,3.26,calc from sg_singstat
+boundary_step,SG Chinese Goat enter,plc_p5,-5.079,calc from sg_singstat
+boundary_step,SG Chinese Goat enter,plc_p95,6.03,calc from sg_singstat
+boundary_step,SG Chinese Goat leave,n,5,calc from sg_singstat
+boundary_step,SG Chinese Goat leave,mean_pct,-2.286,calc from sg_singstat
+boundary_step,SG Chinese Goat leave,plc_sd_pct,3.26,calc from sg_singstat
+boundary_step,SG Chinese Goat leave,plc_p5,-5.079,calc from sg_singstat
+boundary_step,SG Chinese Goat leave,plc_p95,6.03,calc from sg_singstat
+boundary_step,SG Malays Tiger enter,n,6,calc from sg_singstat
+boundary_step,SG Malays Tiger enter,mean_pct,-1.358,calc from sg_singstat
+boundary_step,SG Malays Tiger enter,plc_sd_pct,4.484,calc from sg_singstat
+boundary_step,SG Malays Tiger enter,plc_p5,-6.793,calc from sg_singstat
+boundary_step,SG Malays Tiger enter,plc_p95,7.852,calc from sg_singstat
+boundary_step,SG Malays Tiger leave,n,6,calc from sg_singstat
+boundary_step,SG Malays Tiger leave,mean_pct,-0.686,calc from sg_singstat
+boundary_step,SG Malays Tiger leave,plc_sd_pct,4.484,calc from sg_singstat
+boundary_step,SG Malays Tiger leave,plc_p5,-6.793,calc from sg_singstat
+boundary_step,SG Malays Tiger leave,plc_p95,7.852,calc from sg_singstat
+boundary_step,SG Malays Dragon enter,n,6,calc from sg_singstat
+boundary_step,SG Malays Dragon enter,mean_pct,0.48,calc from sg_singstat
+boundary_step,SG Malays Dragon enter,plc_sd_pct,4.484,calc from sg_singstat
+boundary_step,SG Malays Dragon enter,plc_p5,-6.793,calc from sg_singstat
+boundary_step,SG Malays Dragon enter,plc_p95,7.852,calc from sg_singstat
+boundary_step,SG Malays Dragon leave,n,6,calc from sg_singstat
+boundary_step,SG Malays Dragon leave,mean_pct,-1.07,calc from sg_singstat
+boundary_step,SG Malays Dragon leave,plc_sd_pct,4.484,calc from sg_singstat
+boundary_step,SG Malays Dragon leave,plc_p5,-6.793,calc from sg_singstat
+boundary_step,SG Malays Dragon leave,plc_p95,7.852,calc from sg_singstat
+boundary_step,SG Malays Horse enter,n,6,calc from sg_singstat
+boundary_step,SG Malays Horse enter,mean_pct,-0.453,calc from sg_singstat
+boundary_step,SG Malays Horse enter,plc_sd_pct,4.484,calc from sg_singstat
+boundary_step,SG Malays Horse enter,plc_p5,-6.793,calc from sg_singstat
+boundary_step,SG Malays Horse enter,plc_p95,7.852,calc from sg_singstat
+boundary_step,SG Malays Horse leave,n,5,calc from sg_singstat
+boundary_step,SG Malays Horse leave,mean_pct,-1.996,calc from sg_singstat
+boundary_step,SG Malays Horse leave,plc_sd_pct,4.484,calc from sg_singstat
+boundary_step,SG Malays Horse leave,plc_p5,-6.793,calc from sg_singstat
+boundary_step,SG Malays Horse leave,plc_p95,7.852,calc from sg_singstat
+boundary_step,SG Malays Goat enter,n,5,calc from sg_singstat
+boundary_step,SG Malays Goat enter,mean_pct,-1.996,calc from sg_singstat
+boundary_step,SG Malays Goat enter,plc_sd_pct,4.484,calc from sg_singstat
+boundary_step,SG Malays Goat enter,plc_p5,-6.793,calc from sg_singstat
+boundary_step,SG Malays Goat enter,plc_p95,7.852,calc from sg_singstat
+boundary_step,SG Malays Goat leave,n,5,calc from sg_singstat
+boundary_step,SG Malays Goat leave,mean_pct,0.691,calc from sg_singstat
+boundary_step,SG Malays Goat leave,plc_sd_pct,4.484,calc from sg_singstat
+boundary_step,SG Malays Goat leave,plc_p5,-6.793,calc from sg_singstat
+boundary_step,SG Malays Goat leave,plc_p95,7.852,calc from sg_singstat
+boundary_step,SG Indians Tiger enter,n,6,calc from sg_singstat
+boundary_step,SG Indians Tiger enter,mean_pct,-2.986,calc from sg_singstat
+boundary_step,SG Indians Tiger enter,plc_sd_pct,3.847,calc from sg_singstat
+boundary_step,SG Indians Tiger enter,plc_p5,-5.804,calc from sg_singstat
+boundary_step,SG Indians Tiger enter,plc_p95,6.828,calc from sg_singstat
+boundary_step,SG Indians Tiger leave,n,6,calc from sg_singstat
+boundary_step,SG Indians Tiger leave,mean_pct,-1.58,calc from sg_singstat
+boundary_step,SG Indians Tiger leave,plc_sd_pct,3.847,calc from sg_singstat
+boundary_step,SG Indians Tiger leave,plc_p5,-5.804,calc from sg_singstat
+boundary_step,SG Indians Tiger leave,plc_p95,6.828,calc from sg_singstat
+boundary_step,SG Indians Dragon enter,n,6,calc from sg_singstat
+boundary_step,SG Indians Dragon enter,mean_pct,2.117,calc from sg_singstat
+boundary_step,SG Indians Dragon enter,plc_sd_pct,3.847,calc from sg_singstat
+boundary_step,SG Indians Dragon enter,plc_p5,-5.804,calc from sg_singstat
+boundary_step,SG Indians Dragon enter,plc_p95,6.828,calc from sg_singstat
+boundary_step,SG Indians Dragon leave,n,6,calc from sg_singstat
+boundary_step,SG Indians Dragon leave,mean_pct,-0.735,calc from sg_singstat
+boundary_step,SG Indians Dragon leave,plc_sd_pct,3.847,calc from sg_singstat
+boundary_step,SG Indians Dragon leave,plc_p5,-5.804,calc from sg_singstat
+boundary_step,SG Indians Dragon leave,plc_p95,6.828,calc from sg_singstat
+boundary_step,SG Indians Horse enter,n,6,calc from sg_singstat
+boundary_step,SG Indians Horse enter,mean_pct,2.082,calc from sg_singstat
+boundary_step,SG Indians Horse enter,plc_sd_pct,3.847,calc from sg_singstat
+boundary_step,SG Indians Horse enter,plc_p5,-5.804,calc from sg_singstat
+boundary_step,SG Indians Horse enter,plc_p95,6.828,calc from sg_singstat
+boundary_step,SG Indians Horse leave,n,5,calc from sg_singstat
+boundary_step,SG Indians Horse leave,mean_pct,-2.633,calc from sg_singstat
+boundary_step,SG Indians Horse leave,plc_sd_pct,3.847,calc from sg_singstat
+boundary_step,SG Indians Horse leave,plc_p5,-5.804,calc from sg_singstat
+boundary_step,SG Indians Horse leave,plc_p95,6.828,calc from sg_singstat
+boundary_step,SG Indians Goat enter,n,5,calc from sg_singstat
+boundary_step,SG Indians Goat enter,mean_pct,-2.633,calc from sg_singstat
+boundary_step,SG Indians Goat enter,plc_sd_pct,3.847,calc from sg_singstat
+boundary_step,SG Indians Goat enter,plc_p5,-5.804,calc from sg_singstat
+boundary_step,SG Indians Goat enter,plc_p95,6.828,calc from sg_singstat
+boundary_step,SG Indians Goat leave,n,5,calc from sg_singstat
+boundary_step,SG Indians Goat leave,mean_pct,-1.21,calc from sg_singstat
+boundary_step,SG Indians Goat leave,plc_sd_pct,3.847,calc from sg_singstat
+boundary_step,SG Indians Goat leave,plc_p5,-5.804,calc from sg_singstat
+boundary_step,SG Indians Goat leave,plc_p95,6.828,calc from sg_singstat
+boundary_step,HK Tiger enter,n,4,calc from hk_csd
+boundary_step,HK Tiger enter,mean_pct,-2.778,calc from hk_csd
+boundary_step,HK Tiger enter,plc_sd_pct,6.562,calc from hk_csd
+boundary_step,HK Tiger enter,plc_p5,-13.118,calc from hk_csd
+boundary_step,HK Tiger enter,plc_p95,9.784,calc from hk_csd
+boundary_step,HK Tiger leave,n,4,calc from hk_csd
+boundary_step,HK Tiger leave,mean_pct,4.52,calc from hk_csd
+boundary_step,HK Tiger leave,plc_sd_pct,6.562,calc from hk_csd
+boundary_step,HK Tiger leave,plc_p5,-13.118,calc from hk_csd
+boundary_step,HK Tiger leave,plc_p95,9.784,calc from hk_csd
+boundary_step,HK Dragon enter,n,4,calc from hk_csd
+boundary_step,HK Dragon enter,mean_pct,6.917,calc from hk_csd
+boundary_step,HK Dragon enter,plc_sd_pct,6.562,calc from hk_csd
+boundary_step,HK Dragon enter,plc_p5,-13.118,calc from hk_csd
+boundary_step,HK Dragon enter,plc_p95,9.784,calc from hk_csd
+boundary_step,HK Dragon leave,n,5,calc from hk_csd
+boundary_step,HK Dragon leave,mean_pct,-15.115,calc from hk_csd
+boundary_step,HK Dragon leave,plc_sd_pct,6.562,calc from hk_csd
+boundary_step,HK Dragon leave,plc_p5,-13.118,calc from hk_csd
+boundary_step,HK Dragon leave,plc_p95,9.784,calc from hk_csd
+boundary_step,HK Horse enter,n,5,calc from hk_csd
+boundary_step,HK Horse enter,mean_pct,3.308,calc from hk_csd
+boundary_step,HK Horse enter,plc_sd_pct,6.562,calc from hk_csd
+boundary_step,HK Horse enter,plc_p5,-13.118,calc from hk_csd
+boundary_step,HK Horse enter,plc_p95,9.784,calc from hk_csd
+boundary_step,HK Horse leave,n,4,calc from hk_csd
+boundary_step,HK Horse leave,mean_pct,-2.491,calc from hk_csd
+boundary_step,HK Horse leave,plc_sd_pct,6.562,calc from hk_csd
+boundary_step,HK Horse leave,plc_p5,-13.118,calc from hk_csd
+boundary_step,HK Horse leave,plc_p95,9.784,calc from hk_csd
+boundary_step,HK Goat enter,n,4,calc from hk_csd
+boundary_step,HK Goat enter,mean_pct,-2.491,calc from hk_csd
+boundary_step,HK Goat enter,plc_sd_pct,6.562,calc from hk_csd
+boundary_step,HK Goat enter,plc_p5,-13.118,calc from hk_csd
+boundary_step,HK Goat enter,plc_p95,9.784,calc from hk_csd
+boundary_step,HK Goat leave,n,4,calc from hk_csd
+boundary_step,HK Goat leave,mean_pct,3.842,calc from hk_csd
+boundary_step,HK Goat leave,plc_sd_pct,6.562,calc from hk_csd
+boundary_step,HK Goat leave,plc_p5,-13.118,calc from hk_csd
+boundary_step,HK Goat leave,plc_p95,9.784,calc from hk_csd
+boundary_step,KR Tiger enter,n,4,calc
+boundary_step,KR Tiger enter,mean_pct,-1.485,calc
+boundary_step,KR Tiger enter,plc_sd_pct,3.957,calc
+boundary_step,KR Tiger enter,plc_p5,-7.667,calc
+boundary_step,KR Tiger enter,plc_p95,3.26,calc
+boundary_step,KR Tiger leave,n,4,calc
+boundary_step,KR Tiger leave,mean_pct,-2.891,calc
+boundary_step,KR Tiger leave,plc_sd_pct,3.957,calc
+boundary_step,KR Tiger leave,plc_p5,-7.667,calc
+boundary_step,KR Tiger leave,plc_p95,3.26,calc
+boundary_step,KR Dragon enter,n,4,calc
+boundary_step,KR Dragon enter,mean_pct,1.788,calc
+boundary_step,KR Dragon enter,plc_sd_pct,3.957,calc
+boundary_step,KR Dragon enter,plc_p5,-7.667,calc
+boundary_step,KR Dragon enter,plc_p95,3.26,calc
+boundary_step,KR Dragon leave,n,4,calc
+boundary_step,KR Dragon leave,mean_pct,-6.375,calc
+boundary_step,KR Dragon leave,plc_sd_pct,3.957,calc
+boundary_step,KR Dragon leave,plc_p5,-7.667,calc
+boundary_step,KR Dragon leave,plc_p95,3.26,calc
+boundary_step,KR Horse enter,n,4,calc
+boundary_step,KR Horse enter,mean_pct,1.592,calc
+boundary_step,KR Horse enter,plc_sd_pct,3.957,calc
+boundary_step,KR Horse enter,plc_p5,-7.667,calc
+boundary_step,KR Horse enter,plc_p95,3.26,calc
+boundary_step,KR Horse leave,n,3,calc
+boundary_step,KR Horse leave,mean_pct,5.14,calc
+boundary_step,KR Horse leave,plc_sd_pct,3.957,calc
+boundary_step,KR Horse leave,plc_p5,-7.667,calc
+boundary_step,KR Horse leave,plc_p95,3.26,calc
+boundary_step,KR Goat enter,n,3,calc
+boundary_step,KR Goat enter,mean_pct,5.14,calc
+boundary_step,KR Goat enter,plc_sd_pct,3.957,calc
+boundary_step,KR Goat enter,plc_p5,-7.667,calc
+boundary_step,KR Goat enter,plc_p95,3.26,calc
+boundary_step,KR Goat leave,n,3,calc
+boundary_step,KR Goat leave,mean_pct,-1.418,calc
+boundary_step,KR Goat leave,plc_sd_pct,3.957,calc
+boundary_step,KR Goat leave,plc_p5,-7.667,calc
+boundary_step,KR Goat leave,plc_p95,3.26,calc
+boundary_step,TW Tiger enter,n,2,calc
+boundary_step,TW Tiger enter,mean_pct,-11.532,calc
+boundary_step,TW Tiger enter,plc_sd_pct,3.017,calc
+boundary_step,TW Tiger enter,plc_p5,-6.091,calc
+boundary_step,TW Tiger enter,plc_p95,3.148,calc
+boundary_step,TW Tiger leave,n,3,calc
+boundary_step,TW Tiger leave,mean_pct,11.934,calc
+boundary_step,TW Tiger leave,plc_sd_pct,3.017,calc
+boundary_step,TW Tiger leave,plc_p5,-6.091,calc
+boundary_step,TW Tiger leave,plc_p95,3.148,calc
+boundary_step,TW Dragon enter,n,3,calc
+boundary_step,TW Dragon enter,mean_pct,7.554,calc
+boundary_step,TW Dragon enter,plc_sd_pct,3.017,calc
+boundary_step,TW Dragon enter,plc_p5,-6.091,calc
+boundary_step,TW Dragon enter,plc_p95,3.148,calc
+boundary_step,TW Dragon leave,n,3,calc
+boundary_step,TW Dragon leave,mean_pct,-16.857,calc
+boundary_step,TW Dragon leave,plc_sd_pct,3.017,calc
+boundary_step,TW Dragon leave,plc_p5,-6.091,calc
+boundary_step,TW Dragon leave,plc_p95,3.148,calc
+boundary_step,TW Horse enter,n,3,calc
+boundary_step,TW Horse enter,mean_pct,2.062,calc
+boundary_step,TW Horse enter,plc_sd_pct,3.017,calc
+boundary_step,TW Horse enter,plc_p5,-6.091,calc
+boundary_step,TW Horse enter,plc_p95,3.148,calc
+boundary_step,TW Horse leave,n,2,calc
+boundary_step,TW Horse leave,mean_pct,-4.999,calc
+boundary_step,TW Horse leave,plc_sd_pct,3.017,calc
+boundary_step,TW Horse leave,plc_p5,-6.091,calc
+boundary_step,TW Horse leave,plc_p95,3.148,calc
+boundary_step,TW Goat enter,n,2,calc
+boundary_step,TW Goat enter,mean_pct,-4.999,calc
+boundary_step,TW Goat enter,plc_sd_pct,3.017,calc
+boundary_step,TW Goat enter,plc_p5,-6.091,calc
+boundary_step,TW Goat enter,plc_p95,3.148,calc
+boundary_step,TW Goat leave,n,2,calc
+boundary_step,TW Goat leave,mean_pct,-2.771,calc
+boundary_step,TW Goat leave,plc_sd_pct,3.017,calc
+boundary_step,TW Goat leave,plc_p5,-6.091,calc
+boundary_step,TW Goat leave,plc_p95,3.148,calc
+event SG Chinese,1962,Tiger effect pct,-1.097,calc from sg_singstat
+event SG Chinese,1964,Dragon effect pct,2.159,calc from sg_singstat
+event SG Chinese,1966,Horse effect pct,-1.471,calc from sg_singstat
+event SG Chinese,1967,Goat effect pct,-5.071,calc from sg_singstat
+event SG Chinese,1974,Tiger effect pct,-0.979,calc from sg_singstat
+event SG Chinese,1976,Dragon effect pct,2.185,calc from sg_singstat
+event SG Chinese,1978,Horse effect pct,-4.02,calc from sg_singstat
+event SG Chinese,1979,Goat effect pct,-0.227,calc from sg_singstat
+event SG Chinese,1986,Tiger effect pct,-18.304,calc from sg_singstat
+event SG Chinese,1988,Dragon effect pct,24.344,calc from sg_singstat
+event SG Chinese,1990,Horse effect pct,11.44,calc from sg_singstat
+event SG Chinese,1991,Goat effect pct,3.699,calc from sg_singstat
+event SG Chinese,1998,Tiger effect pct,-4.892,calc from sg_singstat
+event SG Chinese,2000,Dragon effect pct,12.556,calc from sg_singstat
+event SG Chinese,2002,Horse effect pct,-2.688,calc from sg_singstat
+event SG Chinese,2003,Goat effect pct,-9.483,calc from sg_singstat
+event SG Chinese,2010,Tiger effect pct,-5.694,calc from sg_singstat
+event SG Chinese,2012,Dragon effect pct,10.822,calc from sg_singstat
+event SG Chinese,2014,Horse effect pct,9.785,calc from sg_singstat
+event SG Chinese,2015,Goat effect pct,6.462,calc from sg_singstat
+event SG Chinese,2022,Tiger effect pct,0.975,calc from sg_singstat
+event SG Chinese,2024,Dragon effect pct,11.023,calc from sg_singstat
+event SG Malays,1962,Tiger effect pct,3.978,calc from sg_singstat
+event SG Malays,1964,Dragon effect pct,16.636,calc from sg_singstat
+event SG Malays,1966,Horse effect pct,19.015,calc from sg_singstat
+event SG Malays,1967,Goat effect pct,8.446,calc from sg_singstat
+event SG Malays,1974,Tiger effect pct,-7.94,calc from sg_singstat
+event SG Malays,1976,Dragon effect pct,-20.087,calc from sg_singstat
+event SG Malays,1978,Horse effect pct,-17.186,calc from sg_singstat
+event SG Malays,1979,Goat effect pct,-14.236,calc from sg_singstat
+event SG Malays,1986,Tiger effect pct,-3.552,calc from sg_singstat
+event SG Malays,1988,Dragon effect pct,6.547,calc from sg_singstat
+event SG Malays,1990,Horse effect pct,10.503,calc from sg_singstat
+event SG Malays,1991,Goat effect pct,9.824,calc from sg_singstat
+event SG Malays,1998,Tiger effect pct,1.517,calc from sg_singstat
+event SG Malays,2000,Dragon effect pct,6.388,calc from sg_singstat
+event SG Malays,2002,Horse effect pct,-0.966,calc from sg_singstat
+event SG Malays,2003,Goat effect pct,-6.309,calc from sg_singstat
+event SG Malays,2010,Tiger effect pct,-10.464,calc from sg_singstat
+event SG Malays,2012,Dragon effect pct,-11.065,calc from sg_singstat
+event SG Malays,2014,Horse effect pct,-3.731,calc from sg_singstat
+event SG Malays,2015,Goat effect pct,2.161,calc from sg_singstat
+event SG Malays,2022,Tiger effect pct,7.783,calc from sg_singstat
+event SG Malays,2024,Dragon effect pct,-3.238,calc from sg_singstat
+event SG Indians,1962,Tiger effect pct,-0.534,calc from sg_singstat
+event SG Indians,1964,Dragon effect pct,7.158,calc from sg_singstat
+event SG Indians,1966,Horse effect pct,10.897,calc from sg_singstat
+event SG Indians,1967,Goat effect pct,3.521,calc from sg_singstat
+event SG Indians,1974,Tiger effect pct,-6.332,calc from sg_singstat
+event SG Indians,1976,Dragon effect pct,-18.871,calc from sg_singstat
+event SG Indians,1978,Horse effect pct,-12.8,calc from sg_singstat
+event SG Indians,1979,Goat effect pct,-3.716,calc from sg_singstat
+event SG Indians,1986,Tiger effect pct,-5.384,calc from sg_singstat
+event SG Indians,1988,Dragon effect pct,5.637,calc from sg_singstat
+event SG Indians,1990,Horse effect pct,9.144,calc from sg_singstat
+event SG Indians,1991,Goat effect pct,2.805,calc from sg_singstat
+event SG Indians,1998,Tiger effect pct,1.793,calc from sg_singstat
+event SG Indians,2000,Dragon effect pct,2.095,calc from sg_singstat
+event SG Indians,2002,Horse effect pct,0.757,calc from sg_singstat
+event SG Indians,2003,Goat effect pct,-5.657,calc from sg_singstat
+event SG Indians,2010,Tiger effect pct,2.685,calc from sg_singstat
+event SG Indians,2012,Dragon effect pct,9.087,calc from sg_singstat
+event SG Indians,2014,Horse effect pct,9.173,calc from sg_singstat
+event SG Indians,2015,Goat effect pct,9.42,calc from sg_singstat
+event SG Indians,2022,Tiger effect pct,2.904,calc from sg_singstat
+event SG Indians,2024,Dragon effect pct,0.287,calc from sg_singstat
+event SG Chinese minus controls,1962,Tiger effect pct,-3.572,calc from sg_singstat
+event SG Chinese minus controls,1964,Dragon effect pct,-10.197,calc from sg_singstat
+event SG Chinese minus controls,1966,Horse effect pct,-15.474,calc from sg_singstat
+event SG Chinese minus controls,1967,Goat effect pct,-11.271,calc from sg_singstat
+event SG Chinese minus controls,1974,Tiger effect pct,7.022,calc from sg_singstat
+event SG Chinese minus controls,1976,Dragon effect pct,27.305,calc from sg_singstat
+event SG Chinese minus controls,1978,Horse effect pct,14.129,calc from sg_singstat
+event SG Chinese minus controls,1979,Goat effect pct,12.285,calc from sg_singstat
+event SG Chinese minus controls,1986,Tiger effect pct,-14.819,calc from sg_singstat
+event SG Chinese minus controls,1988,Dragon effect pct,17.002,calc from sg_singstat
+event SG Chinese minus controls,1990,Horse effect pct,1.214,calc from sg_singstat
+event SG Chinese minus controls,1991,Goat effect pct,-3.783,calc from sg_singstat
+event SG Chinese minus controls,1998,Tiger effect pct,-6.292,calc from sg_singstat
+event SG Chinese minus controls,2000,Dragon effect pct,7.42,calc from sg_singstat
+event SG Chinese minus controls,2002,Horse effect pct,-2.081,calc from sg_singstat
+event SG Chinese minus controls,2003,Goat effect pct,-3.372,calc from sg_singstat
+event SG Chinese minus controls,2010,Tiger effect pct,-0.331,calc from sg_singstat
+event SG Chinese minus controls,2012,Dragon effect pct,14.527,calc from sg_singstat
+event SG Chinese minus controls,2014,Horse effect pct,8.52,calc from sg_singstat
+event SG Chinese minus controls,2015,Goat effect pct,1.553,calc from sg_singstat
+event SG Chinese minus controls,2022,Tiger effect pct,-4.76,calc from sg_singstat
+event SG Chinese minus controls,2024,Dragon effect pct,13.361,calc from sg_singstat
+event HK,1978,Horse effect pct,-2.019,calc from hk_csd
+event HK,1979,Goat effect pct,-1.746,calc from hk_csd
+event HK,1986,Tiger effect pct,-5.836,calc from hk_csd
+event HK,1988,Dragon effect pct,3.358,calc from hk_csd
+event HK,1990,Horse effect pct,-4.764,calc from hk_csd
+event HK,1991,Goat effect pct,-0.974,calc from hk_csd
+event HK,1998,Tiger effect pct,-8.538,calc from hk_csd
+event HK,2000,Dragon effect pct,-7.314,calc from hk_csd
+event HK,2002,Horse effect pct,-17.723,calc from hk_csd
+event HK,2003,Goat effect pct,-22.103,calc from hk_csd
+event HK,2010,Tiger effect pct,31.412,calc from hk_csd
+event HK,2012,Dragon effect pct,31.269,calc from hk_csd
+event HK,2014,Horse effect pct,-1.932,calc from hk_csd
+event HK,2015,Goat effect pct,-3.054,calc from hk_csd
+event HK,2022,Tiger effect pct,-12.976,calc from hk_csd
+event HK,2024,Dragon effect pct,17.9,calc from hk_csd
+event HK Gregorian,1964,Dragon effect pct,4.724,calc from hk_csd
+event HK Gregorian,1966,Horse effect pct,-3.518,calc from hk_csd
+event HK Gregorian,1967,Goat effect pct,-4.598,calc from hk_csd
+event HK Gregorian,1974,Tiger effect pct,2.595,calc from hk_csd
+event HK Gregorian,1976,Dragon effect pct,-4.615,calc from hk_csd
+event HK Gregorian,1978,Horse effect pct,-1.499,calc from hk_csd
+event HK Gregorian,1979,Goat effect pct,0.053,calc from hk_csd
+event HK Gregorian,1986,Tiger effect pct,-5.867,calc from hk_csd
+event HK Gregorian,1988,Dragon effect pct,1.25,calc from hk_csd
+event HK Gregorian,1990,Horse effect pct,-4.853,calc from hk_csd
+event HK Gregorian,1991,Goat effect pct,-1.933,calc from hk_csd
+event HK Gregorian,1998,Tiger effect pct,-8.625,calc from hk_csd
+event HK Gregorian,2000,Dragon effect pct,-7.598,calc from hk_csd
+event HK Gregorian,2002,Horse effect pct,-18.491,calc from hk_csd
+event HK Gregorian,2003,Goat effect pct,-20.888,calc from hk_csd
+event HK Gregorian,2010,Tiger effect pct,29.899,calc from hk_csd
+event HK Gregorian,2012,Dragon effect pct,36.249,calc from hk_csd
+event HK Gregorian,2014,Horse effect pct,-3.266,calc from hk_csd
+event HK Gregorian,2015,Goat effect pct,-2.408,calc from hk_csd
+event HK Gregorian,2022,Tiger effect pct,-13.357,calc from hk_csd
+event HK Gregorian,2024,Dragon effect pct,16.044,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),1988,Dragon effect pct,7.971,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),1990,Horse effect pct,-3.366,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),1991,Goat effect pct,-1.621,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),1998,Tiger effect pct,-7.587,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2000,Dragon effect pct,-1.948,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2002,Horse effect pct,-9.688,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2003,Goat effect pct,-11.542,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2010,Tiger effect pct,1.007,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2012,Dragon effect pct,16.333,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2014,Horse effect pct,14.784,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2015,Goat effect pct,12.729,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2022,Tiger effect pct,-13.228,calc from hk_csd
+event HK excl. mainland mothers (spouse not permanent resident),2024,Dragon effect pct,15.866,calc from hk_csd
+event KR,1986,Tiger effect pct,-11.902,calc
+event KR,1988,Dragon effect pct,-11.57,calc
+event KR,1990,Horse effect pct,-1.884,calc
+event KR,1991,Goat effect pct,3.991,calc
+event KR,1998,Tiger effect pct,3.745,calc
+event KR,2000,Dragon effect pct,10.188,calc
+event KR,2002,Horse effect pct,-9.554,calc
+event KR,2003,Goat effect pct,-5.912,calc
+event KR,2010,Tiger effect pct,6.518,calc
+event KR,2012,Dragon effect pct,15.305,calc
+event KR,2014,Horse effect pct,13.381,calc
+event KR,2015,Goat effect pct,16.788,calc
+event KR,2022,Tiger effect pct,-6.127,calc
+event KR,2024,Dragon effect pct,-1.667,calc
+event KR Gregorian,1974,Tiger effect pct,-0.509,calc
+event KR Gregorian,1976,Dragon effect pct,-12.199,calc
+event KR Gregorian,1978,Horse effect pct,-12.09,calc
+event KR Gregorian,1979,Goat effect pct,3.846,calc
+event KR Gregorian,1986,Tiger effect pct,-11.07,calc
+event KR Gregorian,1988,Dragon effect pct,-10.152,calc
+event KR Gregorian,1990,Horse effect pct,-4.58,calc
+event KR Gregorian,1991,Goat effect pct,4.565,calc
+event KR Gregorian,1998,Tiger effect pct,2.999,calc
+event KR Gregorian,2000,Dragon effect pct,11.225,calc
+event KR Gregorian,2002,Horse effect pct,-8.905,calc
+event KR Gregorian,2003,Goat effect pct,-5.991,calc
+event KR Gregorian,2010,Tiger effect pct,4.848,calc
+event KR Gregorian,2012,Dragon effect pct,14.964,calc
+event KR Gregorian,2014,Horse effect pct,11.841,calc
+event KR Gregorian,2015,Goat effect pct,16.969,calc
+event KR Gregorian,2022,Tiger effect pct,-5.133,calc
+event KR Gregorian,2024,Dragon effect pct,-1.361,calc
+event TW,2000,Dragon effect pct,12.727,calc
+event TW,2002,Horse effect pct,0.606,calc
+event TW,2003,Goat effect pct,-4.398,calc
+event TW,2010,Tiger effect pct,-17.08,calc
+event TW,2012,Dragon effect pct,19.008,calc
+event TW,2014,Horse effect pct,12.238,calc
+event TW,2015,Goat effect pct,14.261,calc
+event TW,2022,Tiger effect pct,-1.66,calc
+event TW,2024,Dragon effect pct,11.035,calc
+event TW Gregorian,1962,Tiger effect pct,2.359,calc
+event TW Gregorian,1964,Dragon effect pct,2.195,calc
+event TW Gregorian,1966,Horse effect pct,3.524,calc
+event TW Gregorian,1967,Goat effect pct,-5.946,calc
+event TW Gregorian,1974,Tiger effect pct,-7.444,calc
+event TW Gregorian,1976,Dragon effect pct,9.275,calc
+event TW Gregorian,1978,Horse effect pct,7.487,calc
+event TW Gregorian,1979,Goat effect pct,10.542,calc
+event TW Gregorian,1986,Tiger effect pct,-12.236,calc
+event TW Gregorian,1988,Dragon effect pct,0.62,calc
+event TW Gregorian,1990,Horse effect pct,2.096,calc
+event TW Gregorian,1991,Goat effect pct,-1.28,calc
+event TW Gregorian,1998,Tiger effect pct,-6.061,calc
+event TW Gregorian,2000,Dragon effect pct,15.603,calc
+event TW Gregorian,2002,Horse effect pct,-0.63,calc
+event TW Gregorian,2003,Goat effect pct,-4.692,calc
+event TW Gregorian,2010,Tiger effect pct,-17.364,calc
+event TW Gregorian,2012,Dragon effect pct,19.275,calc
+event TW Gregorian,2014,Horse effect pct,11.458,calc
+event TW Gregorian,2015,Goat effect pct,13.966,calc
+event TW Gregorian,2022,Tiger effect pct,-1.007,calc
+event TW Gregorian,2024,Dragon effect pct,12.787,calc
+event JP,1954,Horse effect pct,-0.079,calc
+event JP,1955,Goat effect pct,-0.084,calc
+event JP,1962,Tiger effect pct,-3.883,calc
+event JP,1964,Dragon effect pct,-1.195,calc
+event JP,1966,Horse effect pct,-23.856,calc
+event JP,1967,Goat effect pct,6.409,calc
+event JP,1974,Tiger effect pct,9.314,calc
+event JP,1976,Dragon effect pct,2.549,calc
+event JP,1978,Horse effect pct,-1.017,calc
+event JP,1979,Goat effect pct,-2.358,calc
+event JP,1986,Tiger effect pct,0.072,calc
+event JP,1988,Dragon effect pct,-1.727,calc
+event JP,1990,Horse effect pct,-5.381,calc
+event JP,1991,Goat effect pct,-3.27,calc
+event JP,1998,Tiger effect pct,2.212,calc
+event JP,2000,Dragon effect pct,3.132,calc
+event JP,2002,Horse effect pct,1.417,calc
+event JP,2003,Goat effect pct,-0.331,calc
+event JP,2010,Tiger effect pct,1.884,calc
+event JP,2012,Dragon effect pct,1.417,calc
+event JP,2014,Horse effect pct,2.003,calc
+event JP,2015,Goat effect pct,4.381,calc
+event JP,2022,Tiger effect pct,0.595,calc
+event JP,2024,Dragon effect pct,-2.14,calc
+event MY Chinese,2002,Horse effect pct,5.966,calc
+event MY Chinese,2003,Goat effect pct,0.716,calc
+event MY Chinese,2010,Tiger effect pct,-4.929,calc
+event MY Chinese,2012,Dragon effect pct,17.012,calc
+event MY Chinese,2014,Horse effect pct,8.559,calc
+event MY Chinese,2015,Goat effect pct,8.224,calc
+event MY Chinese,2022,Tiger effect pct,-8.813,calc
+event MY Chinese,2024,Dragon effect pct,17.79,calc
+event MY Malays,2002,Horse effect pct,0.725,calc
+event MY Malays,2003,Goat effect pct,-0.411,calc
+event MY Malays,2010,Tiger effect pct,-1.836,calc
+event MY Malays,2012,Dragon effect pct,2.167,calc
+event MY Malays,2014,Horse effect pct,5.004,calc
+event MY Malays,2015,Goat effect pct,5.025,calc
+event MY Malays,2022,Tiger effect pct,-2.417,calc
+event MY Malays,2024,Dragon effect pct,-3.535,calc
+event MY Indians,2002,Horse effect pct,2.175,calc
+event MY Indians,2003,Goat effect pct,0.583,calc
+event MY Indians,2010,Tiger effect pct,3.922,calc
+event MY Indians,2012,Dragon effect pct,2.362,calc
+event MY Indians,2014,Horse effect pct,1.162,calc
+event MY Indians,2015,Goat effect pct,0.244,calc
+event MY Indians,2022,Tiger effect pct,-8.75,calc
+event MY Indians,2024,Dragon effect pct,-1.075,calc
+event MY Chinese minus controls,2002,Horse effect pct,5.046,calc
+event MY Chinese minus controls,2003,Goat effect pct,1.025,calc
+event MY Chinese minus controls,2010,Tiger effect pct,-3.504,calc
+event MY Chinese minus controls,2012,Dragon effect pct,14.66,calc
+event MY Chinese minus controls,2014,Horse effect pct,3.752,calc
+event MY Chinese minus controls,2015,Goat effect pct,3.441,calc
+event MY Chinese minus controls,2022,Tiger effect pct,-6.185,calc
+event MY Chinese minus controls,2024,Dragon effect pct,21.924,calc
+japan_recent_monthly,2024-08,total,60698,jp_mhlw monthly report
+japan_recent_monthly,2024-08,boys,31181,jp_mhlw monthly report
+japan_recent_monthly,2024-08,girls,29517,jp_mhlw monthly report
+japan_recent_monthly,2024-08,ratio,105.637,jp_mhlw monthly report
+japan_recent_monthly,2024-09,total,58059,jp_mhlw monthly report
+japan_recent_monthly,2024-09,boys,29501,jp_mhlw monthly report
+japan_recent_monthly,2024-09,girls,28558,jp_mhlw monthly report
+japan_recent_monthly,2024-09,ratio,103.302,jp_mhlw monthly report
+japan_recent_monthly,2024-10,total,60213,jp_mhlw monthly report
+japan_recent_monthly,2024-10,boys,30736,jp_mhlw monthly report
+japan_recent_monthly,2024-10,girls,29477,jp_mhlw monthly report
+japan_recent_monthly,2024-10,ratio,104.271,jp_mhlw monthly report
+japan_recent_monthly,2024-11,total,54917,jp_mhlw monthly report
+japan_recent_monthly,2024-11,boys,28194,jp_mhlw monthly report
+japan_recent_monthly,2024-11,girls,26723,jp_mhlw monthly report
+japan_recent_monthly,2024-11,ratio,105.505,jp_mhlw monthly report
+japan_recent_monthly,2024-12,total,59870,jp_mhlw monthly report
+japan_recent_monthly,2024-12,boys,30532,jp_mhlw monthly report
+japan_recent_monthly,2024-12,girls,29338,jp_mhlw monthly report
+japan_recent_monthly,2024-12,ratio,104.07,jp_mhlw monthly report
+japan_recent_monthly,2025-01,total,51816,jp_mhlw monthly report
+japan_recent_monthly,2025-01,boys,26651,jp_mhlw monthly report
+japan_recent_monthly,2025-01,girls,25165,jp_mhlw monthly report
+japan_recent_monthly,2025-01,ratio,105.905,jp_mhlw monthly report
+japan_recent_monthly,2025-02,total,48256,jp_mhlw monthly report
+japan_recent_monthly,2025-02,boys,24614,jp_mhlw monthly report
+japan_recent_monthly,2025-02,girls,23642,jp_mhlw monthly report
+japan_recent_monthly,2025-02,ratio,104.111,jp_mhlw monthly report
+japan_recent_monthly,2025-03,total,50767,jp_mhlw monthly report
+japan_recent_monthly,2025-03,boys,25954,jp_mhlw monthly report
+japan_recent_monthly,2025-03,girls,24813,jp_mhlw monthly report
+japan_recent_monthly,2025-03,ratio,104.598,jp_mhlw monthly report
+japan_recent_monthly,2025-04,total,54686,jp_mhlw monthly report
+japan_recent_monthly,2025-04,boys,28298,jp_mhlw monthly report
+japan_recent_monthly,2025-04,girls,26388,jp_mhlw monthly report
+japan_recent_monthly,2025-04,ratio,107.238,jp_mhlw monthly report
+japan_recent_monthly,2025-05,total,57896,jp_mhlw monthly report
+japan_recent_monthly,2025-05,boys,29946,jp_mhlw monthly report
+japan_recent_monthly,2025-05,girls,27950,jp_mhlw monthly report
+japan_recent_monthly,2025-05,ratio,107.141,jp_mhlw monthly report
+japan_recent_monthly,2025-06,total,55658,jp_mhlw monthly report
+japan_recent_monthly,2025-06,boys,28563,jp_mhlw monthly report
+japan_recent_monthly,2025-06,girls,27095,jp_mhlw monthly report
+japan_recent_monthly,2025-06,ratio,105.418,jp_mhlw monthly report
+japan_recent_monthly,2025-07,total,60650,jp_mhlw monthly report
+japan_recent_monthly,2025-07,boys,31264,jp_mhlw monthly report
+japan_recent_monthly,2025-07,girls,29386,jp_mhlw monthly report
+japan_recent_monthly,2025-07,ratio,106.391,jp_mhlw monthly report
+japan_recent_monthly,2025-08,total,58976,jp_mhlw monthly report
+japan_recent_monthly,2025-08,boys,30330,jp_mhlw monthly report
+japan_recent_monthly,2025-08,girls,28646,jp_mhlw monthly report
+japan_recent_monthly,2025-08,ratio,105.879,jp_mhlw monthly report
+japan_recent_monthly,2025-09,total,57407,jp_mhlw monthly report
+japan_recent_monthly,2025-09,boys,29215,jp_mhlw monthly report
+japan_recent_monthly,2025-09,girls,28192,jp_mhlw monthly report
+japan_recent_monthly,2025-09,ratio,103.629,jp_mhlw monthly report
+japan_recent_monthly,2025-10,total,59979,jp_mhlw monthly report
+japan_recent_monthly,2025-10,boys,30736,jp_mhlw monthly report
+japan_recent_monthly,2025-10,girls,29243,jp_mhlw monthly report
+japan_recent_monthly,2025-10,ratio,105.105,jp_mhlw monthly report
+japan_recent_monthly,2025-11,total,54047,jp_mhlw monthly report
+japan_recent_monthly,2025-11,boys,27557,jp_mhlw monthly report
+japan_recent_monthly,2025-11,girls,26490,jp_mhlw monthly report
+japan_recent_monthly,2025-11,ratio,104.028,jp_mhlw monthly report
+japan_recent_monthly,2025-12,total,61098,jp_mhlw monthly report
+japan_recent_monthly,2025-12,boys,31087,jp_mhlw monthly report
+japan_recent_monthly,2025-12,girls,30011,jp_mhlw monthly report
+japan_recent_monthly,2025-12,ratio,103.585,jp_mhlw monthly report
+japan_recent_monthly,2026-01,total,51874,jp_mhlw monthly report
+japan_recent_monthly,2026-01,boys,26519,jp_mhlw monthly report
+japan_recent_monthly,2026-01,girls,25355,jp_mhlw monthly report
+japan_recent_monthly,2026-01,ratio,104.591,jp_mhlw monthly report
+japan_recent_monthly,2026-02,total,47904,jp_mhlw monthly report
+japan_recent_monthly,2026-02,boys,24474,jp_mhlw monthly report
+japan_recent_monthly,2026-02,girls,23430,jp_mhlw monthly report
+japan_recent_monthly,2026-02,ratio,104.456,jp_mhlw monthly report
+japan_recent_monthly,2026-03,total,50752,jp_mhlw monthly report
+japan_recent_monthly,2026-03,boys,25889,jp_mhlw monthly report
+japan_recent_monthly,2026-03,girls,24863,jp_mhlw monthly report
+japan_recent_monthly,2026-03,ratio,104.127,jp_mhlw monthly report
+japan_recent_monthly,2026-04,total,56441,jp_mhlw monthly report
+japan_recent_monthly,2026-04,boys,29104,jp_mhlw monthly report
+japan_recent_monthly,2026-04,girls,27337,jp_mhlw monthly report
+japan_recent_monthly,2026-04,ratio,106.464,jp_mhlw monthly report
+japan_recent_monthly,2026-05,total,56664,jp_mhlw monthly report
+japan_recent_monthly,2026-05,boys,29272,jp_mhlw monthly report
+japan_recent_monthly,2026-05,girls,27392,jp_mhlw monthly report
+japan_recent_monthly,2026-05,ratio,106.863,jp_mhlw monthly report
+singapore_lunar_year,1960,chinese_per_day,122.405,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1960,malay_per_day,29.121,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1960,indian_per_day,13.76,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1961,chinese_per_day,117.794,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1961,malay_per_day,30.112,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1961,indian_per_day,12.935,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1962,chinese_per_day,114.751,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1962,malay_per_day,30.991,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1962,indian_per_day,12.734,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1963,chinese_per_day,115.525,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1963,malay_per_day,31.812,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1963,indian_per_day,12.652,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1964,chinese_per_day,111.301,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1964,malay_per_day,31.82,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1964,indian_per_day,12.401,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1965,chinese_per_day,107.899,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1965,malay_per_day,30.109,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1965,indian_per_day,12.119,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1966,chinese_per_day,103.877,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1966,malay_per_day,29.928,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1966,indian_per_day,11.74,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1967,chinese_per_day,98.424,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1967,malay_per_day,26.604,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1967,indian_per_day,10.492,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1968,chinese_per_day,92.995,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1968,malay_per_day,23.207,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1968,indian_per_day,9.053,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1969,chinese_per_day,89.613,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1969,malay_per_day,20.096,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1969,indian_per_day,8.922,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1970,chinese_per_day,95.183,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1970,malay_per_day,20.146,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1970,indian_per_day,8.415,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1971,chinese_per_day,97.213,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1971,malay_per_day,19.726,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1971,indian_per_day,8.425,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1972,chinese_per_day,104.65,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1972,malay_per_day,20.985,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1972,indian_per_day,8.474,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1973,chinese_per_day,101.759,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1973,malay_per_day,18.673,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1973,indian_per_day,7.661,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1974,chinese_per_day,89.186,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1974,malay_per_day,16.81,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1974,indian_per_day,7.197,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1975,chinese_per_day,84.173,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1975,malay_per_day,15.364,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1975,indian_per_day,6.322,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1976,chinese_per_day,91.239,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1976,malay_per_day,14.781,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1976,indian_per_day,6.31,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1977,chinese_per_day,80.014,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1977,malay_per_day,14.712,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1977,indian_per_day,6.423,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1978,chinese_per_day,83.247,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1978,malay_per_day,15.438,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1978,indian_per_day,6.775,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1979,chinese_per_day,84.242,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1979,malay_per_day,15.771,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1979,indian_per_day,7.397,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1980,chinese_per_day,82.654,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1980,malay_per_day,18.386,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1980,indian_per_day,7.93,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1981,chinese_per_day,83.528,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1981,malay_per_day,19.674,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1981,indian_per_day,8.139,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1982,chinese_per_day,83.082,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1982,malay_per_day,20.125,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1982,indian_per_day,8.662,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1983,chinese_per_day,77.086,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1983,malay_per_day,20.575,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1983,indian_per_day,8.514,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1984,chinese_per_day,79.114,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1984,malay_per_day,21.79,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1984,indian_per_day,8.801,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1985,chinese_per_day,79.957,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1985,malay_per_day,22.158,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1985,indian_per_day,8.952,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1986,chinese_per_day,68.541,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1986,malay_per_day,22.137,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1986,indian_per_day,8.833,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1987,chinese_per_day,83.065,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1987,malay_per_day,23.848,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1987,indian_per_day,9.495,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1988,chinese_per_day,106.485,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1988,malay_per_day,25.424,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1988,indian_per_day,10.267,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1989,chinese_per_day,87.801,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1989,malay_per_day,26.86,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1989,indian_per_day,10.39,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1990,chinese_per_day,97.0,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1990,malay_per_day,27.133,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1990,indian_per_day,10.883,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1991,chinese_per_day,91.128,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1991,malay_per_day,27.274,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1991,indian_per_day,10.423,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1992,chinese_per_day,91.542,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1992,malay_per_day,26.607,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1992,indian_per_day,10.86,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1993,chinese_per_day,93.719,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1993,malay_per_day,26.934,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1993,indian_per_day,11.068,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1994,chinese_per_day,93.347,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1994,malay_per_day,25.461,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1994,indian_per_day,10.51,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1995,chinese_per_day,91.387,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1995,malay_per_day,24.977,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1995,indian_per_day,10.277,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1996,chinese_per_day,91.076,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1996,malay_per_day,24.384,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1996,indian_per_day,10.442,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1997,chinese_per_day,88.12,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1997,malay_per_day,23.703,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1997,indian_per_day,10.514,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1998,chinese_per_day,77.659,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1998,malay_per_day,22.946,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1998,indian_per_day,10.484,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1999,chinese_per_day,79.881,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1999,malay_per_day,22.059,sg_singstat aggregated by StarTarot
+singapore_lunar_year,1999,indian_per_day,10.206,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2000,chinese_per_day,87.928,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2000,malay_per_day,22.603,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2000,indian_per_day,10.484,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2001,chinese_per_day,73.465,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2001,malay_per_day,21.263,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2001,indian_per_day,10.179,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2002,chinese_per_day,73.119,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2002,malay_per_day,19.879,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2002,indian_per_day,10.458,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2003,chinese_per_day,66.219,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2003,malay_per_day,18.248,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2003,indian_per_day,9.849,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2004,chinese_per_day,65.573,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2004,malay_per_day,17.832,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2004,indian_per_day,9.698,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2005,chinese_per_day,66.869,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2005,malay_per_day,18.006,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2005,indian_per_day,10.106,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2006,chinese_per_day,67.666,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2006,malay_per_day,17.599,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2006,indian_per_day,10.59,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2007,chinese_per_day,70.051,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2007,malay_per_day,17.169,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2007,indian_per_day,10.932,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2008,chinese_per_day,68.805,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2008,malay_per_day,17.137,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2008,indian_per_day,10.942,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2009,chinese_per_day,67.803,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2009,malay_per_day,16.537,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2009,indian_per_day,11.582,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2010,chinese_per_day,63.524,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2010,malay_per_day,15.621,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2010,indian_per_day,11.778,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2011,chinese_per_day,68.084,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2011,malay_per_day,15.79,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2011,indian_per_day,12.059,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2012,chinese_per_day,73.662,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2012,malay_per_day,16.011,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2012,indian_per_day,12.768,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2013,chinese_per_day,64.238,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2013,malay_per_day,16.923,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2013,indian_per_day,12.7,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2014,chinese_per_day,71.726,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2014,malay_per_day,17.746,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2014,indian_per_day,12.96,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2015,chinese_per_day,68.928,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2015,malay_per_day,19.06,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2015,indian_per_day,13.231,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2016,chinese_per_day,67.762,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2016,malay_per_day,19.777,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2016,indian_per_day,12.301,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2017,chinese_per_day,63.641,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2017,malay_per_day,20.033,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2017,indian_per_day,12.17,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2018,chinese_per_day,62.035,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2018,malay_per_day,20.875,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2018,indian_per_day,11.871,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2019,chinese_per_day,63.936,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2019,malay_per_day,20.978,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2019,indian_per_day,11.553,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2020,chinese_per_day,59.304,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2020,malay_per_day,21.102,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2020,indian_per_day,11.956,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2021,chinese_per_day,60.845,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2021,malay_per_day,21.829,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2021,indian_per_day,12.937,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2022,chinese_per_day,54.646,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2022,malay_per_day,21.55,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2022,indian_per_day,11.147,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2023,chinese_per_day,52.572,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2023,malay_per_day,19.877,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2023,indian_per_day,10.459,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2024,chinese_per_day,54.739,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2024,malay_per_day,18.658,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2024,indian_per_day,10.119,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2025,chinese_per_day,45.083,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2025,malay_per_day,18.216,sg_singstat aggregated by StarTarot
+singapore_lunar_year,2025,indian_per_day,9.169,sg_singstat aggregated by StarTarot
+taiwan_annual,1958,births registered,413679.0,tw_ris y2s1
+taiwan_annual,1959,births registered,423863.0,tw_ris y2s1
+taiwan_annual,1960,births registered,422319.0,tw_ris y2s1
+taiwan_annual,1961,births registered,422740.0,tw_ris y2s1
+taiwan_annual,1962,births registered,426325.0,tw_ris y2s1
+taiwan_annual,1963,births registered,427212.0,tw_ris y2s1
+taiwan_annual,1964,births registered,419797.0,tw_ris y2s1
+taiwan_annual,1965,births registered,409620.0,tw_ris y2s1
+taiwan_annual,1966,births registered,418327.0,tw_ris y2s1
+taiwan_annual,1967,births registered,376806.0,tw_ris y2s1
+taiwan_annual,1968,births registered,396886.0,tw_ris y2s1
+taiwan_annual,1969,births registered,393455.0,tw_ris y2s1
+taiwan_annual,1970,births registered,396479.0,tw_ris y2s1
+taiwan_annual,1971,births registered,382797.0,tw_ris y2s1
+taiwan_annual,1972,births registered,368067.0,tw_ris y2s1
+taiwan_annual,1973,births registered,369022.0,tw_ris y2s1
+taiwan_annual,1974,births occurred,357696.0,tw_ris y2s1
+taiwan_annual,1974,sex_ratio,106.825,tw_ris y2s1
+taiwan_annual,1975,births occurred,359472.0,tw_ris y2s1
+taiwan_annual,1975,sex_ratio,106.048,tw_ris y2s1
+taiwan_annual,1976,births occurred,425886.0,tw_ris y2s1
+taiwan_annual,1976,sex_ratio,106.493,tw_ris y2s1
+taiwan_annual,1977,births occurred,395260.0,tw_ris y2s1
+taiwan_annual,1977,sex_ratio,106.39,tw_ris y2s1
+taiwan_annual,1978,births occurred,413270.0,tw_ris y2s1
+taiwan_annual,1978,sex_ratio,107.381,tw_ris y2s1
+taiwan_annual,1979,births occurred,423266.0,tw_ris y2s1
+taiwan_annual,1979,sex_ratio,107.154,tw_ris y2s1
+taiwan_annual,1980,births occurred,413177.0,tw_ris y2s1
+taiwan_annual,1980,sex_ratio,106.474,tw_ris y2s1
+taiwan_annual,1981,births occurred,415808.0,tw_ris y2s1
+taiwan_annual,1981,sex_ratio,107.066,tw_ris y2s1
+taiwan_annual,1982,births occurred,403143.0,tw_ris y2s1
+taiwan_annual,1982,sex_ratio,106.94,tw_ris y2s1
+taiwan_annual,1983,births occurred,382313.0,tw_ris y2s1
+taiwan_annual,1983,sex_ratio,106.725,tw_ris y2s1
+taiwan_annual,1984,births occurred,370078.0,tw_ris y2s1
+taiwan_annual,1984,sex_ratio,107.367,tw_ris y2s1
+taiwan_annual,1985,births occurred,344101.0,tw_ris y2s1
+taiwan_annual,1985,sex_ratio,106.667,tw_ris y2s1
+taiwan_annual,1986,births occurred,307363.0,tw_ris y2s1
+taiwan_annual,1986,sex_ratio,107.291,tw_ris y2s1
+taiwan_annual,1987,births occurred,314245.0,tw_ris y2s1
+taiwan_annual,1987,sex_ratio,108.366,tw_ris y2s1
+taiwan_annual,1988,births occurred,343208.0,tw_ris y2s1
+taiwan_annual,1988,sex_ratio,108.183,tw_ris y2s1
+taiwan_annual,1989,births occurred,313768.0,tw_ris y2s1
+taiwan_annual,1989,sex_ratio,108.629,tw_ris y2s1
+taiwan_annual,1990,births occurred,337042.0,tw_ris y2s1
+taiwan_annual,1990,sex_ratio,110.279,tw_ris y2s1
+taiwan_annual,1991,births occurred,320384.0,tw_ris y2s1
+taiwan_annual,1991,sex_ratio,110.448,tw_ris y2s1
+taiwan_annual,1992,births occurred,321405.0,tw_ris y2s1
+taiwan_annual,1992,sex_ratio,109.933,tw_ris y2s1
+taiwan_annual,1993,births occurred,325994.0,tw_ris y2s1
+taiwan_annual,1993,sex_ratio,108.125,tw_ris y2s1
+taiwan_annual,1994,births occurred,323768.0,tw_ris y2s1
+taiwan_annual,1994,sex_ratio,108.877,tw_ris y2s1
+taiwan_annual,1995,births occurred,326547.0,tw_ris y2s1
+taiwan_annual,1995,sex_ratio,107.906,tw_ris y2s1
+taiwan_annual,1996,births occurred,324317.0,tw_ris y2s1
+taiwan_annual,1996,sex_ratio,108.757,tw_ris y2s1
+taiwan_annual,1997,births occurred,324980.0,tw_ris y2s1
+taiwan_annual,1997,sex_ratio,108.912,tw_ris y2s1
+taiwan_annual,1998,births occurred,268881.0,tw_ris y2s1
+taiwan_annual,1998,sex_ratio,108.729,tw_ris y2s1
+taiwan_annual,1999,births occurred,284073.0,tw_ris y2s1
+taiwan_annual,1999,sex_ratio,109.467,tw_ris y2s1
+taiwan_annual,2000,births occurred,307200.0,tw_ris y2s1
+taiwan_annual,2000,sex_ratio,109.448,tw_ris y2s1
+taiwan_annual,2001,births occurred,257866.0,tw_ris y2s1
+taiwan_annual,2001,sex_ratio,108.704,tw_ris y2s1
+taiwan_annual,2002,births occurred,246758.0,tw_ris y2s1
+taiwan_annual,2002,sex_ratio,109.798,tw_ris y2s1
+taiwan_annual,2003,births occurred,227447.0,tw_ris y2s1
+taiwan_annual,2003,sex_ratio,110.153,tw_ris y2s1
+taiwan_annual,2004,births occurred,217685.0,tw_ris y2s1
+taiwan_annual,2004,sex_ratio,110.657,tw_ris y2s1
+taiwan_annual,2005,births occurred,206465.0,tw_ris y2s1
+taiwan_annual,2005,sex_ratio,109.04,tw_ris y2s1
+taiwan_annual,2006,births occurred,205720.0,tw_ris y2s1
+taiwan_annual,2006,sex_ratio,109.615,tw_ris y2s1
+taiwan_annual,2007,births occurred,203711.0,tw_ris y2s1
+taiwan_annual,2007,sex_ratio,109.707,tw_ris y2s1
+taiwan_annual,2008,births occurred,196486.0,tw_ris y2s1
+taiwan_annual,2008,sex_ratio,109.657,tw_ris y2s1
+taiwan_annual,2009,births occurred,192133.0,tw_ris y2s1
+taiwan_annual,2009,sex_ratio,108.421,tw_ris y2s1
+taiwan_annual,2010,births occurred,166473.0,tw_ris y2s1
+taiwan_annual,2010,sex_ratio,108.956,tw_ris y2s1
+taiwan_annual,2011,births occurred,198348.0,tw_ris y2s1
+taiwan_annual,2011,sex_ratio,107.912,tw_ris y2s1
+taiwan_annual,2012,births occurred,234599.0,tw_ris y2s1
+taiwan_annual,2012,sex_ratio,107.4,tw_ris y2s1
+taiwan_annual,2013,births occurred,194939.0,tw_ris y2s1
+taiwan_annual,2013,sex_ratio,107.809,tw_ris y2s1
+taiwan_annual,2014,births occurred,211399.0,tw_ris y2s1
+taiwan_annual,2014,sex_ratio,106.988,tw_ris y2s1
+taiwan_annual,2015,births occurred,213093.0,tw_ris y2s1
+taiwan_annual,2015,sex_ratio,108.316,tw_ris y2s1
+taiwan_annual,2016,births occurred,207600.0,tw_ris y2s1
+taiwan_annual,2016,sex_ratio,107.642,tw_ris y2s1
+taiwan_annual,2017,births occurred,194616.0,tw_ris y2s1
+taiwan_annual,2017,sex_ratio,107.579,tw_ris y2s1
+taiwan_annual,2018,births occurred,180656.0,tw_ris y2s1
+taiwan_annual,2018,sex_ratio,106.939,tw_ris y2s1
+taiwan_annual,2019,births occurred,175074.0,tw_ris y2s1
+taiwan_annual,2019,sex_ratio,107.773,tw_ris y2s1
+taiwan_annual,2020,births occurred,161288.0,tw_ris y2s1
+taiwan_annual,2020,sex_ratio,108.006,tw_ris y2s1
+taiwan_annual,2021,births occurred,157019.0,tw_ris y2s1
+taiwan_annual,2021,sex_ratio,107.152,tw_ris y2s1
+taiwan_annual,2022,births occurred,137413.0,tw_ris y2s1
+taiwan_annual,2022,sex_ratio,107.557,tw_ris y2s1
+taiwan_annual,2023,births occurred,133895.0,tw_ris y2s1
+taiwan_annual,2023,sex_ratio,107.776,tw_ris y2s1
+taiwan_annual,2024,births occurred,134769.0,tw_ris y2s1
+taiwan_annual,2024,sex_ratio,107.46,tw_ris y2s1
+taiwan_annual,2025,births occurred,105676.0,tw_ris y2s1
+taiwan_annual,2025,sex_ratio,107.192,tw_ris y2s1
+hong_kong_annual,1961,births,110884.0,hk_csd 115-01012A
+hong_kong_annual,1962,births,112503.0,hk_csd 115-01012A
+hong_kong_annual,1963,births,114550.0,hk_csd 115-01012A
+hong_kong_annual,1964,births,107625.0,hk_csd 115-01012A
+hong_kong_annual,1965,births,101110.0,hk_csd 115-01012A
+hong_kong_annual,1966,births,91832.0,hk_csd 115-01012A
+hong_kong_annual,1967,births,88215.0,hk_csd 115-01012A
+hong_kong_annual,1968,births,82685.0,hk_csd 115-01012A
+hong_kong_annual,1969,births,82482.0,hk_csd 115-01012A
+hong_kong_annual,1970,births,79132.0,hk_csd 115-01012A
+hong_kong_annual,1971,births,79789.0,hk_csd 115-01012A
+hong_kong_annual,1972,births,80344.0,hk_csd 115-01012A
+hong_kong_annual,1973,births,82252.0,hk_csd 115-01012A
+hong_kong_annual,1974,births,83581.0,hk_csd 115-01012A
+hong_kong_annual,1975,births,79790.0,hk_csd 115-01012A
+hong_kong_annual,1976,births,78511.0,hk_csd 115-01012A
+hong_kong_annual,1977,births,80022.0,hk_csd 115-01012A
+hong_kong_annual,1978,births,80957.0,hk_csd 115-01012A
+hong_kong_annual,1979,births,81975.0,hk_csd 115-01012A
+hong_kong_annual,1980,births,85290.0,hk_csd 115-01012A
+hong_kong_annual,1981,births,86751.0,hk_csd 115-01012A
+hong_kong_annual,1982,births,86120.0,hk_csd 115-01012A
+hong_kong_annual,1983,births,83293.0,hk_csd 115-01012A
+hong_kong_annual,1984,births,77297.0,hk_csd 115-01012A
+hong_kong_annual,1985,births,76126.0,hk_csd 115-01012A
+hong_kong_annual,1986,births,71620.0,hk_csd 115-01012A
+hong_kong_annual,1987,births,69958.0,hk_csd 115-01012A
+hong_kong_annual,1988,births,75412.0,hk_csd 115-01012A
+hong_kong_annual,1989,births,69621.0,hk_csd 115-01012A
+hong_kong_annual,1990,births,67731.0,hk_csd 115-01012A
+hong_kong_annual,1991,births,68281.0,hk_csd 115-01012A
+hong_kong_annual,1992,births,70949.0,hk_csd 115-01012A
+hong_kong_annual,1993,births,70451.0,hk_csd 115-01012A
+hong_kong_annual,1994,births,71646.0,hk_csd 115-01012A
+hong_kong_annual,1995,births,68637.0,hk_csd 115-01012A
+hong_kong_annual,1996,births,63291.0,hk_csd 115-01012A
+hong_kong_annual,1997,births,59250.0,hk_csd 115-01012A
+hong_kong_annual,1998,births,52977.0,hk_csd 115-01012A
+hong_kong_annual,1998,births_to_mainland_mothers_spouse_not_permanent,458.0,hk_csd 115-01012
+hong_kong_annual,1999,births,51281.0,hk_csd 115-01012A
+hong_kong_annual,1999,births_to_mainland_mothers_spouse_not_permanent,559.0,hk_csd 115-01012
+hong_kong_annual,2000,births,54134.0,hk_csd 115-01012A
+hong_kong_annual,2000,births_to_mainland_mothers_spouse_not_permanent,709.0,hk_csd 115-01012
+hong_kong_annual,2001,births,48219.0,hk_csd 115-01012A
+hong_kong_annual,2001,births_to_mainland_mothers_spouse_not_permanent,620.0,hk_csd 115-01012
+hong_kong_annual,2002,births,48209.0,hk_csd 115-01012A
+hong_kong_annual,2002,births_to_mainland_mothers_spouse_not_permanent,1250.0,hk_csd 115-01012
+hong_kong_annual,2003,births,46965.0,hk_csd 115-01012A
+hong_kong_annual,2003,births_to_mainland_mothers_spouse_not_permanent,2166.0,hk_csd 115-01012
+hong_kong_annual,2004,births,49796.0,hk_csd 115-01012A
+hong_kong_annual,2004,births_to_mainland_mothers_spouse_not_permanent,4313.0,hk_csd 115-01012
+hong_kong_annual,2005,births,57098.0,hk_csd 115-01012A
+hong_kong_annual,2005,births_to_mainland_mothers_spouse_not_permanent,9659.0,hk_csd 115-01012
+hong_kong_annual,2006,births,65626.0,hk_csd 115-01012A
+hong_kong_annual,2006,births_to_mainland_mothers_spouse_not_permanent,16694.0,hk_csd 115-01012
+hong_kong_annual,2007,births,70875.0,hk_csd 115-01012A
+hong_kong_annual,2007,births_to_mainland_mothers_spouse_not_permanent,19585.0,hk_csd 115-01012
+hong_kong_annual,2008,births,78822.0,hk_csd 115-01012A
+hong_kong_annual,2008,births_to_mainland_mothers_spouse_not_permanent,26337.0,hk_csd 115-01012
+hong_kong_annual,2009,births,82095.0,hk_csd 115-01012A
+hong_kong_annual,2009,births_to_mainland_mothers_spouse_not_permanent,31040.0,hk_csd 115-01012
+hong_kong_annual,2010,births,88584.0,hk_csd 115-01012A
+hong_kong_annual,2010,births_to_mainland_mothers_spouse_not_permanent,34479.0,hk_csd 115-01012
+hong_kong_annual,2011,births,95451.0,hk_csd 115-01012A
+hong_kong_annual,2011,births_to_mainland_mothers_spouse_not_permanent,37872.0,hk_csd 115-01012
+hong_kong_annual,2012,births,91558.0,hk_csd 115-01012A
+hong_kong_annual,2012,births_to_mainland_mothers_spouse_not_permanent,28501.0,hk_csd 115-01012
+hong_kong_annual,2013,births,57084.0,hk_csd 115-01012A
+hong_kong_annual,2013,births_to_mainland_mothers_spouse_not_permanent,827.0,hk_csd 115-01012
+hong_kong_annual,2014,births,62305.0,hk_csd 115-01012A
+hong_kong_annual,2014,births_to_mainland_mothers_spouse_not_permanent,845.0,hk_csd 115-01012
+hong_kong_annual,2015,births,59878.0,hk_csd 115-01012A
+hong_kong_annual,2015,births_to_mainland_mothers_spouse_not_permanent,791.0,hk_csd 115-01012
+hong_kong_annual,2016,births,60856.0,hk_csd 115-01012A
+hong_kong_annual,2016,births_to_mainland_mothers_spouse_not_permanent,609.0,hk_csd 115-01012
+hong_kong_annual,2017,births,56548.0,hk_csd 115-01012A
+hong_kong_annual,2017,births_to_mainland_mothers_spouse_not_permanent,508.0,hk_csd 115-01012
+hong_kong_annual,2018,births,53716.0,hk_csd 115-01012A
+hong_kong_annual,2018,births_to_mainland_mothers_spouse_not_permanent,434.0,hk_csd 115-01012
+hong_kong_annual,2019,births,52856.0,hk_csd 115-01012A
+hong_kong_annual,2019,births_to_mainland_mothers_spouse_not_permanent,398.0,hk_csd 115-01012
+hong_kong_annual,2020,births,43031.0,hk_csd 115-01012A
+hong_kong_annual,2020,births_to_mainland_mothers_spouse_not_permanent,221.0,hk_csd 115-01012
+hong_kong_annual,2021,births,36953.0,hk_csd 115-01012A
+hong_kong_annual,2021,births_to_mainland_mothers_spouse_not_permanent,131.0,hk_csd 115-01012
+hong_kong_annual,2022,births,32501.0,hk_csd 115-01012A
+hong_kong_annual,2022,births_to_mainland_mothers_spouse_not_permanent,130.0,hk_csd 115-01012
+hong_kong_annual,2023,births,33232.0,hk_csd 115-01012A
+hong_kong_annual,2023,births_to_mainland_mothers_spouse_not_permanent,185.0,hk_csd 115-01012
+hong_kong_annual,2024,births,36723.0,hk_csd 115-01012A
+hong_kong_annual,2024,births_to_mainland_mothers_spouse_not_permanent,228.0,hk_csd 115-01012
+hong_kong_annual,2025,births,31053.0,hk_csd 115-01012A
+hong_kong_annual,2025,births_to_mainland_mothers_spouse_not_permanent,158.0,hk_csd 115-01012
+korea_annual,1970,births,1006645.0,kr_kosis DT_1B8000F
+korea_annual,1971,births,1024773.0,kr_kosis DT_1B8000F
+korea_annual,1972,births,952780.0,kr_kosis DT_1B8000F
+korea_annual,1973,births,965521.0,kr_kosis DT_1B8000F
+korea_annual,1974,births,922823.0,kr_kosis DT_1B8000F
+korea_annual,1975,births,874030.0,kr_kosis DT_1B8000F
+korea_annual,1976,births,796331.0,kr_kosis DT_1B8000F
+korea_annual,1977,births,825339.0,kr_kosis DT_1B8000F
+korea_annual,1978,births,750728.0,kr_kosis DT_1B8000F
+korea_annual,1979,births,862669.0,kr_kosis DT_1B8000F
+korea_annual,1980,births,862835.0,kr_kosis DT_1B8000F
+korea_annual,1981,births,867409.0,kr_kosis DT_1B8000F
+korea_annual,1982,births,848312.0,kr_kosis DT_1B8000F
+korea_annual,1983,births,769155.0,kr_kosis DT_1B8000F
+korea_annual,1984,births,674793.0,kr_kosis DT_1B8000F
+korea_annual,1985,births,655489.0,kr_kosis DT_1B8000F
+korea_annual,1986,births,636019.0,kr_kosis DT_1B8000F
+korea_annual,1987,births,623831.0,kr_kosis DT_1B8000F
+korea_annual,1988,births,633092.0,kr_kosis DT_1B8000F
+korea_annual,1989,births,639431.0,kr_kosis DT_1B8000F
+korea_annual,1990,births,649738.0,kr_kosis DT_1B8000F
+korea_annual,1991,births,709275.0,kr_kosis DT_1B8000F
+korea_annual,1992,births,730678.0,kr_kosis DT_1B8000F
+korea_annual,1993,births,715826.0,kr_kosis DT_1B8000F
+korea_annual,1994,births,721185.0,kr_kosis DT_1B8000F
+korea_annual,1995,births,715020.0,kr_kosis DT_1B8000F
+korea_annual,1996,births,691226.0,kr_kosis DT_1B8000F
+korea_annual,1997,births,675394.0,kr_kosis DT_1B8000F
+korea_annual,1998,births,641594.0,kr_kosis DT_1B8000F
+korea_annual,1999,births,620668.0,kr_kosis DT_1B8000F
+korea_annual,2000,births,640089.0,kr_kosis DT_1B8000F
+korea_annual,2001,births,559934.0,kr_kosis DT_1B8000F
+korea_annual,2002,births,496911.0,kr_kosis DT_1B8000F
+korea_annual,2003,births,495036.0,kr_kosis DT_1B8000F
+korea_annual,2004,births,476958.0,kr_kosis DT_1B8000F
+korea_annual,2005,births,438707.0,kr_kosis DT_1B8000F
+korea_annual,2006,births,451759.0,kr_kosis DT_1B8000F
+korea_annual,2007,births,496822.0,kr_kosis DT_1B8000F
+korea_annual,2008,births,465892.0,kr_kosis DT_1B8000F
+korea_annual,2009,births,444849.0,kr_kosis DT_1B8000F
+korea_annual,2010,births,470171.0,kr_kosis DT_1B8000F
+korea_annual,2011,births,471265.0,kr_kosis DT_1B8000F
+korea_annual,2012,births,484550.0,kr_kosis DT_1B8000F
+korea_annual,2013,births,436455.0,kr_kosis DT_1B8000F
+korea_annual,2014,births,435435.0,kr_kosis DT_1B8000F
+korea_annual,2015,births,438420.0,kr_kosis DT_1B8000F
+korea_annual,2016,births,406243.0,kr_kosis DT_1B8000F
+korea_annual,2017,births,357771.0,kr_kosis DT_1B8000F
+korea_annual,2018,births,326822.0,kr_kosis DT_1B8000F
+korea_annual,2019,births,302676.0,kr_kosis DT_1B8000F
+korea_annual,2020,births,272337.0,kr_kosis DT_1B8000F
+korea_annual,2021,births,260562.0,kr_kosis DT_1B8000F
+korea_annual,2022,births,249186.0,kr_kosis DT_1B8000F
+korea_annual,2023,births,230028.0,kr_kosis DT_1B8000F
+korea_annual,2024,births,238317.0,kr_kosis DT_1B8000F
+korea_annual,2025,births,254341.0,kr_kosis DT_1B8000F
+malaysia_annual,2000,chinese,115429.0,my_dosm
+malaysia_annual,2000,bumi_malay,303782.0,my_dosm
+malaysia_annual,2000,indian,35329.0,my_dosm
+malaysia_annual,2001,chinese,94035.0,my_dosm
+malaysia_annual,2001,bumi_malay,288828.0,my_dosm
+malaysia_annual,2001,indian,32947.0,my_dosm
+malaysia_annual,2002,chinese,97712.0,my_dosm
+malaysia_annual,2002,bumi_malay,284038.0,my_dosm
+malaysia_annual,2002,indian,32610.0,my_dosm
+malaysia_annual,2003,chinese,91828.0,my_dosm
+malaysia_annual,2003,bumi_malay,278699.0,my_dosm
+malaysia_annual,2003,indian,31444.0,my_dosm
+malaysia_annual,2004,chinese,89239.0,my_dosm
+malaysia_annual,2004,bumi_malay,278311.0,my_dosm
+malaysia_annual,2004,indian,30820.0,my_dosm
+malaysia_annual,2005,chinese,88577.0,my_dosm
+malaysia_annual,2005,bumi_malay,273364.0,my_dosm
+malaysia_annual,2005,indian,29326.0,my_dosm
+malaysia_annual,2006,chinese,86195.0,my_dosm
+malaysia_annual,2006,bumi_malay,273358.0,my_dosm
+malaysia_annual,2006,indian,28695.0,my_dosm
+malaysia_annual,2007,chinese,86853.0,my_dosm
+malaysia_annual,2007,bumi_malay,277993.0,my_dosm
+malaysia_annual,2007,indian,29086.0,my_dosm
+malaysia_annual,2008,chinese,85567.0,my_dosm
+malaysia_annual,2008,bumi_malay,287827.0,my_dosm
+malaysia_annual,2008,indian,28683.0,my_dosm
+malaysia_annual,2009,chinese,81079.0,my_dosm
+malaysia_annual,2009,bumi_malay,301649.0,my_dosm
+malaysia_annual,2009,indian,27600.0,my_dosm
+malaysia_annual,2010,chinese,74068.0,my_dosm
+malaysia_annual,2010,bumi_malay,294234.0,my_dosm
+malaysia_annual,2010,indian,27556.0,my_dosm
+malaysia_annual,2011,chinese,76642.0,my_dosm
+malaysia_annual,2011,bumi_malay,311305.0,my_dosm
+malaysia_annual,2011,indian,26823.0,my_dosm
+malaysia_annual,2012,chinese,85419.0,my_dosm
+malaysia_annual,2012,bumi_malay,314936.0,my_dosm
+malaysia_annual,2012,indian,25840.0,my_dosm
+malaysia_annual,2013,chinese,69561.0,my_dosm
+malaysia_annual,2013,bumi_malay,312237.0,my_dosm
+malaysia_annual,2013,indian,24378.0,my_dosm
+malaysia_annual,2014,chinese,73887.0,my_dosm
+malaysia_annual,2014,bumi_malay,330521.0,my_dosm
+malaysia_annual,2014,indian,24301.0,my_dosm
+malaysia_annual,2015,chinese,69985.0,my_dosm
+malaysia_annual,2015,bumi_malay,333226.0,my_dosm
+malaysia_annual,2015,indian,23224.0,my_dosm
+malaysia_annual,2016,chinese,65574.0,my_dosm
+malaysia_annual,2016,bumi_malay,331637.0,my_dosm
+malaysia_annual,2016,indian,22055.0,my_dosm
+malaysia_annual,2017,chinese,62094.0,my_dosm
+malaysia_annual,2017,bumi_malay,335964.0,my_dosm
+malaysia_annual,2017,indian,21973.0,my_dosm
+malaysia_annual,2018,chinese,57766.0,my_dosm
+malaysia_annual,2018,bumi_malay,334304.0,my_dosm
+malaysia_annual,2018,indian,21586.0,my_dosm
+malaysia_annual,2019,chinese,58078.0,my_dosm
+malaysia_annual,2019,bumi_malay,322064.0,my_dosm
+malaysia_annual,2019,indian,20810.0,my_dosm
+malaysia_annual,2020,chinese,51287.0,my_dosm
+malaysia_annual,2020,bumi_malay,313103.0,my_dosm
+malaysia_annual,2020,indian,20458.0,my_dosm
+malaysia_annual,2021,chinese,43833.0,my_dosm
+malaysia_annual,2021,bumi_malay,304620.0,my_dosm
+malaysia_annual,2021,indian,17956.0,my_dosm
+malaysia_annual,2022,chinese,40249.0,my_dosm
+malaysia_annual,2022,bumi_malay,291353.0,my_dosm
+malaysia_annual,2022,indian,17439.0,my_dosm
+malaysia_annual,2023,chinese,44818.0,my_dosm
+malaysia_annual,2023,bumi_malay,305494.0,my_dosm
+malaysia_annual,2023,indian,20064.0,my_dosm
+malaysia_annual,2024,chinese,44914.0,my_dosm
+malaysia_annual,2024,bumi_malay,272718.0,my_dosm
+malaysia_annual,2024,indian,17914.0,my_dosm
+malaysia_annual,2025,chinese,34164.0,my_dosm
+malaysia_annual,2025,bumi_malay,267196.0,my_dosm
+malaysia_annual,2025,indian,17266.0,my_dosm
+find_your_year Singapore Chinese,1962,vs_neighbours_pct,-5.911,calc from sg_singstat
+find_your_year Singapore Chinese,1962,clean_base_pct,-1.097,calc from sg_singstat
+find_your_year Singapore Chinese,1963,vs_neighbours_pct,10.877,calc from sg_singstat
+find_your_year Singapore Chinese,1963,clean_base_pct,3.867,calc from sg_singstat
+find_your_year Singapore Chinese,1964,vs_neighbours_pct,-3.015,calc from sg_singstat
+find_your_year Singapore Chinese,1964,clean_base_pct,2.159,calc from sg_singstat
+find_your_year Singapore Chinese,1965,vs_neighbours_pct,-4.001,calc from sg_singstat
+find_your_year Singapore Chinese,1965,clean_base_pct,1.392,calc from sg_singstat
+find_your_year Singapore Chinese,1966,vs_neighbours_pct,7.625,calc from sg_singstat
+find_your_year Singapore Chinese,1966,clean_base_pct,-1.471,calc from sg_singstat
+find_your_year Singapore Chinese,1967,vs_neighbours_pct,-3.885,calc from sg_singstat
+find_your_year Singapore Chinese,1967,clean_base_pct,-5.071,calc from sg_singstat
+find_your_year Singapore Chinese,1968,vs_neighbours_pct,1.781,calc from sg_singstat
+find_your_year Singapore Chinese,1968,clean_base_pct,-9.459,calc from sg_singstat
+find_your_year Singapore Chinese,1969,vs_neighbours_pct,-10.495,calc from sg_singstat
+find_your_year Singapore Chinese,1969,clean_base_pct,-10.915,calc from sg_singstat
+find_your_year Singapore Chinese,1970,vs_neighbours_pct,-4.689,calc from sg_singstat
+find_your_year Singapore Chinese,1970,clean_base_pct,-1.919,calc from sg_singstat
+find_your_year Singapore Chinese,1971,vs_neighbours_pct,7.748,calc from sg_singstat
+find_your_year Singapore Chinese,1971,clean_base_pct,3.104,calc from sg_singstat
+find_your_year Singapore Chinese,1972,vs_neighbours_pct,4.806,calc from sg_singstat
+find_your_year Singapore Chinese,1972,clean_base_pct,14.874,calc from sg_singstat
+find_your_year Singapore Chinese,1973,vs_neighbours_pct,4.097,calc from sg_singstat
+find_your_year Singapore Chinese,1973,clean_base_pct,13.43,calc from sg_singstat
+find_your_year Singapore Chinese,1974,vs_neighbours_pct,-0.662,calc from sg_singstat
+find_your_year Singapore Chinese,1974,clean_base_pct,-0.979,calc from sg_singstat
+find_your_year Singapore Chinese,1975,vs_neighbours_pct,-10.807,calc from sg_singstat
+find_your_year Singapore Chinese,1975,clean_base_pct,-6.693,calc from sg_singstat
+find_your_year Singapore Chinese,1976,vs_neighbours_pct,14.945,calc from sg_singstat
+find_your_year Singapore Chinese,1976,clean_base_pct,2.185,calc from sg_singstat
+find_your_year Singapore Chinese,1977,vs_neighbours_pct,-10.601,calc from sg_singstat
+find_your_year Singapore Chinese,1977,clean_base_pct,-10.087,calc from sg_singstat
+find_your_year Singapore Chinese,1978,vs_neighbours_pct,-5.471,calc from sg_singstat
+find_your_year Singapore Chinese,1978,clean_base_pct,-4.02,calc from sg_singstat
+find_your_year Singapore Chinese,1979,vs_neighbours_pct,10.795,calc from sg_singstat
+find_your_year Singapore Chinese,1979,clean_base_pct,-0.227,calc from sg_singstat
+find_your_year Singapore Chinese,1980,vs_neighbours_pct,-4.868,calc from sg_singstat
+find_your_year Singapore Chinese,1980,clean_base_pct,1.627,calc from sg_singstat
+find_your_year Singapore Chinese,1981,vs_neighbours_pct,-2.157,calc from sg_singstat
+find_your_year Singapore Chinese,1981,clean_base_pct,2.839,calc from sg_singstat
+find_your_year Singapore Chinese,1982,vs_neighbours_pct,9.466,calc from sg_singstat
+find_your_year Singapore Chinese,1982,clean_base_pct,2.89,calc from sg_singstat
+find_your_year Singapore Chinese,1983,vs_neighbours_pct,-9.158,calc from sg_singstat
+find_your_year Singapore Chinese,1983,clean_base_pct,-6.357,calc from sg_singstat
+find_your_year Singapore Chinese,1984,vs_neighbours_pct,8.732,calc from sg_singstat
+find_your_year Singapore Chinese,1984,clean_base_pct,-4.048,calc from sg_singstat
+find_your_year Singapore Chinese,1985,vs_neighbours_pct,-0.535,calc from sg_singstat
+find_your_year Singapore Chinese,1985,clean_base_pct,-3.472,calc from sg_singstat
+find_your_year Singapore Chinese,1986,vs_neighbours_pct,-24.403,calc from sg_singstat
+find_your_year Singapore Chinese,1986,clean_base_pct,-18.304,calc from sg_singstat
+find_your_year Singapore Chinese,1987,vs_neighbours_pct,4.977,calc from sg_singstat
+find_your_year Singapore Chinese,1987,clean_base_pct,-2.558,calc from sg_singstat
+find_your_year Singapore Chinese,1988,vs_neighbours_pct,21.377,calc from sg_singstat
+find_your_year Singapore Chinese,1988,clean_base_pct,24.344,calc from sg_singstat
+find_your_year Singapore Chinese,1989,vs_neighbours_pct,-10.437,calc from sg_singstat
+find_your_year Singapore Chinese,1989,clean_base_pct,2.423,calc from sg_singstat
+find_your_year Singapore Chinese,1990,vs_neighbours_pct,11.49,calc from sg_singstat
+find_your_year Singapore Chinese,1990,clean_base_pct,11.44,calc from sg_singstat
+find_your_year Singapore Chinese,1991,vs_neighbours_pct,-5.618,calc from sg_singstat
+find_your_year Singapore Chinese,1991,clean_base_pct,3.699,calc from sg_singstat
+find_your_year Singapore Chinese,1992,vs_neighbours_pct,-6.436,calc from sg_singstat
+find_your_year Singapore Chinese,1992,clean_base_pct,2.778,calc from sg_singstat
+find_your_year Singapore Chinese,1993,vs_neighbours_pct,8.037,calc from sg_singstat
+find_your_year Singapore Chinese,1993,clean_base_pct,6.279,calc from sg_singstat
+find_your_year Singapore Chinese,1994,vs_neighbours_pct,-2.272,calc from sg_singstat
+find_your_year Singapore Chinese,1994,clean_base_pct,4.562,calc from sg_singstat
+find_your_year Singapore Chinese,1995,vs_neighbours_pct,5.896,calc from sg_singstat
+find_your_year Singapore Chinese,1995,clean_base_pct,4.715,calc from sg_singstat
+find_your_year Singapore Chinese,1996,vs_neighbours_pct,-0.286,calc from sg_singstat
+find_your_year Singapore Chinese,1996,clean_base_pct,5.031,calc from sg_singstat
+find_your_year Singapore Chinese,1997,vs_neighbours_pct,-0.241,calc from sg_singstat
+find_your_year Singapore Chinese,1997,clean_base_pct,4.314,calc from sg_singstat
+find_your_year Singapore Chinese,1998,vs_neighbours_pct,-2.964,calc from sg_singstat
+find_your_year Singapore Chinese,1998,clean_base_pct,-4.892,calc from sg_singstat
+find_your_year Singapore Chinese,1999,vs_neighbours_pct,-6.086,calc from sg_singstat
+find_your_year Singapore Chinese,1999,clean_base_pct,0.119,calc from sg_singstat
+find_your_year Singapore Chinese,2000,vs_neighbours_pct,10.975,calc from sg_singstat
+find_your_year Singapore Chinese,2000,clean_base_pct,12.556,calc from sg_singstat
+find_your_year Singapore Chinese,2001,vs_neighbours_pct,3.719,calc from sg_singstat
+find_your_year Singapore Chinese,2001,clean_base_pct,-4.754,calc from sg_singstat
+find_your_year Singapore Chinese,2002,vs_neighbours_pct,-4.156,calc from sg_singstat
+find_your_year Singapore Chinese,2002,clean_base_pct,-2.688,calc from sg_singstat
+find_your_year Singapore Chinese,2003,vs_neighbours_pct,-8.66,calc from sg_singstat
+find_your_year Singapore Chinese,2003,clean_base_pct,-9.483,calc from sg_singstat
+find_your_year Singapore Chinese,2004,vs_neighbours_pct,1.619,calc from sg_singstat
+find_your_year Singapore Chinese,2004,clean_base_pct,-8.37,calc from sg_singstat
+find_your_year Singapore Chinese,2005,vs_neighbours_pct,-4.872,calc from sg_singstat
+find_your_year Singapore Chinese,2005,clean_base_pct,-5.199,calc from sg_singstat
+find_your_year Singapore Chinese,2006,vs_neighbours_pct,6.325,calc from sg_singstat
+find_your_year Singapore Chinese,2006,clean_base_pct,-1.568,calc from sg_singstat
+find_your_year Singapore Chinese,2007,vs_neighbours_pct,-0.924,calc from sg_singstat
+find_your_year Singapore Chinese,2007,clean_base_pct,3.293,calc from sg_singstat
+find_your_year Singapore Chinese,2008,vs_neighbours_pct,-1.957,calc from sg_singstat
+find_your_year Singapore Chinese,2008,clean_base_pct,2.476,calc from sg_singstat
+find_your_year Singapore Chinese,2009,vs_neighbours_pct,8.775,calc from sg_singstat
+find_your_year Singapore Chinese,2009,clean_base_pct,1.001,calc from sg_singstat
+find_your_year Singapore Chinese,2010,vs_neighbours_pct,-12.485,calc from sg_singstat
+find_your_year Singapore Chinese,2010,clean_base_pct,-5.694,calc from sg_singstat
+find_your_year Singapore Chinese,2011,vs_neighbours_pct,-3.219,calc from sg_singstat
+find_your_year Singapore Chinese,2011,clean_base_pct,1.895,calc from sg_singstat
+find_your_year Singapore Chinese,2012,vs_neighbours_pct,16.72,calc from sg_singstat
+find_your_year Singapore Chinese,2012,clean_base_pct,10.822,calc from sg_singstat
+find_your_year Singapore Chinese,2013,vs_neighbours_pct,-12.569,calc from sg_singstat
+find_your_year Singapore Chinese,2013,clean_base_pct,-3.437,calc from sg_singstat
+find_your_year Singapore Chinese,2014,vs_neighbours_pct,10.672,calc from sg_singstat
+find_your_year Singapore Chinese,2014,clean_base_pct,9.785,calc from sg_singstat
+find_your_year Singapore Chinese,2015,vs_neighbours_pct,-1.253,calc from sg_singstat
+find_your_year Singapore Chinese,2015,clean_base_pct,6.462,calc from sg_singstat
+find_your_year Singapore Chinese,2016,vs_neighbours_pct,-2.155,calc from sg_singstat
+find_your_year Singapore Chinese,2016,clean_base_pct,6.279,calc from sg_singstat
+find_your_year Singapore Chinese,2017,vs_neighbours_pct,5.054,calc from sg_singstat
+find_your_year Singapore Chinese,2017,clean_base_pct,1.311,calc from sg_singstat
+find_your_year Singapore Chinese,2018,vs_neighbours_pct,-6.452,calc from sg_singstat
+find_your_year Singapore Chinese,2018,clean_base_pct,-0.095,calc from sg_singstat
+find_your_year Singapore Chinese,2019,vs_neighbours_pct,-0.196,calc from sg_singstat
+find_your_year Singapore Chinese,2019,clean_base_pct,7.956,calc from sg_singstat
+find_your_year Singapore Chinese,2020,vs_neighbours_pct,6.5,calc from sg_singstat
+find_your_year Singapore Chinese,2020,clean_base_pct,1.227,calc from sg_singstat
+find_your_year Singapore Chinese,2021,vs_neighbours_pct,1.37,calc from sg_singstat
+find_your_year Singapore Chinese,2021,clean_base_pct,9.386,calc from sg_singstat
+find_your_year Singapore Chinese,2022,vs_neighbours_pct,-7.488,calc from sg_singstat
+find_your_year Singapore Chinese,2022,clean_base_pct,0.975,calc from sg_singstat
+find_your_year Singapore Chinese,2023,vs_neighbours_pct,4.022,calc from sg_singstat
+find_your_year Singapore Chinese,2023,clean_base_pct,1.844,calc from sg_singstat
+find_your_year Hong Kong,1978,vs_neighbours_pct,-3.702,calc from hk_csd
+find_your_year Hong Kong,1978,clean_base_pct,-2.019,calc from hk_csd
+find_your_year Hong Kong,1979,vs_neighbours_pct,6.727,calc from hk_csd
+find_your_year Hong Kong,1979,clean_base_pct,-1.746,calc from hk_csd
+find_your_year Hong Kong,1980,vs_neighbours_pct,-2.342,calc from hk_csd
+find_your_year Hong Kong,1980,clean_base_pct,3.877,calc from hk_csd
+find_your_year Hong Kong,1981,vs_neighbours_pct,-1.124,calc from hk_csd
+find_your_year Hong Kong,1981,clean_base_pct,6.944,calc from hk_csd
+find_your_year Hong Kong,1982,vs_neighbours_pct,10.174,calc from hk_csd
+find_your_year Hong Kong,1982,clean_base_pct,7.642,calc from hk_csd
+find_your_year Hong Kong,1983,vs_neighbours_pct,-2.255,calc from hk_csd
+find_your_year Hong Kong,1983,clean_base_pct,5.636,calc from hk_csd
+find_your_year Hong Kong,1984,vs_neighbours_pct,3.059,calc from hk_csd
+find_your_year Hong Kong,1984,clean_base_pct,-2.306,calc from hk_csd
+find_your_year Hong Kong,1985,vs_neighbours_pct,-3.013,calc from hk_csd
+find_your_year Hong Kong,1985,clean_base_pct,-0.318,calc from hk_csd
+find_your_year Hong Kong,1986,vs_neighbours_pct,-8.364,calc from hk_csd
+find_your_year Hong Kong,1986,clean_base_pct,-5.836,calc from hk_csd
+find_your_year Hong Kong,1987,vs_neighbours_pct,2.908,calc from hk_csd
+find_your_year Hong Kong,1987,clean_base_pct,-8.226,calc from hk_csd
+find_your_year Hong Kong,1988,vs_neighbours_pct,6.501,calc from hk_csd
+find_your_year Hong Kong,1988,clean_base_pct,3.358,calc from hk_csd
+find_your_year Hong Kong,1989,vs_neighbours_pct,-6.257,calc from hk_csd
+find_your_year Hong Kong,1989,clean_base_pct,-6.174,calc from hk_csd
+find_your_year Hong Kong,1990,vs_neighbours_pct,2.521,calc from hk_csd
+find_your_year Hong Kong,1990,clean_base_pct,-4.764,calc from hk_csd
+find_your_year Hong Kong,1991,vs_neighbours_pct,-5.053,calc from hk_csd
+find_your_year Hong Kong,1991,clean_base_pct,-0.974,calc from hk_csd
+find_your_year Hong Kong,1992,vs_neighbours_pct,-1.755,calc from hk_csd
+find_your_year Hong Kong,1992,clean_base_pct,5.065,calc from hk_csd
+find_your_year Hong Kong,1993,vs_neighbours_pct,5.844,calc from hk_csd
+find_your_year Hong Kong,1993,clean_base_pct,6.38,calc from hk_csd
+find_your_year Hong Kong,1994,vs_neighbours_pct,1.943,calc from hk_csd
+find_your_year Hong Kong,1994,clean_base_pct,11.291,calc from hk_csd
+find_your_year Hong Kong,1995,vs_neighbours_pct,9.698,calc from hk_csd
+find_your_year Hong Kong,1995,clean_base_pct,9.246,calc from hk_csd
+find_your_year Hong Kong,1996,vs_neighbours_pct,-3.963,calc from hk_csd
+find_your_year Hong Kong,1996,clean_base_pct,2.466,calc from hk_csd
+find_your_year Hong Kong,1997,vs_neighbours_pct,-4.541,calc from hk_csd
+find_your_year Hong Kong,1997,clean_base_pct,-0.404,calc from hk_csd
+find_your_year Hong Kong,1998,vs_neighbours_pct,1.235,calc from hk_csd
+find_your_year Hong Kong,1998,clean_base_pct,-8.538,calc from hk_csd
+find_your_year Hong Kong,1999,vs_neighbours_pct,-7.934,calc from hk_csd
+find_your_year Hong Kong,1999,clean_base_pct,-13.34,calc from hk_csd
+find_your_year Hong Kong,2000,vs_neighbours_pct,4.011,calc from hk_csd
+find_your_year Hong Kong,2000,clean_base_pct,-7.314,calc from hk_csd
+find_your_year Hong Kong,2001,vs_neighbours_pct,3.046,calc from hk_csd
+find_your_year Hong Kong,2001,clean_base_pct,-21.217,calc from hk_csd
+find_your_year Hong Kong,2002,vs_neighbours_pct,-6.094,calc from hk_csd
+find_your_year Hong Kong,2002,clean_base_pct,-17.723,calc from hk_csd
+find_your_year Hong Kong,2003,vs_neighbours_pct,-12.793,calc from hk_csd
+find_your_year Hong Kong,2003,clean_base_pct,-22.103,calc from hk_csd
+find_your_year Hong Kong,2004,vs_neighbours_pct,-1.976,calc from hk_csd
+find_your_year Hong Kong,2004,clean_base_pct,-16.133,calc from hk_csd
+find_your_year Hong Kong,2005,vs_neighbours_pct,-6.356,calc from hk_csd
+find_your_year Hong Kong,2005,clean_base_pct,-9.679,calc from hk_csd
+find_your_year Hong Kong,2006,vs_neighbours_pct,9.297,calc from hk_csd
+find_your_year Hong Kong,2006,clean_base_pct,1.784,calc from hk_csd
+find_your_year Hong Kong,2007,vs_neighbours_pct,-2.952,calc from hk_csd
+find_your_year Hong Kong,2007,clean_base_pct,11.501,calc from hk_csd
+find_your_year Hong Kong,2008,vs_neighbours_pct,-2.684,calc from hk_csd
+find_your_year Hong Kong,2008,clean_base_pct,16.578,calc from hk_csd
+find_your_year Hong Kong,2009,vs_neighbours_pct,6.505,calc from hk_csd
+find_your_year Hong Kong,2009,clean_base_pct,19.194,calc from hk_csd
+find_your_year Hong Kong,2010,vs_neighbours_pct,0.15,calc from hk_csd
+find_your_year Hong Kong,2010,clean_base_pct,31.412,calc from hk_csd
+find_your_year Hong Kong,2011,vs_neighbours_pct,14.564,calc from hk_csd
+find_your_year Hong Kong,2011,clean_base_pct,46.613,calc from hk_csd
+find_your_year Hong Kong,2012,vs_neighbours_pct,23.527,calc from hk_csd
+find_your_year Hong Kong,2012,clean_base_pct,31.269,calc from hk_csd
+find_your_year Hong Kong,2013,vs_neighbours_pct,-28.467,calc from hk_csd
+find_your_year Hong Kong,2013,clean_base_pct,-16.309,calc from hk_csd
+find_your_year Hong Kong,2014,vs_neighbours_pct,-0.018,calc from hk_csd
+find_your_year Hong Kong,2014,clean_base_pct,-1.932,calc from hk_csd
+find_your_year Hong Kong,2015,vs_neighbours_pct,-4.229,calc from hk_csd
+find_your_year Hong Kong,2015,clean_base_pct,-3.054,calc from hk_csd
+find_your_year Hong Kong,2016,vs_neighbours_pct,0.795,calc from hk_csd
+find_your_year Hong Kong,2016,clean_base_pct,4.959,calc from hk_csd
+find_your_year Hong Kong,2017,vs_neighbours_pct,8.141,calc from hk_csd
+find_your_year Hong Kong,2017,clean_base_pct,5.119,calc from hk_csd
+find_your_year Hong Kong,2018,vs_neighbours_pct,-3.095,calc from hk_csd
+find_your_year Hong Kong,2018,clean_base_pct,9.973,calc from hk_csd
+find_your_year Hong Kong,2019,vs_neighbours_pct,7.437,calc from hk_csd
+find_your_year Hong Kong,2019,clean_base_pct,16.908,calc from hk_csd
+find_your_year Hong Kong,2020,vs_neighbours_pct,3.376,calc from hk_csd
+find_your_year Hong Kong,2020,clean_base_pct,-5.619,calc from hk_csd
+find_your_year Hong Kong,2021,vs_neighbours_pct,-11.882,calc from hk_csd
+find_your_year Hong Kong,2021,clean_base_pct,-10.587,calc from hk_csd
+find_your_year Hong Kong,2022,vs_neighbours_pct,-16.366,calc from hk_csd
+find_your_year Hong Kong,2022,clean_base_pct,-12.976,calc from hk_csd
+find_your_year Hong Kong,2023,vs_neighbours_pct,3.781,calc from hk_csd
+find_your_year Hong Kong,2023,clean_base_pct,-3.375,calc from hk_csd
+find_your_year South Korea,1983,vs_neighbours_pct,-5.704,calc
+find_your_year South Korea,1983,clean_base_pct,-2.33,calc
+find_your_year South Korea,1984,vs_neighbours_pct,0.476,calc
+find_your_year South Korea,1984,clean_base_pct,-7.831,calc
+find_your_year South Korea,1985,vs_neighbours_pct,-8.54,calc
+find_your_year South Korea,1985,clean_base_pct,-9.757,calc
+find_your_year South Korea,1986,vs_neighbours_pct,-7.382,calc
+find_your_year South Korea,1986,clean_base_pct,-11.902,calc
+find_your_year South Korea,1987,vs_neighbours_pct,9.973,calc
+find_your_year South Korea,1987,clean_base_pct,-11.348,calc
+find_your_year South Korea,1988,vs_neighbours_pct,-6.865,calc
+find_your_year South Korea,1988,clean_base_pct,-11.57,calc
+find_your_year South Korea,1989,vs_neighbours_pct,-7.579,calc
+find_your_year South Korea,1989,clean_base_pct,-9.368,calc
+find_your_year South Korea,1990,vs_neighbours_pct,7.903,calc
+find_your_year South Korea,1990,clean_base_pct,-1.884,calc
+find_your_year South Korea,1991,vs_neighbours_pct,-1.773,calc
+find_your_year South Korea,1991,clean_base_pct,3.991,calc
+find_your_year South Korea,1992,vs_neighbours_pct,-1.159,calc
+find_your_year South Korea,1992,clean_base_pct,6.972,calc
+find_your_year South Korea,1993,vs_neighbours_pct,7.051,calc
+find_your_year South Korea,1993,clean_base_pct,7.337,calc
+find_your_year South Korea,1994,vs_neighbours_pct,-3.429,calc
+find_your_year South Korea,1994,clean_base_pct,4.793,calc
+find_your_year South Korea,1995,vs_neighbours_pct,9.409,calc
+find_your_year South Korea,1995,clean_base_pct,8.34,calc
+find_your_year South Korea,1996,vs_neighbours_pct,-4.904,calc
+find_your_year South Korea,1996,clean_base_pct,1.78,calc
+find_your_year South Korea,1997,vs_neighbours_pct,-3.241,calc
+find_your_year South Korea,1997,clean_base_pct,3.422,calc
+find_your_year South Korea,1998,vs_neighbours_pct,6.96,calc
+find_your_year South Korea,1998,clean_base_pct,3.745,calc
+find_your_year South Korea,1999,vs_neighbours_pct,-4.477,calc
+find_your_year South Korea,1999,clean_base_pct,5.672,calc
+find_your_year South Korea,2000,vs_neighbours_pct,4.801,calc
+find_your_year South Korea,2000,clean_base_pct,10.188,calc
+find_your_year South Korea,2001,vs_neighbours_pct,7.439,calc
+find_your_year South Korea,2001,clean_base_pct,-1.386,calc
+find_your_year South Korea,2002,vs_neighbours_pct,-12.374,calc
+find_your_year South Korea,2002,clean_base_pct,-9.554,calc
+find_your_year South Korea,2003,vs_neighbours_pct,-2.974,calc
+find_your_year South Korea,2003,clean_base_pct,-5.912,calc
+find_your_year South Korea,2004,vs_neighbours_pct,6.791,calc
+find_your_year South Korea,2004,clean_base_pct,-6.96,calc
+find_your_year South Korea,2005,vs_neighbours_pct,-12.823,calc
+find_your_year South Korea,2005,clean_base_pct,-12.942,calc
+find_your_year South Korea,2006,vs_neighbours_pct,4.248,calc
+find_your_year South Korea,2006,clean_base_pct,-4.333,calc
+find_your_year South Korea,2007,vs_neighbours_pct,6.252,calc
+find_your_year South Korea,2007,clean_base_pct,7.219,calc
+find_your_year South Korea,2008,vs_neighbours_pct,-5.808,calc
+find_your_year South Korea,2008,clean_base_pct,0.537,calc
+find_your_year South Korea,2009,vs_neighbours_pct,1.774,calc
+find_your_year South Korea,2009,clean_base_pct,-2.56,calc
+find_your_year South Korea,2010,vs_neighbours_pct,-1.875,calc
+find_your_year South Korea,2010,clean_base_pct,6.518,calc
+find_your_year South Korea,2011,vs_neighbours_pct,-2.537,calc
+find_your_year South Korea,2011,clean_base_pct,9.304,calc
+find_your_year South Korea,2012,vs_neighbours_pct,13.402,calc
+find_your_year South Korea,2012,clean_base_pct,15.305,calc
+find_your_year South Korea,2013,vs_neighbours_pct,-8.788,calc
+find_your_year South Korea,2013,clean_base_pct,7.515,calc
+find_your_year South Korea,2014,vs_neighbours_pct,5.894,calc
+find_your_year South Korea,2014,clean_base_pct,13.381,calc
+find_your_year South Korea,2015,vs_neighbours_pct,2.527,calc
+find_your_year South Korea,2015,clean_base_pct,16.788,calc
+find_your_year South Korea,2016,vs_neighbours_pct,-0.948,calc
+find_your_year South Korea,2016,clean_base_pct,11.877,calc
+find_your_year South Korea,2017,vs_neighbours_pct,5.966,calc
+find_your_year South Korea,2017,clean_base_pct,5.165,calc
+find_your_year South Korea,2018,vs_neighbours_pct,-6.155,calc
+find_your_year South Korea,2018,clean_base_pct,0.247,calc
+find_your_year South Korea,2019,vs_neighbours_pct,-5.523,calc
+find_your_year South Korea,2019,clean_base_pct,-4.134,calc
+find_your_year South Korea,2020,vs_neighbours_pct,4.066,calc
+find_your_year South Korea,2020,clean_base_pct,-8.632,calc
+find_your_year South Korea,2021,vs_neighbours_pct,-4.6,calc
+find_your_year South Korea,2021,clean_base_pct,-7.523,calc
+find_your_year South Korea,2022,vs_neighbours_pct,-4.965,calc
+find_your_year South Korea,2022,clean_base_pct,-6.127,calc
+find_your_year South Korea,2023,vs_neighbours_pct,-3.056,calc
+find_your_year South Korea,2023,clean_base_pct,-11.865,calc
+find_your_year Taiwan,1960,vs_neighbours_pct,0.158,calc
+find_your_year Taiwan,1960,clean_base_pct,0.566,calc
+find_your_year Taiwan,1961,vs_neighbours_pct,-0.515,calc
+find_your_year Taiwan,1961,clean_base_pct,0.824,calc
+find_your_year Taiwan,1962,vs_neighbours_pct,0.782,calc
+find_your_year Taiwan,1962,clean_base_pct,2.359,calc
+find_your_year Taiwan,1963,vs_neighbours_pct,1.809,calc
+find_your_year Taiwan,1963,clean_base_pct,3.877,calc
+find_your_year Taiwan,1964,vs_neighbours_pct,-0.137,calc
+find_your_year Taiwan,1964,clean_base_pct,2.195,calc
+find_your_year Taiwan,1965,vs_neighbours_pct,-0.223,calc
+find_your_year Taiwan,1965,clean_base_pct,0.32,calc
+find_your_year Taiwan,1966,vs_neighbours_pct,4.379,calc
+find_your_year Taiwan,1966,clean_base_pct,3.524,calc
+find_your_year Taiwan,1967,vs_neighbours_pct,-6.863,calc
+find_your_year Taiwan,1967,clean_base_pct,-5.946,calc
+find_your_year Taiwan,1968,vs_neighbours_pct,0.156,calc
+find_your_year Taiwan,1968,clean_base_pct,-0.144,calc
+find_your_year Taiwan,1969,vs_neighbours_pct,1.343,calc
+find_your_year Taiwan,1969,clean_base_pct,0.487,calc
+find_your_year Taiwan,1970,vs_neighbours_pct,2.901,calc
+find_your_year Taiwan,1970,clean_base_pct,3.07,calc
+find_your_year Taiwan,1971,vs_neighbours_pct,0.273,calc
+find_your_year Taiwan,1971,clean_base_pct,-0.835,calc
+find_your_year Taiwan,1972,vs_neighbours_pct,-2.239,calc
+find_your_year Taiwan,1972,clean_base_pct,-4.201,calc
+find_your_year Taiwan,1973,vs_neighbours_pct,0.549,calc
+find_your_year Taiwan,1973,clean_base_pct,-3.373,calc
+find_your_year Taiwan,1974,vs_neighbours_pct,-6.021,calc
+find_your_year Taiwan,1974,clean_base_pct,-7.444,calc
+find_your_year Taiwan,1975,vs_neighbours_pct,-7.105,calc
+find_your_year Taiwan,1975,clean_base_pct,-8.668,calc
+find_your_year Taiwan,1976,vs_neighbours_pct,11.657,calc
+find_your_year Taiwan,1976,clean_base_pct,9.275,calc
+find_your_year Taiwan,1977,vs_neighbours_pct,-2.519,calc
+find_your_year Taiwan,1977,clean_base_pct,2.443,calc
+find_your_year Taiwan,1978,vs_neighbours_pct,-0.272,calc
+find_your_year Taiwan,1978,clean_base_pct,7.487,calc
+find_your_year Taiwan,1979,vs_neighbours_pct,3.392,calc
+find_your_year Taiwan,1979,clean_base_pct,10.542,calc
+find_your_year Taiwan,1980,vs_neighbours_pct,-0.168,calc
+find_your_year Taiwan,1980,clean_base_pct,8.22,calc
+find_your_year Taiwan,1981,vs_neighbours_pct,2.548,calc
+find_your_year Taiwan,1981,clean_base_pct,11.149,calc
+find_your_year Taiwan,1982,vs_neighbours_pct,1.973,calc
+find_your_year Taiwan,1982,clean_base_pct,6.407,calc
+find_your_year Taiwan,1983,vs_neighbours_pct,-0.253,calc
+find_your_year Taiwan,1983,clean_base_pct,3.265,calc
+find_your_year Taiwan,1984,vs_neighbours_pct,3.02,calc
+find_your_year Taiwan,1984,clean_base_pct,1.344,calc
+find_your_year Taiwan,1985,vs_neighbours_pct,0.175,calc
+find_your_year Taiwan,1985,clean_base_pct,-2.796,calc
+find_your_year Taiwan,1986,vs_neighbours_pct,-10.366,calc
+find_your_year Taiwan,1986,clean_base_pct,-12.236,calc
+find_your_year Taiwan,1987,vs_neighbours_pct,-3.933,calc
+find_your_year Taiwan,1987,clean_base_pct,-10.522,calc
+find_your_year Taiwan,1988,vs_neighbours_pct,7.892,calc
+find_your_year Taiwan,1988,clean_base_pct,0.62,calc
+find_your_year Taiwan,1989,vs_neighbours_pct,-4.548,calc
+find_your_year Taiwan,1989,clean_base_pct,-7.237,calc
+find_your_year Taiwan,1990,vs_neighbours_pct,3.804,calc
+find_your_year Taiwan,1990,clean_base_pct,2.096,calc
+find_your_year Taiwan,1991,vs_neighbours_pct,-1.284,calc
+find_your_year Taiwan,1991,clean_base_pct,-1.28,calc
+find_your_year Taiwan,1992,vs_neighbours_pct,-1.65,calc
+find_your_year Taiwan,1992,clean_base_pct,0.262,calc
+find_your_year Taiwan,1993,vs_neighbours_pct,0.919,calc
+find_your_year Taiwan,1993,clean_base_pct,2.87,calc
+find_your_year Taiwan,1994,vs_neighbours_pct,-0.246,calc
+find_your_year Taiwan,1994,clean_base_pct,1.887,calc
+find_your_year Taiwan,1995,vs_neighbours_pct,0.549,calc
+find_your_year Taiwan,1995,clean_base_pct,5.626,calc
+find_your_year Taiwan,1996,vs_neighbours_pct,4.267,calc
+find_your_year Taiwan,1996,clean_base_pct,5.62,calc
+find_your_year Taiwan,1997,vs_neighbours_pct,7.983,calc
+find_your_year Taiwan,1997,clean_base_pct,9.043,calc
+find_your_year Taiwan,1998,vs_neighbours_pct,-13.304,calc
+find_your_year Taiwan,1998,clean_base_pct,-6.061,calc
+find_your_year Taiwan,1999,vs_neighbours_pct,-1.953,calc
+find_your_year Taiwan,1999,clean_base_pct,3.774,calc
+find_your_year Taiwan,2000,vs_neighbours_pct,16.19,calc
+find_your_year Taiwan,2000,clean_base_pct,15.603,calc
+find_your_year Taiwan,2001,vs_neighbours_pct,-3.192,calc
+find_your_year Taiwan,2001,clean_base_pct,0.178,calc
+find_your_year Taiwan,2002,vs_neighbours_pct,-2.293,calc
+find_your_year Taiwan,2002,clean_base_pct,-0.63,calc
+find_your_year Taiwan,2003,vs_neighbours_pct,-2.044,calc
+find_your_year Taiwan,2003,clean_base_pct,-4.692,calc
+find_your_year Taiwan,2004,vs_neighbours_pct,-1.766,calc
+find_your_year Taiwan,2004,clean_base_pct,-4.355,calc
+find_your_year Taiwan,2005,vs_neighbours_pct,-3.359,calc
+find_your_year Taiwan,2005,clean_base_pct,-7.002,calc
+find_your_year Taiwan,2006,vs_neighbours_pct,-0.178,calc
+find_your_year Taiwan,2006,clean_base_pct,-2.883,calc
+find_your_year Taiwan,2007,vs_neighbours_pct,1.753,calc
+find_your_year Taiwan,2007,clean_base_pct,-2.231,calc
+find_your_year Taiwan,2008,vs_neighbours_pct,2.332,calc
+find_your_year Taiwan,2008,clean_base_pct,-2.852,calc
+find_your_year Taiwan,2009,vs_neighbours_pct,0.459,calc
+find_your_year Taiwan,2009,clean_base_pct,-4.235,calc
+find_your_year Taiwan,2010,vs_neighbours_pct,-18.948,calc
+find_your_year Taiwan,2010,clean_base_pct,-17.364,calc
+find_your_year Taiwan,2011,vs_neighbours_pct,0.666,calc
+find_your_year Taiwan,2011,clean_base_pct,-0.714,calc
+find_your_year Taiwan,2012,vs_neighbours_pct,21.686,calc
+find_your_year Taiwan,2012,clean_base_pct,19.275,calc
+find_your_year Taiwan,2013,vs_neighbours_pct,-9.06,calc
+find_your_year Taiwan,2013,clean_base_pct,0.764,calc
+find_your_year Taiwan,2014,vs_neighbours_pct,-0.545,calc
+find_your_year Taiwan,2014,clean_base_pct,11.458,calc
+find_your_year Taiwan,2015,vs_neighbours_pct,5.419,calc
+find_your_year Taiwan,2015,clean_base_pct,13.966,calc
+find_your_year Taiwan,2016,vs_neighbours_pct,3.831,calc
+find_your_year Taiwan,2016,clean_base_pct,13.041,calc
+find_your_year Taiwan,2017,vs_neighbours_pct,0.263,calc
+find_your_year Taiwan,2017,clean_base_pct,9.369,calc
+find_your_year Taiwan,2018,vs_neighbours_pct,-2.16,calc
+find_your_year Taiwan,2018,clean_base_pct,2.483,calc
+find_your_year Taiwan,2019,vs_neighbours_pct,0.968,calc
+find_your_year Taiwan,2019,clean_base_pct,6.385,calc
+find_your_year Taiwan,2020,vs_neighbours_pct,-0.771,calc
+find_your_year Taiwan,2020,clean_base_pct,1.016,calc
+find_your_year Taiwan,2021,vs_neighbours_pct,3.358,calc
+find_your_year Taiwan,2021,clean_base_pct,6.345,calc
+find_your_year Taiwan,2022,vs_neighbours_pct,-6.358,calc
+find_your_year Taiwan,2022,clean_base_pct,-1.007,calc
+find_your_year Taiwan,2023,vs_neighbours_pct,0.131,calc
+find_your_year Taiwan,2023,clean_base_pct,5.224,calc
+find_your_year Japan,1949,vs_neighbours_pct,9.668,calc
+find_your_year Japan,1950,vs_neighbours_pct,-1.797,calc
+find_your_year Japan,1951,vs_neighbours_pct,-4.003,calc
+find_your_year Japan,1952,vs_neighbours_pct,-1.136,calc
+find_your_year Japan,1953,vs_neighbours_pct,-2.237,calc
+find_your_year Japan,1954,vs_neighbours_pct,-2.625,calc
+find_your_year Japan,1954,clean_base_pct,-0.079,calc
+find_your_year Japan,1955,vs_neighbours_pct,0.774,calc
+find_your_year Japan,1955,clean_base_pct,-0.084,calc
+find_your_year Japan,1956,vs_neighbours_pct,-0.883,calc
+find_your_year Japan,1956,clean_base_pct,-2.712,calc
+find_your_year Japan,1957,vs_neighbours_pct,-6.122,calc
+find_your_year Japan,1957,clean_base_pct,-7.729,calc
+find_your_year Japan,1958,vs_neighbours_pct,2.317,calc
+find_your_year Japan,1958,clean_base_pct,-0.377,calc
+find_your_year Japan,1959,vs_neighbours_pct,1.383,calc
+find_your_year Japan,1959,clean_base_pct,-1.036,calc
+find_your_year Japan,1960,vs_neighbours_pct,-0.977,calc
+find_your_year Japan,1960,clean_base_pct,-1.31,calc
+find_your_year Japan,1961,vs_neighbours_pct,-2.347,calc
+find_your_year Japan,1961,clean_base_pct,-2.832,calc
+find_your_year Japan,1962,vs_neighbours_pct,-1.48,calc
+find_your_year Japan,1962,clean_base_pct,-3.883,calc
+find_your_year Japan,1963,vs_neighbours_pct,-1.635,calc
+find_your_year Japan,1963,clean_base_pct,-3.237,calc
+find_your_year Japan,1964,vs_neighbours_pct,6.255,calc
+find_your_year Japan,1964,clean_base_pct,-1.195,calc
+find_your_year Japan,1965,vs_neighbours_pct,9.32,calc
+find_your_year Japan,1965,clean_base_pct,3.553,calc
+find_your_year Japan,1966,vs_neighbours_pct,-25.913,calc
+find_your_year Japan,1966,clean_base_pct,-23.856,calc
+find_your_year Japan,1967,vs_neighbours_pct,11.463,calc
+find_your_year Japan,1967,clean_base_pct,6.409,calc
+find_your_year Japan,1968,vs_neighbours_pct,5.15,calc
+find_your_year Japan,1968,clean_base_pct,0.773,calc
+find_your_year Japan,1969,vs_neighbours_pct,-2.369,calc
+find_your_year Japan,1969,clean_base_pct,0.244,calc
+find_your_year Japan,1970,vs_neighbours_pct,-0.825,calc
+find_your_year Japan,1970,clean_base_pct,-0.507,calc
+find_your_year Japan,1971,vs_neighbours_pct,0.618,calc
+find_your_year Japan,1971,clean_base_pct,3.615,calc
+find_your_year Japan,1972,vs_neighbours_pct,1.211,calc
+find_your_year Japan,1972,clean_base_pct,6.347,calc
+find_your_year Japan,1973,vs_neighbours_pct,4.979,calc
+find_your_year Japan,1973,clean_base_pct,10.336,calc
+find_your_year Japan,1974,vs_neighbours_pct,3.245,calc
+find_your_year Japan,1974,clean_base_pct,9.314,calc
+find_your_year Japan,1975,vs_neighbours_pct,-1.348,calc
+find_your_year Japan,1975,clean_base_pct,5.285,calc
+find_your_year Japan,1976,vs_neighbours_pct,-0.875,calc
+find_your_year Japan,1976,clean_base_pct,2.549,calc
+find_your_year Japan,1977,vs_neighbours_pct,-0.916,calc
+find_your_year Japan,1977,clean_base_pct,-0.289,calc
+find_your_year Japan,1978,vs_neighbours_pct,0.402,calc
+find_your_year Japan,1978,clean_base_pct,-1.017,calc
+find_your_year Japan,1979,vs_neighbours_pct,0.004,calc
+find_your_year Japan,1979,clean_base_pct,-2.358,calc
+find_your_year Japan,1980,vs_neighbours_pct,-1.384,calc
+find_your_year Japan,1980,clean_base_pct,-3.054,calc
+find_your_year Japan,1981,vs_neighbours_pct,-2.014,calc
+find_your_year Japan,1981,clean_base_pct,-3.414,calc
+find_your_year Japan,1982,vs_neighbours_pct,-0.708,calc
+find_your_year Japan,1982,clean_base_pct,-1.014,calc
+find_your_year Japan,1983,vs_neighbours_pct,1.149,calc
+find_your_year Japan,1983,clean_base_pct,1.636,calc
+find_your_year Japan,1984,vs_neighbours_pct,2.064,calc
+find_your_year Japan,1984,clean_base_pct,3.356,calc
+find_your_year Japan,1985,vs_neighbours_pct,-0.031,calc
+find_your_year Japan,1985,clean_base_pct,1.634,calc
+find_your_year Japan,1986,vs_neighbours_pct,-0.9,calc
+find_your_year Japan,1986,clean_base_pct,0.072,calc
+find_your_year Japan,1987,vs_neighbours_pct,0.21,calc
+find_your_year Japan,1987,clean_base_pct,-0.584,calc
+find_your_year Japan,1988,vs_neighbours_pct,1.116,calc
+find_your_year Japan,1988,clean_base_pct,-1.727,calc
+find_your_year Japan,1989,vs_neighbours_pct,-2.317,calc
+find_your_year Japan,1989,clean_base_pct,-5.701,calc
+find_your_year Japan,1990,vs_neighbours_pct,-2.137,calc
+find_your_year Japan,1990,clean_base_pct,-5.381,calc
+find_your_year Japan,1991,vs_neighbours_pct,0.562,calc
+find_your_year Japan,1991,clean_base_pct,-3.27,calc
+find_your_year Japan,1992,vs_neighbours_pct,-0.728,calc
+find_your_year Japan,1992,clean_base_pct,-2.579,calc
+find_your_year Japan,1993,vs_neighbours_pct,-2.151,calc
+find_your_year Japan,1993,clean_base_pct,-3.511,calc
+find_your_year Japan,1994,vs_neighbours_pct,3.39,calc
+find_your_year Japan,1994,clean_base_pct,2.92,calc
+find_your_year Japan,1995,vs_neighbours_pct,-1.587,calc
+find_your_year Japan,1995,clean_base_pct,-1.411,calc
+find_your_year Japan,1996,vs_neighbours_pct,0.125,calc
+find_your_year Japan,1996,clean_base_pct,1.065,calc
+find_your_year Japan,1997,vs_neighbours_pct,-0.163,calc
+find_your_year Japan,1997,clean_base_pct,0.069,calc
+find_your_year Japan,1998,vs_neighbours_pct,0.968,calc
+find_your_year Japan,1998,clean_base_pct,2.212,calc
+find_your_year Japan,1999,vs_neighbours_pct,-0.953,calc
+find_your_year Japan,1999,clean_base_pct,1.645,calc
+find_your_year Japan,2000,vs_neighbours_pct,1.208,calc
+find_your_year Japan,2000,clean_base_pct,3.132,calc
+find_your_year Japan,2001,vs_neighbours_pct,0.796,calc
+find_your_year Japan,2001,clean_base_pct,2.691,calc
+find_your_year Japan,2002,vs_neighbours_pct,0.433,calc
+find_your_year Japan,2002,clean_base_pct,1.417,calc
+find_your_year Japan,2003,vs_neighbours_pct,-0.074,calc
+find_your_year Japan,2003,clean_base_pct,-0.331,calc
+find_your_year Japan,2004,vs_neighbours_pct,0.23,calc
+find_your_year Japan,2004,clean_base_pct,-0.657,calc
+find_your_year Japan,2005,vs_neighbours_pct,-3.774,calc
+find_your_year Japan,2005,clean_base_pct,-4.505,calc
+find_your_year Japan,2006,vs_neighbours_pct,0.378,calc
+find_your_year Japan,2006,clean_base_pct,-0.291,calc
+find_your_year Japan,2007,vs_neighbours_pct,0.993,calc
+find_your_year Japan,2007,clean_base_pct,0.419,calc
+find_your_year Japan,2008,vs_neighbours_pct,0.943,calc
+find_your_year Japan,2008,clean_base_pct,1.88,calc
+find_your_year Japan,2009,vs_neighbours_pct,-0.533,calc
+find_your_year Japan,2009,clean_base_pct,0.396,calc
+find_your_year Japan,2010,vs_neighbours_pct,0.847,calc
+find_your_year Japan,2010,clean_base_pct,1.884,calc
+find_your_year Japan,2011,vs_neighbours_pct,-0.123,calc
+find_your_year Japan,2011,clean_base_pct,1.667,calc
+find_your_year Japan,2012,vs_neighbours_pct,-0.159,calc
+find_your_year Japan,2012,clean_base_pct,1.417,calc
+find_your_year Japan,2013,vs_neighbours_pct,0.534,calc
+find_your_year Japan,2013,clean_base_pct,2.986,calc
+find_your_year Japan,2014,vs_neighbours_pct,-0.878,calc
+find_your_year Japan,2014,clean_base_pct,2.003,calc
+find_your_year Japan,2015,vs_neighbours_pct,1.67,calc
+find_your_year Japan,2015,clean_base_pct,4.381,calc
+find_your_year Japan,2016,vs_neighbours_pct,0.906,calc
+find_your_year Japan,2016,clean_base_pct,3.55,calc
+find_your_year Japan,2017,vs_neighbours_pct,0.477,calc
+find_your_year Japan,2017,clean_base_pct,3.578,calc
+find_your_year Japan,2018,vs_neighbours_pct,1.216,calc
+find_your_year Japan,2018,clean_base_pct,2.8,calc
+find_your_year Japan,2019,vs_neighbours_pct,-1.594,calc
+find_your_year Japan,2019,clean_base_pct,0.472,calc
+find_your_year Japan,2020,vs_neighbours_pct,-0.08,calc
+find_your_year Japan,2020,clean_base_pct,0.904,calc
+find_your_year Japan,2021,vs_neighbours_pct,1.322,calc
+find_your_year Japan,2021,clean_base_pct,1.775,calc
+find_your_year Japan,2022,vs_neighbours_pct,0.558,calc
+find_your_year Japan,2022,clean_base_pct,0.595,calc
+find_your_year Japan,2023,vs_neighbours_pct,-1.043,calc
+find_your_year Japan,2023,clean_base_pct,-1.167,calc
+find_your_year Malaysia Chinese,2002,vs_neighbours_pct,0.081,calc
+find_your_year Malaysia Chinese,2002,clean_base_pct,5.966,calc
+find_your_year Malaysia Chinese,2003,vs_neighbours_pct,-0.609,calc
+find_your_year Malaysia Chinese,2003,clean_base_pct,0.716,calc
+find_your_year Malaysia Chinese,2004,vs_neighbours_pct,-2.019,calc
+find_your_year Malaysia Chinese,2004,clean_base_pct,-0.683,calc
+find_your_year Malaysia Chinese,2005,vs_neighbours_pct,0.055,calc
+find_your_year Malaysia Chinese,2005,clean_base_pct,0.546,calc
+find_your_year Malaysia Chinese,2006,vs_neighbours_pct,-1.558,calc
+find_your_year Malaysia Chinese,2006,clean_base_pct,-0.401,calc
+find_your_year Malaysia Chinese,2007,vs_neighbours_pct,1.756,calc
+find_your_year Malaysia Chinese,2007,clean_base_pct,3.672,calc
+find_your_year Malaysia Chinese,2008,vs_neighbours_pct,4.288,calc
+find_your_year Malaysia Chinese,2008,clean_base_pct,4.371,calc
+find_your_year Malaysia Chinese,2009,vs_neighbours_pct,0.367,calc
+find_your_year Malaysia Chinese,2009,clean_base_pct,1.247,calc
+find_your_year Malaysia Chinese,2010,vs_neighbours_pct,-9.867,calc
+find_your_year Malaysia Chinese,2010,clean_base_pct,-4.929,calc
+find_your_year Malaysia Chinese,2011,vs_neighbours_pct,-1.148,calc
+find_your_year Malaysia Chinese,2011,clean_base_pct,1.562,calc
+find_your_year Malaysia Chinese,2012,vs_neighbours_pct,16.154,calc
+find_your_year Malaysia Chinese,2012,clean_base_pct,17.012,calc
+find_your_year Malaysia Chinese,2013,vs_neighbours_pct,-9.051,calc
+find_your_year Malaysia Chinese,2013,clean_base_pct,-2.169,calc
+find_your_year Malaysia Chinese,2014,vs_neighbours_pct,1.724,calc
+find_your_year Malaysia Chinese,2014,clean_base_pct,8.559,calc
+find_your_year Malaysia Chinese,2015,vs_neighbours_pct,3.255,calc
+find_your_year Malaysia Chinese,2015,clean_base_pct,8.224,calc
+find_your_year Malaysia Chinese,2016,vs_neighbours_pct,-0.544,calc
+find_your_year Malaysia Chinese,2016,clean_base_pct,5.944,calc
+find_your_year Malaysia Chinese,2017,vs_neighbours_pct,-1.204,calc
+find_your_year Malaysia Chinese,2017,clean_base_pct,4.974,calc
+find_your_year Malaysia Chinese,2018,vs_neighbours_pct,-2.518,calc
+find_your_year Malaysia Chinese,2018,clean_base_pct,1.506,calc
+find_your_year Malaysia Chinese,2019,vs_neighbours_pct,8.062,calc
+find_your_year Malaysia Chinese,2019,clean_base_pct,10.139,calc
+find_your_year Malaysia Chinese,2020,vs_neighbours_pct,2.612,calc
+find_your_year Malaysia Chinese,2020,clean_base_pct,1.258,calc
+find_your_year Malaysia Chinese,2021,vs_neighbours_pct,-9.823,calc
+find_your_year Malaysia Chinese,2021,clean_base_pct,-8.558,calc
+find_your_year Malaysia Chinese,2022,vs_neighbours_pct,-12.905,calc
+find_your_year Malaysia Chinese,2022,clean_base_pct,-8.813,calc
+find_your_year Malaysia Chinese,2023,vs_neighbours_pct,9.875,calc
+find_your_year Malaysia Chinese,2023,clean_base_pct,12.858,calc
