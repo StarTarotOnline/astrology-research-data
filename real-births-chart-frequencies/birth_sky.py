@@ -14,7 +14,8 @@ this script). Steps, in order:
     python3 birth_sky.py export          # page JSON + dataset CSV (+ a copy of this script in the repo)
 
 Sub-steps can be run alone: fetch-br|fetch-jp|fetch-us [years], compute-br|compute-us [years],
-compute-jp, compute-us-groups [years] (only the US out-of-hospital group), degrade [years], mars-model.
+compute-jp, compute-us-groups [years] (only the US out-of-hospital group), jp-weights (Japan with other
+prefecture weights), degrade [years], mars-model.
 
 Run from the repo, export writes (GENERATED — regenerate, do not hand-edit):
     frontend/src/lib/research/real-births-chart-frequencies.json   data both pages render
@@ -599,6 +600,40 @@ def compute_jp(sub=12):
         log(f"JP {y}: " + ' '.join(f"{r[:2]} {R[r]['sect_day'] / R[r]['total'] * 100:.2f}" for r in RUNGS))
 
 
+def jp_weights_test(y=2024, sub=12):
+    """How much the Japanese results depend on the prefecture weights: the real births of one year at
+    their recorded hours, with the 2023 prefecture shares replaced by equal weights and by every
+    single prefecture in turn (all births placed at one prefectural office)."""
+    d = pd.read_csv(JP_DIR / 'jp_births_month_day_hour.csv'); d = d[d.day > 0]
+    raw = pd.read_csv(JP_DIR / 'pref_month_2023.csv', encoding='shift_jis', header=None, skiprows=7)
+    w = raw[raw[0].astype(str).str.match(r'^\d\d ')][[0, 1]].copy()
+    w['id'] = w[0].str[:2].astype(int); w['n'] = w[1].astype(float)
+    w = w[w.id <= 47].sort_values('id'); share = (w.n / w.n.sum()).values
+    plat = np.array([p[0] for p in JP_PREF]); plon = np.array([p[1] for p in JP_PREF])
+    hc = [f'h{h:02d}' for h in range(24)]
+    yy = d[d.year == y].sort_values(['month', 'day']); counts = yy[hc].values.astype(float)
+    swe = swe_mod()
+    jd_day = np.array([swe.julday(int(a), int(b), int(c), 0.0) for a, b, c in zip(yy.year, yy.month, yy.day)])
+    local_h = (np.arange(24)[:, None] + ((np.arange(sub) + 0.5) / sub)[None, :]).ravel()
+    jd = (jd_day[:, None, None] + local_h[None, :, None] / 24 - 9 / 24) + np.zeros((1, 1, 47))
+    F = features(jd.ravel(), np.broadcast_to(plat, jd.shape).ravel(), np.broadcast_to(plon, jd.shape).ravel())
+    real = counts[:, np.repeat(np.arange(24), sub)] / sub
+    def run(sh):
+        R = accumulate({}, F, (real[:, :, None] * sh[None, None, :]).ravel())
+        return R['sect_day'] / R['total'] * 100, np.asarray(R['sun_house'], float) / R['total'] * 100
+    day0, house0 = run(share)
+    def diff(sh):
+        day, house = run(sh)
+        return {'day_pp': float(day - day0), 'sun_house_pp': float(np.abs(house - house0).max())}
+    single = [diff(np.eye(47)[i]) for i in range(47)]
+    out = {'year': y, 'day_published': float(day0), 'equal_weights': diff(np.full(47, 1 / 47)),
+           'tokyo_only': single[12],
+           'single_prefecture_max': {'day_pp': max(abs(s['day_pp']) for s in single),
+                                     'sun_house_pp': max(s['sun_house_pp'] for s in single)}}
+    save_counts('JP_WEIGHTS_TEST', out)
+    log(f"JP weights test {y}: equal {out['equal_weights']}, single prefecture max {out['single_prefecture_max']}")
+
+
 # ------------------------------------------------------------------ USA
 US_DIR = DATA / 'us'
 US_FILES = {2016: 'Nat2016us.zip', 2017: 'Nat2017US.zip', 2018: 'Nat2018us.zip', 2019: 'Nat2019us.zip',
@@ -959,6 +994,9 @@ def export():
                         'composition_share_first_year_weights_pct': r2(comp_first / total * 100, 1),
                         'composition_share_last_year_weights_pct': r2(comp_last / total * 100, 1)}
     mars = json.loads((COUNTS / 'MARS_MODEL.json').read_text()) if (COUNTS / 'MARS_MODEL.json').exists() else None
+    jpw = load_counts('JP_WEIGHTS_TEST') if (COUNTS / 'JP_WEIGHTS_TEST.json').exists() else None
+    if jpw is not None:
+        jpw = {k: ({a: r2(b, 3) for a, b in v.items()} if isinstance(v, dict) else v) for k, v in jpw.items()}
     corr = float(st[['day', 'ces']].corr().iloc[0, 1])
     data = {
         'generated_by': 'scripts/research/birth_sky.py', 'signs': SIGNS, 'rungs': RUNGS,
@@ -967,7 +1005,7 @@ def export():
         'total_births': sum(pooled[c]['births'] for c in years),
         'series': series, 'br_decomposition': br_decomposition, 'br_states': {'points': len(st), 'corr_day_caesarean': r2(corr, 3), 'rows': states},
         'pooled': pooled, 'hour_profiles_pct': hours, 'us_out_of_hospital': us_out_of_hospital,
-        'degradation_test': deg, 'mars_model': mars,
+        'degradation_test': deg, 'jp_weights_test': jpw, 'mars_model': mars,
         'csv_rows': len(rows),
     }
     # Pages «planet in house» (natal SEO leaves) read their OWN small file: kept out of the
@@ -1023,7 +1061,7 @@ def write_backend_facts(counts, years, pooled):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
     ap.add_argument('step', choices=['fetch', 'fetch-br', 'fetch-jp', 'fetch-us', 'compute', 'compute-br', 'compute-jp',
-                                     'compute-us', 'compute-us-groups', 'degrade', 'mars-model', 'export', 'selftest'])
+                                     'compute-us', 'compute-us-groups', 'jp-weights', 'degrade', 'mars-model', 'export', 'selftest'])
     ap.add_argument('years', nargs='*', type=int)
     a = ap.parse_args()
     ys = lambda default: a.years or default
@@ -1033,6 +1071,7 @@ def main():
     if a.step in ('compute', 'compute-br'):
         for y in ys(BR_YEARS): compute_br(y)
     if a.step in ('compute', 'compute-jp'): compute_jp()
+    if a.step in ('compute', 'jp-weights'): jp_weights_test()
     if a.step in ('compute', 'compute-us'):
         for y in ys(US_YEARS): compute_us(y)
     if a.step == 'compute-us-groups':

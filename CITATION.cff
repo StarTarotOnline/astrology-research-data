@@ -17,7 +17,9 @@ abstract: >-
   often each planet is retrograde, 1900-2100; and how often each chart feature occurs
   among 95.7 million recorded births in Brazil, Japan and the USA; how common each Sun
   sign is among 710 million births in 55 countries, 1960-2024; and what the Fire Horse
-  year 1966 did to Japan's birth register, with the zodiac years in five other places.
+  year 1966 did to Japan's birth register, with the zodiac years in five other places;
+  when the solar return falls against the birthday; where the Sun really was against the
+  constellations; and how often house number 13 is skipped in fifteen countries.
 keywords:
   - astrology
   - astronomy
@@ -30,4 +32,9 @@ keywords:
   - Fire Horse
   - hinoeuma
   - sex ratio at birth
+  - solar return
+  - constellations
+  - Ophiuchus
+  - house numbers
+  - triskaidekaphobia
   - dataset
