@@ -1,0 +1,927 @@
+scope,area,card,card_name,arcana,suit,value,unit,term
+language,en:worldwide,the-world,The World,major,,322.47,meaning_searches_the_fool_100,"world tarot meaning"
+language,en:worldwide,the-star,The Star,major,,305.62,meaning_searches_the_fool_100,"star tarot meaning"
+language,en:worldwide,the-moon,The Moon,major,,276.04,meaning_searches_the_fool_100,"moon tarot meaning"
+language,en:worldwide,the-hermit,The Hermit,major,,193.97,meaning_searches_the_fool_100,"hermit tarot meaning"
+language,en:worldwide,strength,Strength,major,,155.76,meaning_searches_the_fool_100,"strength tarot meaning"
+language,en:worldwide,the-lovers,The Lovers,major,,151.87,meaning_searches_the_fool_100,"lovers tarot meaning"
+language,en:worldwide,the-sun,The Sun,major,,151.18,meaning_searches_the_fool_100,"sun tarot meaning"
+language,en:worldwide,justice,Justice,major,,150.85,meaning_searches_the_fool_100,"justice tarot meaning"
+language,en:worldwide,death,Death,major,,148.04,meaning_searches_the_fool_100,"death tarot meaning"
+language,en:worldwide,temperance,Temperance,major,,137.88,meaning_searches_the_fool_100,"temperance tarot meaning"
+language,en:worldwide,the-empress,The Empress,major,,128.32,meaning_searches_the_fool_100,"empress tarot meaning"
+language,en:worldwide,the-tower,The Tower,major,,119.63,meaning_searches_the_fool_100,"tower tarot meaning"
+language,en:worldwide,the-high-priestess,The High Priestess,major,,118.31,meaning_searches_the_fool_100,"high priestess tarot meaning"
+language,en:worldwide,judgement,Judgement,major,,107.69,meaning_searches_the_fool_100,"judgement tarot meaning + judgment tarot meaning"
+language,en:worldwide,wheel-of-fortune,Wheel of Fortune,major,,104.52,meaning_searches_the_fool_100,"wheel of fortune tarot meaning"
+language,en:worldwide,the-devil,The Devil,major,,100.46,meaning_searches_the_fool_100,"devil tarot meaning"
+language,en:worldwide,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100,"fool tarot meaning"
+language,en:worldwide,the-hanged-man,The Hanged Man,major,,97.36,meaning_searches_the_fool_100,"hanged man tarot meaning"
+language,en:worldwide,the-emperor,The Emperor,major,,95.9,meaning_searches_the_fool_100,"emperor tarot meaning"
+language,en:worldwide,the-chariot,The Chariot,major,,95.68,meaning_searches_the_fool_100,"chariot tarot meaning"
+language,en:worldwide,the-magician,The Magician,major,,89.44,meaning_searches_the_fool_100,"magician tarot meaning"
+language,en:worldwide,the-hierophant,The Hierophant,major,,71.76,meaning_searches_the_fool_100,"hierophant tarot meaning"
+language,es:ES,the-tower,The Tower,major,,133.33,meaning_searches_the_fool_100,"torre tarot significado"
+language,es:ES,the-moon,The Moon,major,,127.78,meaning_searches_the_fool_100,"luna tarot significado"
+language,es:ES,the-sun,The Sun,major,,127.78,meaning_searches_the_fool_100,"sol tarot significado"
+language,es:ES,the-devil,The Devil,major,,122.22,meaning_searches_the_fool_100,"diablo tarot significado"
+language,es:ES,death,Death,major,,116.67,meaning_searches_the_fool_100,"muerte tarot significado"
+language,es:ES,the-world,The World,major,,112.77,meaning_searches_the_fool_100,"mundo tarot significado"
+language,es:ES,the-star,The Star,major,,111.11,meaning_searches_the_fool_100,"estrella tarot significado"
+language,es:ES,the-chariot,The Chariot,major,,100.0,meaning_searches_the_fool_100,"carro tarot significado"
+language,es:ES,the-empress,The Empress,major,,100.0,meaning_searches_the_fool_100,"emperatriz tarot significado"
+language,es:ES,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100,"loco tarot significado"
+language,es:ES,the-hanged-man,The Hanged Man,major,,95.65,meaning_searches_the_fool_100,"colgado tarot significado"
+language,es:ES,the-high-priestess,The High Priestess,major,,95.24,meaning_searches_the_fool_100,"sacerdotisa tarot significado + papisa tarot significado"
+language,es:ES,strength,Strength,major,,91.3,meaning_searches_the_fool_100,"fuerza tarot significado"
+language,es:ES,the-emperor,The Emperor,major,,90.48,meaning_searches_the_fool_100,"emperador tarot significado"
+language,es:ES,the-magician,The Magician,major,,90.48,meaning_searches_the_fool_100,"mago tarot significado"
+language,es:ES,judgement,Judgement,major,,88.89,meaning_searches_the_fool_100,"juicio tarot significado"
+language,es:ES,justice,Justice,major,,86.96,meaning_searches_the_fool_100,"justicia tarot significado"
+language,es:ES,the-lovers,The Lovers,major,,86.96,meaning_searches_the_fool_100,"enamorados tarot significado"
+language,es:ES,temperance,Temperance,major,,83.33,meaning_searches_the_fool_100,"templanza tarot significado"
+language,es:ES,the-hermit,The Hermit,major,,82.61,meaning_searches_the_fool_100,"ermitaño tarot significado"
+language,es:ES,wheel-of-fortune,Wheel of Fortune,major,,69.57,meaning_searches_the_fool_100,"rueda de la fortuna tarot significado"
+language,es:ES,the-hierophant,The Hierophant,major,,56.52,meaning_searches_the_fool_100,"hierofante tarot significado + sumo sacerdote tarot significado"
+language,pt:BR,the-moon,The Moon,major,,127.78,meaning_searches_the_fool_100,"lua tarot significado"
+language,pt:BR,the-tower,The Tower,major,,125.0,meaning_searches_the_fool_100,"torre tarot significado"
+language,pt:BR,the-star,The Star,major,,122.22,meaning_searches_the_fool_100,"estrela tarot significado"
+language,pt:BR,the-sun,The Sun,major,,116.67,meaning_searches_the_fool_100,"sol tarot significado"
+language,pt:BR,the-world,The World,major,,112.77,meaning_searches_the_fool_100,"mundo tarot significado"
+language,pt:BR,death,Death,major,,100.0,meaning_searches_the_fool_100,"morte tarot significado"
+language,pt:BR,the-devil,The Devil,major,,100.0,meaning_searches_the_fool_100,"diabo tarot significado"
+language,pt:BR,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100,"louco tarot significado"
+language,pt:BR,the-magician,The Magician,major,,100.0,meaning_searches_the_fool_100,"mago tarot significado"
+language,pt:BR,the-hierophant,The Hierophant,major,,92.0,meaning_searches_the_fool_100,"hierofante tarot significado + papa tarot significado"
+language,pt:BR,judgement,Judgement,major,,88.89,meaning_searches_the_fool_100,"julgamento tarot significado"
+language,pt:BR,the-hermit,The Hermit,major,,87.5,meaning_searches_the_fool_100,"eremita tarot significado"
+language,pt:BR,the-emperor,The Emperor,major,,86.36,meaning_searches_the_fool_100,"imperador tarot significado"
+language,pt:BR,the-high-priestess,The High Priestess,major,,86.36,meaning_searches_the_fool_100,"sacerdotisa tarot significado + papisa tarot significado"
+language,pt:BR,wheel-of-fortune,Wheel of Fortune,major,,83.33,meaning_searches_the_fool_100,"roda da fortuna tarot significado"
+language,pt:BR,the-empress,The Empress,major,,81.82,meaning_searches_the_fool_100,"imperatriz tarot significado"
+language,pt:BR,the-chariot,The Chariot,major,,80.0,meaning_searches_the_fool_100,"carro tarot significado"
+language,pt:BR,justice,Justice,major,,75.0,meaning_searches_the_fool_100,"justiça tarot significado"
+language,pt:BR,temperance,Temperance,major,,75.0,meaning_searches_the_fool_100,"temperança tarot significado"
+language,pt:BR,strength,Strength,major,,72.0,meaning_searches_the_fool_100,"força tarot significado"
+language,pt:BR,the-hanged-man,The Hanged Man,major,,70.83,meaning_searches_the_fool_100,"enforcado tarot significado"
+language,pt:BR,the-lovers,The Lovers,major,,56.0,meaning_searches_the_fool_100,"enamorados tarot significado"
+language,de:DE,the-moon,The Moon,major,,135.29,meaning_searches_the_fool_100,"mond tarot bedeutung"
+language,de:DE,the-sun,The Sun,major,,135.29,meaning_searches_the_fool_100,"sonne tarot bedeutung"
+language,de:DE,the-hierophant,The Hierophant,major,,126.32,meaning_searches_the_fool_100,"hierophant tarot bedeutung + hohepriester tarot bedeutung"
+language,de:DE,the-devil,The Devil,major,,125.0,meaning_searches_the_fool_100,"teufel tarot bedeutung"
+language,de:DE,the-tower,The Tower,major,,120.0,meaning_searches_the_fool_100,"turm tarot bedeutung"
+language,de:DE,the-star,The Star,major,,117.65,meaning_searches_the_fool_100,"stern tarot bedeutung"
+language,de:DE,the-magician,The Magician,major,,114.29,meaning_searches_the_fool_100,"magier tarot bedeutung"
+language,de:DE,the-lovers,The Lovers,major,,110.53,meaning_searches_the_fool_100,"liebenden tarot bedeutung"
+language,de:DE,the-chariot,The Chariot,major,,105.26,meaning_searches_the_fool_100,"wagen tarot bedeutung"
+language,de:DE,the-hanged-man,The Hanged Man,major,,104.35,meaning_searches_the_fool_100,"gehängte tarot bedeutung"
+language,de:DE,death,Death,major,,100.0,meaning_searches_the_fool_100,"tod tarot bedeutung"
+language,de:DE,judgement,Judgement,major,,100.0,meaning_searches_the_fool_100,"gericht tarot bedeutung"
+language,de:DE,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100,"narr tarot bedeutung"
+language,de:DE,the-world,The World,major,,92.31,meaning_searches_the_fool_100,"welt tarot bedeutung"
+language,de:DE,the-empress,The Empress,major,,90.48,meaning_searches_the_fool_100,"herrscherin tarot bedeutung"
+language,de:DE,the-emperor,The Emperor,major,,85.71,meaning_searches_the_fool_100,"herrscher tarot bedeutung"
+language,de:DE,the-high-priestess,The High Priestess,major,,85.71,meaning_searches_the_fool_100,"hohepriesterin tarot bedeutung"
+language,de:DE,strength,Strength,major,,84.21,meaning_searches_the_fool_100,"kraft tarot bedeutung"
+language,de:DE,justice,Justice,major,,78.26,meaning_searches_the_fool_100,"gerechtigkeit tarot bedeutung"
+language,de:DE,the-hermit,The Hermit,major,,78.26,meaning_searches_the_fool_100,"eremit tarot bedeutung"
+language,de:DE,wheel-of-fortune,Wheel of Fortune,major,,73.91,meaning_searches_the_fool_100,"rad des schicksals tarot bedeutung"
+language,de:DE,temperance,Temperance,major,,55.0,meaning_searches_the_fool_100,"mäßigkeit tarot bedeutung"
+language,fr:FR,the-sun,The Sun,major,,136.36,meaning_searches_the_fool_100,"soleil tarot signification"
+language,fr:FR,the-moon,The Moon,major,,122.73,meaning_searches_the_fool_100,"lune tarot signification"
+language,fr:FR,the-tower,The Tower,major,,117.39,meaning_searches_the_fool_100,"tour tarot signification + maison dieu tarot signification"
+language,fr:FR,the-world,The World,major,,117.39,meaning_searches_the_fool_100,"monde tarot signification"
+language,fr:FR,the-magician,The Magician,major,,113.79,meaning_searches_the_fool_100,"magicien tarot signification + bateleur tarot signification"
+language,fr:FR,the-hanged-man,The Hanged Man,major,,107.69,meaning_searches_the_fool_100,"pendu tarot signification"
+language,fr:FR,the-chariot,The Chariot,major,,104.35,meaning_searches_the_fool_100,"chariot tarot signification"
+language,fr:FR,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100,"fou tarot signification + mat tarot signification"
+language,fr:FR,death,Death,major,,95.65,meaning_searches_the_fool_100,"mort tarot signification + arcane sans nom tarot signification"
+language,fr:FR,the-devil,The Devil,major,,91.3,meaning_searches_the_fool_100,"diable tarot signification"
+language,fr:FR,strength,Strength,major,,86.96,meaning_searches_the_fool_100,"force tarot signification"
+language,fr:FR,the-hierophant,The Hierophant,major,,86.96,meaning_searches_the_fool_100,"hiérophante tarot signification + pape tarot signification"
+language,fr:FR,judgement,Judgement,major,,81.82,meaning_searches_the_fool_100,"jugement tarot signification"
+language,fr:FR,justice,Justice,major,,80.77,meaning_searches_the_fool_100,"justice tarot signification"
+language,fr:FR,the-high-priestess,The High Priestess,major,,72.41,meaning_searches_the_fool_100,"grande prêtresse tarot signification + papesse tarot signification"
+language,fr:FR,wheel-of-fortune,Wheel of Fortune,major,,65.38,meaning_searches_the_fool_100,"roue de fortune tarot signification"
+language,fr:FR,the-lovers,The Lovers,major,,56.52,meaning_searches_the_fool_100,"amoureux tarot signification"
+language,fr:FR,the-emperor,The Emperor,major,,34.48,meaning_searches_the_fool_100,"empereur tarot signification"
+language,fr:FR,the-hermit,The Hermit,major,,30.77,meaning_searches_the_fool_100,"hermite tarot signification"
+language,fr:FR,temperance,Temperance,major,,30.43,meaning_searches_the_fool_100,"tempérance tarot signification"
+language,fr:FR,the-empress,The Empress,major,,24.14,meaning_searches_the_fool_100,"impératrice tarot signification"
+language,fr:FR,the-star,The Star,major,,13.64,meaning_searches_the_fool_100,"étoile tarot signification"
+language,it:IT,the-moon,The Moon,major,,118.18,meaning_searches_the_fool_100,"luna tarocchi significato"
+language,it:IT,death,Death,major,,110.0,meaning_searches_the_fool_100,"morte tarocchi significato"
+language,it:IT,the-tower,The Tower,major,,105.0,meaning_searches_the_fool_100,"torre tarocchi significato"
+language,it:IT,the-sun,The Sun,major,,104.55,meaning_searches_the_fool_100,"sole tarocchi significato"
+language,it:IT,the-devil,The Devil,major,,100.0,meaning_searches_the_fool_100,"diavolo tarocchi significato"
+language,it:IT,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100,"matto tarocchi significato + folle tarocchi significato"
+language,it:IT,the-world,The World,major,,100.0,meaning_searches_the_fool_100,"mondo tarocchi significato"
+language,it:IT,justice,Justice,major,,96.67,meaning_searches_the_fool_100,"giustizia tarocchi significato"
+language,it:IT,the-high-priestess,The High Priestess,major,,96.0,meaning_searches_the_fool_100,"papessa tarocchi significato + sacerdotessa tarocchi significato"
+language,it:IT,the-magician,The Magician,major,,88.0,meaning_searches_the_fool_100,"mago tarocchi significato + bagatto tarocchi significato"
+language,it:IT,the-chariot,The Chariot,major,,87.5,meaning_searches_the_fool_100,"carro tarocchi significato"
+language,it:IT,temperance,Temperance,major,,85.0,meaning_searches_the_fool_100,"temperanza tarocchi significato"
+language,it:IT,strength,Strength,major,,83.33,meaning_searches_the_fool_100,"forza tarocchi significato"
+language,it:IT,judgement,Judgement,major,,77.27,meaning_searches_the_fool_100,"giudizio tarocchi significato"
+language,it:IT,the-lovers,The Lovers,major,,75.0,meaning_searches_the_fool_100,"amanti tarocchi significato + innamorati tarocchi significato"
+language,it:IT,the-hierophant,The Hierophant,major,,70.83,meaning_searches_the_fool_100,"papa tarocchi significato + ierofante tarocchi significato"
+language,it:IT,the-empress,The Empress,major,,64.0,meaning_searches_the_fool_100,"imperatrice tarocchi significato"
+language,it:IT,the-star,The Star,major,,54.55,meaning_searches_the_fool_100,"stella tarocchi significato"
+language,it:IT,the-hanged-man,The Hanged Man,major,,53.33,meaning_searches_the_fool_100,"appeso tarocchi significato"
+language,it:IT,the-emperor,The Emperor,major,,52.0,meaning_searches_the_fool_100,"imperatore tarocchi significato"
+language,it:IT,the-hermit,The Hermit,major,,46.67,meaning_searches_the_fool_100,"eremita tarocchi significato"
+language,it:IT,wheel-of-fortune,Wheel of Fortune,major,,36.67,meaning_searches_the_fool_100,"ruota della fortuna tarocchi significato"
+language,ru:RU,the-moon,The Moon,major,,115.79,meaning_searches_the_fool_100,"луна таро значение"
+language,ru:RU,the-hierophant,The Hierophant,major,,109.52,meaning_searches_the_fool_100,"иерофант таро значение + жрец таро значение"
+language,ru:RU,judgement,Judgement,major,,105.26,meaning_searches_the_fool_100,"суд таро значение"
+language,ru:RU,the-star,The Star,major,,105.26,meaning_searches_the_fool_100,"звезда таро значение"
+language,ru:RU,the-high-priestess,The High Priestess,major,,105.0,meaning_searches_the_fool_100,"жрица таро значение"
+language,ru:RU,the-magician,The Magician,major,,105.0,meaning_searches_the_fool_100,"маг таро значение"
+language,ru:RU,the-devil,The Devil,major,,104.76,meaning_searches_the_fool_100,"дьявол таро значение"
+language,ru:RU,the-world,The World,major,,104.08,meaning_searches_the_fool_100,"мир таро значение"
+language,ru:RU,death,Death,major,,100.0,meaning_searches_the_fool_100,"смерть таро значение"
+language,ru:RU,the-chariot,The Chariot,major,,100.0,meaning_searches_the_fool_100,"колесница таро значение"
+language,ru:RU,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100,"шут таро значение + дурак таро значение"
+language,ru:RU,the-sun,The Sun,major,,100.0,meaning_searches_the_fool_100,"солнце таро значение"
+language,ru:RU,the-hanged-man,The Hanged Man,major,,95.65,meaning_searches_the_fool_100,"повешенный таро значение"
+language,ru:RU,the-tower,The Tower,major,,95.24,meaning_searches_the_fool_100,"башня таро значение"
+language,ru:RU,the-emperor,The Emperor,major,,95.0,meaning_searches_the_fool_100,"император таро значение"
+language,ru:RU,the-empress,The Empress,major,,95.0,meaning_searches_the_fool_100,"императрица таро значение"
+language,ru:RU,justice,Justice,major,,86.96,meaning_searches_the_fool_100,"справедливость таро значение + правосудие таро значение"
+language,ru:RU,the-hermit,The Hermit,major,,86.96,meaning_searches_the_fool_100,"отшельник таро значение"
+language,ru:RU,the-lovers,The Lovers,major,,85.71,meaning_searches_the_fool_100,"влюблённые таро значение + влюбленные таро значение"
+language,ru:RU,strength,Strength,major,,80.95,meaning_searches_the_fool_100,"сила таро значение"
+language,ru:RU,temperance,Temperance,major,,76.19,meaning_searches_the_fool_100,"умеренность таро значение"
+language,ru:RU,wheel-of-fortune,Wheel of Fortune,major,,65.22,meaning_searches_the_fool_100,"колесо фортуны таро значение"
+language,en,ace-of-wands,Ace of Wands,minor,Wands,95.81,meaning_searches_the_fool_100,"ace of wands tarot meaning"
+language,en,two-of-wands,Two of Wands,minor,Wands,91.48,meaning_searches_the_fool_100,"two of wands tarot meaning"
+language,en,three-of-wands,Three of Wands,minor,Wands,61.56,meaning_searches_the_fool_100,"three of wands tarot meaning"
+language,en,four-of-wands,Four of Wands,minor,Wands,63.34,meaning_searches_the_fool_100,"four of wands tarot meaning"
+language,en,five-of-wands,Five of Wands,minor,Wands,64.44,meaning_searches_the_fool_100,"five of wands tarot meaning"
+language,en,six-of-wands,Six of Wands,minor,Wands,68.74,meaning_searches_the_fool_100,"six of wands tarot meaning"
+language,en,seven-of-wands,Seven of Wands,minor,Wands,52.34,meaning_searches_the_fool_100,"seven of wands tarot meaning"
+language,en,eight-of-wands,Eight of Wands,minor,Wands,74.69,meaning_searches_the_fool_100,"eight of wands tarot meaning"
+language,en,nine-of-wands,Nine of Wands,minor,Wands,49.22,meaning_searches_the_fool_100,"nine of wands tarot meaning"
+language,en,ten-of-wands,Ten of Wands,minor,Wands,52.85,meaning_searches_the_fool_100,"ten of wands tarot meaning"
+language,en,page-of-wands,Page of Wands,minor,Wands,100.43,meaning_searches_the_fool_100,"page of wands tarot meaning"
+language,en,knight-of-wands,Knight of Wands,minor,Wands,99.64,meaning_searches_the_fool_100,"knight of wands tarot meaning"
+language,en,queen-of-wands,Queen of Wands,minor,Wands,103.97,meaning_searches_the_fool_100,"queen of wands tarot meaning"
+language,en,king-of-wands,King of Wands,minor,Wands,99.59,meaning_searches_the_fool_100,"king of wands tarot meaning"
+language,en,ace-of-cups,Ace of Cups,minor,Cups,101.58,meaning_searches_the_fool_100,"ace of cups tarot meaning"
+language,en,two-of-cups,Two of Cups,minor,Cups,177.41,meaning_searches_the_fool_100,"two of cups tarot meaning"
+language,en,three-of-cups,Three of Cups,minor,Cups,71.94,meaning_searches_the_fool_100,"three of cups tarot meaning"
+language,en,four-of-cups,Four of Cups,minor,Cups,75.97,meaning_searches_the_fool_100,"four of cups tarot meaning"
+language,en,five-of-cups,Five of Cups,minor,Cups,77.82,meaning_searches_the_fool_100,"five of cups tarot meaning"
+language,en,six-of-cups,Six of Cups,minor,Cups,134.53,meaning_searches_the_fool_100,"six of cups tarot meaning"
+language,en,seven-of-cups,Seven of Cups,minor,Cups,61.16,meaning_searches_the_fool_100,"seven of cups tarot meaning"
+language,en,eight-of-cups,Eight of Cups,minor,Cups,69.88,meaning_searches_the_fool_100,"eight of cups tarot meaning"
+language,en,nine-of-cups,Nine of Cups,minor,Cups,49.96,meaning_searches_the_fool_100,"nine of cups tarot meaning"
+language,en,ten-of-cups,Ten of Cups,minor,Cups,58.96,meaning_searches_the_fool_100,"ten of cups tarot meaning"
+language,en,page-of-cups,Page of Cups,minor,Cups,137.45,meaning_searches_the_fool_100,"page of cups tarot meaning"
+language,en,knight-of-cups,Knight of Cups,minor,Cups,118.06,meaning_searches_the_fool_100,"knight of cups tarot meaning"
+language,en,queen-of-cups,Queen of Cups,minor,Cups,119.02,meaning_searches_the_fool_100,"queen of cups tarot meaning"
+language,en,king-of-cups,King of Cups,minor,Cups,100.74,meaning_searches_the_fool_100,"king of cups tarot meaning"
+language,en,ace-of-swords,Ace of Swords,minor,Swords,87.36,meaning_searches_the_fool_100,"ace of swords tarot meaning"
+language,en,two-of-swords,Two of Swords,minor,Swords,124.72,meaning_searches_the_fool_100,"two of swords tarot meaning"
+language,en,three-of-swords,Three of Swords,minor,Swords,65.4,meaning_searches_the_fool_100,"three of swords tarot meaning"
+language,en,four-of-swords,Four of Swords,minor,Swords,74.64,meaning_searches_the_fool_100,"four of swords tarot meaning"
+language,en,five-of-swords,Five of Swords,minor,Swords,59.3,meaning_searches_the_fool_100,"five of swords tarot meaning"
+language,en,six-of-swords,Six of Swords,minor,Swords,70.89,meaning_searches_the_fool_100,"six of swords tarot meaning"
+language,en,seven-of-swords,Seven of Swords,minor,Swords,70.84,meaning_searches_the_fool_100,"seven of swords tarot meaning"
+language,en,eight-of-swords,Eight of Swords,minor,Swords,67.39,meaning_searches_the_fool_100,"eight of swords tarot meaning"
+language,en,nine-of-swords,Nine of Swords,minor,Swords,56.63,meaning_searches_the_fool_100,"nine of swords tarot meaning"
+language,en,ten-of-swords,Ten of Swords,minor,Swords,55.62,meaning_searches_the_fool_100,"ten of swords tarot meaning"
+language,en,page-of-swords,Page of Swords,minor,Swords,114.58,meaning_searches_the_fool_100,"page of swords tarot meaning"
+language,en,knight-of-swords,Knight of Swords,minor,Swords,94.15,meaning_searches_the_fool_100,"knight of swords tarot meaning"
+language,en,queen-of-swords,Queen of Swords,minor,Swords,112.43,meaning_searches_the_fool_100,"queen of swords tarot meaning"
+language,en,king-of-swords,King of Swords,minor,Swords,93.9,meaning_searches_the_fool_100,"king of swords tarot meaning"
+language,en,ace-of-pentacles,Ace of Pentacles,minor,Pentacles,98.0,meaning_searches_the_fool_100,"ace of pentacles tarot meaning"
+language,en,two-of-pentacles,Two of Pentacles,minor,Pentacles,96.1,meaning_searches_the_fool_100,"two of pentacles tarot meaning"
+language,en,three-of-pentacles,Three of Pentacles,minor,Pentacles,75.99,meaning_searches_the_fool_100,"three of pentacles tarot meaning"
+language,en,four-of-pentacles,Four of Pentacles,minor,Pentacles,63.93,meaning_searches_the_fool_100,"four of pentacles tarot meaning"
+language,en,five-of-pentacles,Five of Pentacles,minor,Pentacles,60.65,meaning_searches_the_fool_100,"five of pentacles tarot meaning"
+language,en,six-of-pentacles,Six of Pentacles,minor,Pentacles,65.35,meaning_searches_the_fool_100,"six of pentacles tarot meaning"
+language,en,seven-of-pentacles,Seven of Pentacles,minor,Pentacles,46.79,meaning_searches_the_fool_100,"seven of pentacles tarot meaning"
+language,en,eight-of-pentacles,Eight of Pentacles,minor,Pentacles,72.08,meaning_searches_the_fool_100,"eight of pentacles tarot meaning"
+language,en,nine-of-pentacles,Nine of Pentacles,minor,Pentacles,44.25,meaning_searches_the_fool_100,"nine of pentacles tarot meaning"
+language,en,ten-of-pentacles,Ten of Pentacles,minor,Pentacles,56.81,meaning_searches_the_fool_100,"ten of pentacles tarot meaning"
+language,en,page-of-pentacles,Page of Pentacles,minor,Pentacles,97.6,meaning_searches_the_fool_100,"page of pentacles tarot meaning"
+language,en,knight-of-pentacles,Knight of Pentacles,minor,Pentacles,89.9,meaning_searches_the_fool_100,"knight of pentacles tarot meaning"
+language,en,queen-of-pentacles,Queen of Pentacles,minor,Pentacles,97.54,meaning_searches_the_fool_100,"queen of pentacles tarot meaning"
+language,en,king-of-pentacles,King of Pentacles,minor,Pentacles,92.73,meaning_searches_the_fool_100,"king of pentacles tarot meaning"
+country,AR,the-sun,The Sun,major,,131.58,meaning_searches_the_fool_100_in_es,
+country,AR,the-moon,The Moon,major,,115.79,meaning_searches_the_fool_100_in_es,
+country,AR,the-star,The Star,major,,115.79,meaning_searches_the_fool_100_in_es,
+country,AR,the-devil,The Devil,major,,104.55,meaning_searches_the_fool_100_in_es,
+country,AR,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,AR,the-tower,The Tower,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,AR,the-empress,The Empress,major,,95.65,meaning_searches_the_fool_100_in_es,
+country,AR,the-high-priestess,The High Priestess,major,,86.96,meaning_searches_the_fool_100_in_es,
+country,AR,the-lovers,The Lovers,major,,85.71,meaning_searches_the_fool_100_in_es,
+country,AR,the-world,The World,major,,85.19,meaning_searches_the_fool_100_in_es,
+country,AR,the-chariot,The Chariot,major,,82.14,meaning_searches_the_fool_100_in_es,
+country,AR,the-magician,The Magician,major,,78.26,meaning_searches_the_fool_100_in_es,
+country,AR,temperance,Temperance,major,,77.27,meaning_searches_the_fool_100_in_es,
+country,AR,the-hanged-man,The Hanged Man,major,,76.92,meaning_searches_the_fool_100_in_es,
+country,AR,the-hermit,The Hermit,major,,76.92,meaning_searches_the_fool_100_in_es,
+country,AR,the-emperor,The Emperor,major,,73.91,meaning_searches_the_fool_100_in_es,
+country,AR,death,Death,major,,72.73,meaning_searches_the_fool_100_in_es,
+country,AR,justice,Justice,major,,69.23,meaning_searches_the_fool_100_in_es,
+country,AR,strength,Strength,major,,67.86,meaning_searches_the_fool_100_in_es,
+country,AR,judgement,Judgement,major,,63.16,meaning_searches_the_fool_100_in_es,
+country,AR,wheel-of-fortune,Wheel of Fortune,major,,61.54,meaning_searches_the_fool_100_in_es,
+country,AR,the-hierophant,The Hierophant,major,,21.43,meaning_searches_the_fool_100_in_es,
+country,AU,the-moon,The Moon,major,,120.0,meaning_searches_the_fool_100_in_en,
+country,AU,the-star,The Star,major,,110.0,meaning_searches_the_fool_100_in_en,
+country,AU,death,Death,major,,109.52,meaning_searches_the_fool_100_in_en,
+country,AU,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,AU,the-world,The World,major,,96.08,meaning_searches_the_fool_100_in_en,
+country,AU,the-sun,The Sun,major,,95.0,meaning_searches_the_fool_100_in_en,
+country,AU,the-lovers,The Lovers,major,,91.67,meaning_searches_the_fool_100_in_en,
+country,AU,temperance,Temperance,major,,90.48,meaning_searches_the_fool_100_in_en,
+country,AU,the-devil,The Devil,major,,90.48,meaning_searches_the_fool_100_in_en,
+country,AU,the-tower,The Tower,major,,85.71,meaning_searches_the_fool_100_in_en,
+country,AU,the-empress,The Empress,major,,84.0,meaning_searches_the_fool_100_in_en,
+country,AU,the-chariot,The Chariot,major,,83.33,meaning_searches_the_fool_100_in_en,
+country,AU,justice,Justice,major,,76.92,meaning_searches_the_fool_100_in_en,
+country,AU,the-hanged-man,The Hanged Man,major,,76.92,meaning_searches_the_fool_100_in_en,
+country,AU,the-high-priestess,The High Priestess,major,,76.0,meaning_searches_the_fool_100_in_en,
+country,AU,the-magician,The Magician,major,,76.0,meaning_searches_the_fool_100_in_en,
+country,AU,judgement,Judgement,major,,75.0,meaning_searches_the_fool_100_in_en,
+country,AU,the-hierophant,The Hierophant,major,,75.0,meaning_searches_the_fool_100_in_en,
+country,AU,the-hermit,The Hermit,major,,73.08,meaning_searches_the_fool_100_in_en,
+country,AU,strength,Strength,major,,66.67,meaning_searches_the_fool_100_in_en,
+country,AU,the-emperor,The Emperor,major,,64.0,meaning_searches_the_fool_100_in_en,
+country,AU,wheel-of-fortune,Wheel of Fortune,major,,57.69,meaning_searches_the_fool_100_in_en,
+country,BY,the-star,The Star,major,,127.78,meaning_searches_the_fool_100_in_ru,
+country,BY,the-moon,The Moon,major,,122.22,meaning_searches_the_fool_100_in_ru,
+country,BY,judgement,Judgement,major,,111.11,meaning_searches_the_fool_100_in_ru,
+country,BY,the-chariot,The Chariot,major,,110.0,meaning_searches_the_fool_100_in_ru,
+country,BY,strength,Strength,major,,105.0,meaning_searches_the_fool_100_in_ru,
+country,BY,the-empress,The Empress,major,,104.0,meaning_searches_the_fool_100_in_ru,
+country,BY,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_ru,
+country,BY,the-world,The World,major,,100.0,meaning_searches_the_fool_100_in_ru,
+country,BY,the-devil,The Devil,major,,96.0,meaning_searches_the_fool_100_in_ru,
+country,BY,the-hanged-man,The Hanged Man,major,,95.65,meaning_searches_the_fool_100_in_ru,
+country,BY,the-hierophant,The Hierophant,major,,95.0,meaning_searches_the_fool_100_in_ru,
+country,BY,the-sun,The Sun,major,,94.44,meaning_searches_the_fool_100_in_ru,
+country,BY,the-lovers,The Lovers,major,,90.0,meaning_searches_the_fool_100_in_ru,
+country,BY,justice,Justice,major,,82.61,meaning_searches_the_fool_100_in_ru,
+country,BY,the-hermit,The Hermit,major,,82.61,meaning_searches_the_fool_100_in_ru,
+country,BY,the-tower,The Tower,major,,80.0,meaning_searches_the_fool_100_in_ru,
+country,BY,wheel-of-fortune,Wheel of Fortune,major,,73.91,meaning_searches_the_fool_100_in_ru,
+country,BY,the-high-priestess,The High Priestess,major,,72.0,meaning_searches_the_fool_100_in_ru,
+country,BY,death,Death,major,,64.0,meaning_searches_the_fool_100_in_ru,
+country,BY,the-magician,The Magician,major,,64.0,meaning_searches_the_fool_100_in_ru,
+country,BY,temperance,Temperance,major,,60.0,meaning_searches_the_fool_100_in_ru,
+country,BY,the-emperor,The Emperor,major,,60.0,meaning_searches_the_fool_100_in_ru,
+country,BR,the-moon,The Moon,major,,127.78,meaning_searches_the_fool_100_in_pt,
+country,BR,the-tower,The Tower,major,,125.0,meaning_searches_the_fool_100_in_pt,
+country,BR,the-star,The Star,major,,122.22,meaning_searches_the_fool_100_in_pt,
+country,BR,the-sun,The Sun,major,,116.67,meaning_searches_the_fool_100_in_pt,
+country,BR,the-world,The World,major,,112.77,meaning_searches_the_fool_100_in_pt,
+country,BR,death,Death,major,,100.0,meaning_searches_the_fool_100_in_pt,
+country,BR,the-devil,The Devil,major,,100.0,meaning_searches_the_fool_100_in_pt,
+country,BR,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_pt,
+country,BR,the-magician,The Magician,major,,100.0,meaning_searches_the_fool_100_in_pt,
+country,BR,the-hierophant,The Hierophant,major,,92.0,meaning_searches_the_fool_100_in_pt,
+country,BR,judgement,Judgement,major,,88.89,meaning_searches_the_fool_100_in_pt,
+country,BR,the-hermit,The Hermit,major,,87.5,meaning_searches_the_fool_100_in_pt,
+country,BR,the-emperor,The Emperor,major,,86.36,meaning_searches_the_fool_100_in_pt,
+country,BR,the-high-priestess,The High Priestess,major,,86.36,meaning_searches_the_fool_100_in_pt,
+country,BR,wheel-of-fortune,Wheel of Fortune,major,,83.33,meaning_searches_the_fool_100_in_pt,
+country,BR,the-empress,The Empress,major,,81.82,meaning_searches_the_fool_100_in_pt,
+country,BR,the-chariot,The Chariot,major,,80.0,meaning_searches_the_fool_100_in_pt,
+country,BR,justice,Justice,major,,75.0,meaning_searches_the_fool_100_in_pt,
+country,BR,temperance,Temperance,major,,75.0,meaning_searches_the_fool_100_in_pt,
+country,BR,strength,Strength,major,,72.0,meaning_searches_the_fool_100_in_pt,
+country,BR,the-hanged-man,The Hanged Man,major,,70.83,meaning_searches_the_fool_100_in_pt,
+country,BR,the-lovers,The Lovers,major,,56.0,meaning_searches_the_fool_100_in_pt,
+country,CA,the-world,The World,major,,156.41,meaning_searches_the_fool_100_in_en,
+country,CA,the-moon,The Moon,major,,152.94,meaning_searches_the_fool_100_in_en,
+country,CA,the-star,The Star,major,,141.18,meaning_searches_the_fool_100_in_en,
+country,CA,death,Death,major,,120.0,meaning_searches_the_fool_100_in_en,
+country,CA,the-sun,The Sun,major,,117.65,meaning_searches_the_fool_100_in_en,
+country,CA,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,CA,the-devil,The Devil,major,,95.0,meaning_searches_the_fool_100_in_en,
+country,CA,the-tower,The Tower,major,,95.0,meaning_searches_the_fool_100_in_en,
+country,CA,justice,Justice,major,,91.67,meaning_searches_the_fool_100_in_en,
+country,CA,the-empress,The Empress,major,,91.67,meaning_searches_the_fool_100_in_en,
+country,CA,the-lovers,The Lovers,major,,91.67,meaning_searches_the_fool_100_in_en,
+country,CA,temperance,Temperance,major,,90.0,meaning_searches_the_fool_100_in_en,
+country,CA,the-hermit,The Hermit,major,,87.5,meaning_searches_the_fool_100_in_en,
+country,CA,strength,Strength,major,,83.33,meaning_searches_the_fool_100_in_en,
+country,CA,the-chariot,The Chariot,major,,79.17,meaning_searches_the_fool_100_in_en,
+country,CA,judgement,Judgement,major,,76.47,meaning_searches_the_fool_100_in_en,
+country,CA,the-emperor,The Emperor,major,,75.0,meaning_searches_the_fool_100_in_en,
+country,CA,the-high-priestess,The High Priestess,major,,75.0,meaning_searches_the_fool_100_in_en,
+country,CA,the-magician,The Magician,major,,75.0,meaning_searches_the_fool_100_in_en,
+country,CA,wheel-of-fortune,Wheel of Fortune,major,,70.83,meaning_searches_the_fool_100_in_en,
+country,CA,the-hanged-man,The Hanged Man,major,,66.67,meaning_searches_the_fool_100_in_en,
+country,CA,the-hierophant,The Hierophant,major,,62.5,meaning_searches_the_fool_100_in_en,
+country,CL,the-moon,The Moon,major,,114.29,meaning_searches_the_fool_100_in_es,
+country,CL,the-tower,The Tower,major,,109.09,meaning_searches_the_fool_100_in_es,
+country,CL,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,CL,the-sun,The Sun,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,CL,the-world,The World,major,,96.08,meaning_searches_the_fool_100_in_es,
+country,CL,the-devil,The Devil,major,,95.45,meaning_searches_the_fool_100_in_es,
+country,CL,death,Death,major,,90.91,meaning_searches_the_fool_100_in_es,
+country,CL,the-empress,The Empress,major,,85.19,meaning_searches_the_fool_100_in_es,
+country,CL,judgement,Judgement,major,,80.95,meaning_searches_the_fool_100_in_es,
+country,CL,the-star,The Star,major,,80.95,meaning_searches_the_fool_100_in_es,
+country,CL,the-chariot,The Chariot,major,,77.78,meaning_searches_the_fool_100_in_es,
+country,CL,strength,Strength,major,,70.37,meaning_searches_the_fool_100_in_es,
+country,CL,the-emperor,The Emperor,major,,70.37,meaning_searches_the_fool_100_in_es,
+country,CL,the-hanged-man,The Hanged Man,major,,70.0,meaning_searches_the_fool_100_in_es,
+country,CL,the-lovers,The Lovers,major,,66.67,meaning_searches_the_fool_100_in_es,
+country,CL,justice,Justice,major,,63.33,meaning_searches_the_fool_100_in_es,
+country,CL,the-magician,The Magician,major,,62.96,meaning_searches_the_fool_100_in_es,
+country,CL,temperance,Temperance,major,,59.09,meaning_searches_the_fool_100_in_es,
+country,CL,the-hierophant,The Hierophant,major,,55.56,meaning_searches_the_fool_100_in_es,
+country,CL,wheel-of-fortune,Wheel of Fortune,major,,53.33,meaning_searches_the_fool_100_in_es,
+country,CL,the-high-priestess,The High Priestess,major,,51.85,meaning_searches_the_fool_100_in_es,
+country,CL,the-hermit,The Hermit,major,,46.67,meaning_searches_the_fool_100_in_es,
+country,CO,the-chariot,The Chariot,major,,133.33,meaning_searches_the_fool_100_in_es,
+country,CO,the-star,The Star,major,,109.52,meaning_searches_the_fool_100_in_es,
+country,CO,the-sun,The Sun,major,,104.76,meaning_searches_the_fool_100_in_es,
+country,CO,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,CO,the-moon,The Moon,major,,95.24,meaning_searches_the_fool_100_in_es,
+country,CO,the-tower,The Tower,major,,81.48,meaning_searches_the_fool_100_in_es,
+country,CO,the-magician,The Magician,major,,79.31,meaning_searches_the_fool_100_in_es,
+country,CO,strength,Strength,major,,75.0,meaning_searches_the_fool_100_in_es,
+country,CO,the-devil,The Devil,major,,70.37,meaning_searches_the_fool_100_in_es,
+country,CO,judgement,Judgement,major,,66.67,meaning_searches_the_fool_100_in_es,
+country,CO,the-hierophant,The Hierophant,major,,66.67,meaning_searches_the_fool_100_in_es,
+country,CO,justice,Justice,major,,63.89,meaning_searches_the_fool_100_in_es,
+country,CO,the-hermit,The Hermit,major,,63.89,meaning_searches_the_fool_100_in_es,
+country,CO,death,Death,major,,62.96,meaning_searches_the_fool_100_in_es,
+country,CO,the-emperor,The Emperor,major,,58.62,meaning_searches_the_fool_100_in_es,
+country,CO,the-empress,The Empress,major,,58.62,meaning_searches_the_fool_100_in_es,
+country,CO,the-world,The World,major,,56.25,meaning_searches_the_fool_100_in_es,
+country,CO,temperance,Temperance,major,,55.56,meaning_searches_the_fool_100_in_es,
+country,CO,the-hanged-man,The Hanged Man,major,,50.0,meaning_searches_the_fool_100_in_es,
+country,CO,the-high-priestess,The High Priestess,major,,48.28,meaning_searches_the_fool_100_in_es,
+country,CO,the-lovers,The Lovers,major,,41.67,meaning_searches_the_fool_100_in_es,
+country,FR,the-sun,The Sun,major,,136.36,meaning_searches_the_fool_100_in_fr,
+country,FR,the-moon,The Moon,major,,122.73,meaning_searches_the_fool_100_in_fr,
+country,FR,the-tower,The Tower,major,,117.39,meaning_searches_the_fool_100_in_fr,
+country,FR,the-world,The World,major,,117.39,meaning_searches_the_fool_100_in_fr,
+country,FR,the-magician,The Magician,major,,113.79,meaning_searches_the_fool_100_in_fr,
+country,FR,the-hanged-man,The Hanged Man,major,,107.69,meaning_searches_the_fool_100_in_fr,
+country,FR,the-chariot,The Chariot,major,,104.35,meaning_searches_the_fool_100_in_fr,
+country,FR,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_fr,
+country,FR,death,Death,major,,95.65,meaning_searches_the_fool_100_in_fr,
+country,FR,the-devil,The Devil,major,,91.3,meaning_searches_the_fool_100_in_fr,
+country,FR,strength,Strength,major,,86.96,meaning_searches_the_fool_100_in_fr,
+country,FR,the-hierophant,The Hierophant,major,,86.96,meaning_searches_the_fool_100_in_fr,
+country,FR,judgement,Judgement,major,,81.82,meaning_searches_the_fool_100_in_fr,
+country,FR,justice,Justice,major,,80.77,meaning_searches_the_fool_100_in_fr,
+country,FR,the-high-priestess,The High Priestess,major,,72.41,meaning_searches_the_fool_100_in_fr,
+country,FR,wheel-of-fortune,Wheel of Fortune,major,,65.38,meaning_searches_the_fool_100_in_fr,
+country,FR,the-lovers,The Lovers,major,,56.52,meaning_searches_the_fool_100_in_fr,
+country,FR,the-emperor,The Emperor,major,,34.48,meaning_searches_the_fool_100_in_fr,
+country,FR,the-hermit,The Hermit,major,,30.77,meaning_searches_the_fool_100_in_fr,
+country,FR,temperance,Temperance,major,,30.43,meaning_searches_the_fool_100_in_fr,
+country,FR,the-empress,The Empress,major,,24.14,meaning_searches_the_fool_100_in_fr,
+country,FR,the-star,The Star,major,,13.64,meaning_searches_the_fool_100_in_fr,
+country,DE,the-moon,The Moon,major,,135.29,meaning_searches_the_fool_100_in_de,
+country,DE,the-sun,The Sun,major,,135.29,meaning_searches_the_fool_100_in_de,
+country,DE,the-hierophant,The Hierophant,major,,126.32,meaning_searches_the_fool_100_in_de,
+country,DE,the-devil,The Devil,major,,125.0,meaning_searches_the_fool_100_in_de,
+country,DE,the-tower,The Tower,major,,120.0,meaning_searches_the_fool_100_in_de,
+country,DE,the-star,The Star,major,,117.65,meaning_searches_the_fool_100_in_de,
+country,DE,the-magician,The Magician,major,,114.29,meaning_searches_the_fool_100_in_de,
+country,DE,the-lovers,The Lovers,major,,110.53,meaning_searches_the_fool_100_in_de,
+country,DE,the-chariot,The Chariot,major,,105.26,meaning_searches_the_fool_100_in_de,
+country,DE,the-hanged-man,The Hanged Man,major,,104.35,meaning_searches_the_fool_100_in_de,
+country,DE,death,Death,major,,100.0,meaning_searches_the_fool_100_in_de,
+country,DE,judgement,Judgement,major,,100.0,meaning_searches_the_fool_100_in_de,
+country,DE,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_de,
+country,DE,the-world,The World,major,,92.31,meaning_searches_the_fool_100_in_de,
+country,DE,the-empress,The Empress,major,,90.48,meaning_searches_the_fool_100_in_de,
+country,DE,the-emperor,The Emperor,major,,85.71,meaning_searches_the_fool_100_in_de,
+country,DE,the-high-priestess,The High Priestess,major,,85.71,meaning_searches_the_fool_100_in_de,
+country,DE,strength,Strength,major,,84.21,meaning_searches_the_fool_100_in_de,
+country,DE,justice,Justice,major,,78.26,meaning_searches_the_fool_100_in_de,
+country,DE,the-hermit,The Hermit,major,,78.26,meaning_searches_the_fool_100_in_de,
+country,DE,wheel-of-fortune,Wheel of Fortune,major,,73.91,meaning_searches_the_fool_100_in_de,
+country,DE,temperance,Temperance,major,,55.0,meaning_searches_the_fool_100_in_de,
+country,IN,the-world,The World,major,,170.27,meaning_searches_the_fool_100_in_en,
+country,IN,the-moon,The Moon,major,,158.82,meaning_searches_the_fool_100_in_en,
+country,IN,the-star,The Star,major,,141.18,meaning_searches_the_fool_100_in_en,
+country,IN,temperance,Temperance,major,,115.0,meaning_searches_the_fool_100_in_en,
+country,IN,the-sun,The Sun,major,,111.76,meaning_searches_the_fool_100_in_en,
+country,IN,death,Death,major,,105.0,meaning_searches_the_fool_100_in_en,
+country,IN,the-empress,The Empress,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,IN,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,IN,the-hermit,The Hermit,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,IN,justice,Justice,major,,95.45,meaning_searches_the_fool_100_in_en,
+country,IN,the-chariot,The Chariot,major,,95.45,meaning_searches_the_fool_100_in_en,
+country,IN,the-hierophant,The Hierophant,major,,95.45,meaning_searches_the_fool_100_in_en,
+country,IN,the-devil,The Devil,major,,95.0,meaning_searches_the_fool_100_in_en,
+country,IN,the-hanged-man,The Hanged Man,major,,90.91,meaning_searches_the_fool_100_in_en,
+country,IN,the-high-priestess,The High Priestess,major,,90.91,meaning_searches_the_fool_100_in_en,
+country,IN,the-lovers,The Lovers,major,,90.91,meaning_searches_the_fool_100_in_en,
+country,IN,the-tower,The Tower,major,,85.0,meaning_searches_the_fool_100_in_en,
+country,IN,the-emperor,The Emperor,major,,81.82,meaning_searches_the_fool_100_in_en,
+country,IN,the-magician,The Magician,major,,81.82,meaning_searches_the_fool_100_in_en,
+country,IN,judgement,Judgement,major,,76.47,meaning_searches_the_fool_100_in_en,
+country,IN,strength,Strength,major,,72.73,meaning_searches_the_fool_100_in_en,
+country,IN,wheel-of-fortune,Wheel of Fortune,major,,68.18,meaning_searches_the_fool_100_in_en,
+country,IT,the-moon,The Moon,major,,118.18,meaning_searches_the_fool_100_in_it,
+country,IT,death,Death,major,,110.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-tower,The Tower,major,,105.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-sun,The Sun,major,,104.55,meaning_searches_the_fool_100_in_it,
+country,IT,the-devil,The Devil,major,,100.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-world,The World,major,,100.0,meaning_searches_the_fool_100_in_it,
+country,IT,justice,Justice,major,,96.67,meaning_searches_the_fool_100_in_it,
+country,IT,the-high-priestess,The High Priestess,major,,96.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-magician,The Magician,major,,88.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-chariot,The Chariot,major,,87.5,meaning_searches_the_fool_100_in_it,
+country,IT,temperance,Temperance,major,,85.0,meaning_searches_the_fool_100_in_it,
+country,IT,strength,Strength,major,,83.33,meaning_searches_the_fool_100_in_it,
+country,IT,judgement,Judgement,major,,77.27,meaning_searches_the_fool_100_in_it,
+country,IT,the-lovers,The Lovers,major,,75.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-hierophant,The Hierophant,major,,70.83,meaning_searches_the_fool_100_in_it,
+country,IT,the-empress,The Empress,major,,64.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-star,The Star,major,,54.55,meaning_searches_the_fool_100_in_it,
+country,IT,the-hanged-man,The Hanged Man,major,,53.33,meaning_searches_the_fool_100_in_it,
+country,IT,the-emperor,The Emperor,major,,52.0,meaning_searches_the_fool_100_in_it,
+country,IT,the-hermit,The Hermit,major,,46.67,meaning_searches_the_fool_100_in_it,
+country,IT,wheel-of-fortune,Wheel of Fortune,major,,36.67,meaning_searches_the_fool_100_in_it,
+country,MX,the-moon,The Moon,major,,133.33,meaning_searches_the_fool_100_in_es,
+country,MX,the-sun,The Sun,major,,127.78,meaning_searches_the_fool_100_in_es,
+country,MX,the-star,The Star,major,,122.22,meaning_searches_the_fool_100_in_es,
+country,MX,the-devil,The Devil,major,,110.0,meaning_searches_the_fool_100_in_es,
+country,MX,death,Death,major,,105.0,meaning_searches_the_fool_100_in_es,
+country,MX,the-tower,The Tower,major,,105.0,meaning_searches_the_fool_100_in_es,
+country,MX,the-world,The World,major,,104.08,meaning_searches_the_fool_100_in_es,
+country,MX,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,MX,the-magician,The Magician,major,,95.65,meaning_searches_the_fool_100_in_es,
+country,MX,justice,Justice,major,,91.67,meaning_searches_the_fool_100_in_es,
+country,MX,the-hanged-man,The Hanged Man,major,,87.5,meaning_searches_the_fool_100_in_es,
+country,MX,the-empress,The Empress,major,,86.96,meaning_searches_the_fool_100_in_es,
+country,MX,the-high-priestess,The High Priestess,major,,82.61,meaning_searches_the_fool_100_in_es,
+country,MX,temperance,Temperance,major,,80.0,meaning_searches_the_fool_100_in_es,
+country,MX,the-chariot,The Chariot,major,,77.78,meaning_searches_the_fool_100_in_es,
+country,MX,the-hermit,The Hermit,major,,75.0,meaning_searches_the_fool_100_in_es,
+country,MX,judgement,Judgement,major,,72.22,meaning_searches_the_fool_100_in_es,
+country,MX,strength,Strength,major,,70.37,meaning_searches_the_fool_100_in_es,
+country,MX,the-emperor,The Emperor,major,,69.57,meaning_searches_the_fool_100_in_es,
+country,MX,the-hierophant,The Hierophant,major,,62.96,meaning_searches_the_fool_100_in_es,
+country,MX,wheel-of-fortune,Wheel of Fortune,major,,62.5,meaning_searches_the_fool_100_in_es,
+country,MX,the-lovers,The Lovers,major,,59.26,meaning_searches_the_fool_100_in_es,
+country,NZ,the-sun,The Sun,major,,138.1,meaning_searches_the_fool_100_in_en,
+country,NZ,the-world,The World,major,,104.08,meaning_searches_the_fool_100_in_en,
+country,NZ,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,NZ,the-empress,The Empress,major,,96.0,meaning_searches_the_fool_100_in_en,
+country,NZ,the-star,The Star,major,,90.48,meaning_searches_the_fool_100_in_en,
+country,NZ,the-devil,The Devil,major,,87.5,meaning_searches_the_fool_100_in_en,
+country,NZ,wheel-of-fortune,Wheel of Fortune,major,,85.71,meaning_searches_the_fool_100_in_en,
+country,NZ,the-emperor,The Emperor,major,,84.0,meaning_searches_the_fool_100_in_en,
+country,NZ,temperance,Temperance,major,,83.33,meaning_searches_the_fool_100_in_en,
+country,NZ,the-chariot,The Chariot,major,,80.65,meaning_searches_the_fool_100_in_en,
+country,NZ,the-tower,The Tower,major,,79.17,meaning_searches_the_fool_100_in_en,
+country,NZ,judgement,Judgement,major,,76.19,meaning_searches_the_fool_100_in_en,
+country,NZ,the-moon,The Moon,major,,71.43,meaning_searches_the_fool_100_in_en,
+country,NZ,death,Death,major,,66.67,meaning_searches_the_fool_100_in_en,
+country,NZ,the-hermit,The Hermit,major,,64.29,meaning_searches_the_fool_100_in_en,
+country,NZ,the-high-priestess,The High Priestess,major,,60.0,meaning_searches_the_fool_100_in_en,
+country,NZ,the-magician,The Magician,major,,60.0,meaning_searches_the_fool_100_in_en,
+country,NZ,the-lovers,The Lovers,major,,58.06,meaning_searches_the_fool_100_in_en,
+country,NZ,the-hanged-man,The Hanged Man,major,,57.14,meaning_searches_the_fool_100_in_en,
+country,NZ,justice,Justice,major,,50.0,meaning_searches_the_fool_100_in_en,
+country,NZ,the-hierophant,The Hierophant,major,,48.39,meaning_searches_the_fool_100_in_en,
+country,NZ,strength,Strength,major,,35.48,meaning_searches_the_fool_100_in_en,
+country,PH,the-moon,The Moon,major,,104.35,meaning_searches_the_fool_100_in_en,
+country,PH,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,PH,the-world,The World,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,PH,the-star,The Star,major,,91.3,meaning_searches_the_fool_100_in_en,
+country,PH,the-devil,The Devil,major,,87.5,meaning_searches_the_fool_100_in_en,
+country,PH,the-hermit,The Hermit,major,,80.77,meaning_searches_the_fool_100_in_en,
+country,PH,temperance,Temperance,major,,79.17,meaning_searches_the_fool_100_in_en,
+country,PH,the-tower,The Tower,major,,79.17,meaning_searches_the_fool_100_in_en,
+country,PH,the-empress,The Empress,major,,78.57,meaning_searches_the_fool_100_in_en,
+country,PH,the-sun,The Sun,major,,78.26,meaning_searches_the_fool_100_in_en,
+country,PH,the-hierophant,The Hierophant,major,,77.78,meaning_searches_the_fool_100_in_en,
+country,PH,the-chariot,The Chariot,major,,74.07,meaning_searches_the_fool_100_in_en,
+country,PH,justice,Justice,major,,73.08,meaning_searches_the_fool_100_in_en,
+country,PH,the-hanged-man,The Hanged Man,major,,73.08,meaning_searches_the_fool_100_in_en,
+country,PH,death,Death,major,,70.83,meaning_searches_the_fool_100_in_en,
+country,PH,the-lovers,The Lovers,major,,66.67,meaning_searches_the_fool_100_in_en,
+country,PH,the-emperor,The Emperor,major,,64.29,meaning_searches_the_fool_100_in_en,
+country,PH,the-magician,The Magician,major,,64.29,meaning_searches_the_fool_100_in_en,
+country,PH,judgement,Judgement,major,,60.87,meaning_searches_the_fool_100_in_en,
+country,PH,wheel-of-fortune,Wheel of Fortune,major,,57.69,meaning_searches_the_fool_100_in_en,
+country,PH,strength,Strength,major,,51.85,meaning_searches_the_fool_100_in_en,
+country,PH,the-high-priestess,The High Priestess,major,,50.0,meaning_searches_the_fool_100_in_en,
+country,PT,the-sun,The Sun,major,,109.52,meaning_searches_the_fool_100_in_pt,
+country,PT,the-chariot,The Chariot,major,,100.0,meaning_searches_the_fool_100_in_pt,
+country,PT,the-devil,The Devil,major,,100.0,meaning_searches_the_fool_100_in_pt,
+country,PT,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_pt,
+country,PT,the-high-priestess,The High Priestess,major,,95.45,meaning_searches_the_fool_100_in_pt,
+country,PT,the-world,The World,major,,92.31,meaning_searches_the_fool_100_in_pt,
+country,PT,strength,Strength,major,,91.67,meaning_searches_the_fool_100_in_pt,
+country,PT,the-magician,The Magician,major,,90.91,meaning_searches_the_fool_100_in_pt,
+country,PT,the-tower,The Tower,major,,90.91,meaning_searches_the_fool_100_in_pt,
+country,PT,the-moon,The Moon,major,,90.48,meaning_searches_the_fool_100_in_pt,
+country,PT,the-star,The Star,major,,90.48,meaning_searches_the_fool_100_in_pt,
+country,PT,the-empress,The Empress,major,,86.36,meaning_searches_the_fool_100_in_pt,
+country,PT,judgement,Judgement,major,,85.71,meaning_searches_the_fool_100_in_pt,
+country,PT,death,Death,major,,81.82,meaning_searches_the_fool_100_in_pt,
+country,PT,temperance,Temperance,major,,81.82,meaning_searches_the_fool_100_in_pt,
+country,PT,the-emperor,The Emperor,major,,81.82,meaning_searches_the_fool_100_in_pt,
+country,PT,justice,Justice,major,,71.88,meaning_searches_the_fool_100_in_pt,
+country,PT,the-hierophant,The Hierophant,major,,70.83,meaning_searches_the_fool_100_in_pt,
+country,PT,wheel-of-fortune,Wheel of Fortune,major,,65.62,meaning_searches_the_fool_100_in_pt,
+country,PT,the-lovers,The Lovers,major,,54.17,meaning_searches_the_fool_100_in_pt,
+country,PT,the-hanged-man,The Hanged Man,major,,37.5,meaning_searches_the_fool_100_in_pt,
+country,PT,the-hermit,The Hermit,major,,37.5,meaning_searches_the_fool_100_in_pt,
+country,RU,the-moon,The Moon,major,,115.79,meaning_searches_the_fool_100_in_ru,
+country,RU,the-hierophant,The Hierophant,major,,109.52,meaning_searches_the_fool_100_in_ru,
+country,RU,judgement,Judgement,major,,105.26,meaning_searches_the_fool_100_in_ru,
+country,RU,the-star,The Star,major,,105.26,meaning_searches_the_fool_100_in_ru,
+country,RU,the-high-priestess,The High Priestess,major,,105.0,meaning_searches_the_fool_100_in_ru,
+country,RU,the-magician,The Magician,major,,105.0,meaning_searches_the_fool_100_in_ru,
+country,RU,the-devil,The Devil,major,,104.76,meaning_searches_the_fool_100_in_ru,
+country,RU,the-world,The World,major,,104.08,meaning_searches_the_fool_100_in_ru,
+country,RU,death,Death,major,,100.0,meaning_searches_the_fool_100_in_ru,
+country,RU,the-chariot,The Chariot,major,,100.0,meaning_searches_the_fool_100_in_ru,
+country,RU,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_ru,
+country,RU,the-sun,The Sun,major,,100.0,meaning_searches_the_fool_100_in_ru,
+country,RU,the-hanged-man,The Hanged Man,major,,95.65,meaning_searches_the_fool_100_in_ru,
+country,RU,the-tower,The Tower,major,,95.24,meaning_searches_the_fool_100_in_ru,
+country,RU,the-emperor,The Emperor,major,,95.0,meaning_searches_the_fool_100_in_ru,
+country,RU,the-empress,The Empress,major,,95.0,meaning_searches_the_fool_100_in_ru,
+country,RU,justice,Justice,major,,86.96,meaning_searches_the_fool_100_in_ru,
+country,RU,the-hermit,The Hermit,major,,86.96,meaning_searches_the_fool_100_in_ru,
+country,RU,the-lovers,The Lovers,major,,85.71,meaning_searches_the_fool_100_in_ru,
+country,RU,strength,Strength,major,,80.95,meaning_searches_the_fool_100_in_ru,
+country,RU,temperance,Temperance,major,,76.19,meaning_searches_the_fool_100_in_ru,
+country,RU,wheel-of-fortune,Wheel of Fortune,major,,65.22,meaning_searches_the_fool_100_in_ru,
+country,SG,judgement,Judgement,major,,162.5,meaning_searches_the_fool_100_in_en,
+country,SG,the-star,The Star,major,,143.75,meaning_searches_the_fool_100_in_en,
+country,SG,the-world,The World,major,,138.1,meaning_searches_the_fool_100_in_en,
+country,SG,the-moon,The Moon,major,,137.5,meaning_searches_the_fool_100_in_en,
+country,SG,death,Death,major,,128.57,meaning_searches_the_fool_100_in_en,
+country,SG,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,SG,the-hermit,The Hermit,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,SG,justice,Justice,major,,92.59,meaning_searches_the_fool_100_in_en,
+country,SG,the-magician,The Magician,major,,92.31,meaning_searches_the_fool_100_in_en,
+country,SG,strength,Strength,major,,91.3,meaning_searches_the_fool_100_in_en,
+country,SG,the-lovers,The Lovers,major,,91.3,meaning_searches_the_fool_100_in_en,
+country,SG,the-devil,The Devil,major,,90.48,meaning_searches_the_fool_100_in_en,
+country,SG,the-tower,The Tower,major,,85.71,meaning_searches_the_fool_100_in_en,
+country,SG,the-emperor,The Emperor,major,,84.62,meaning_searches_the_fool_100_in_en,
+country,SG,the-sun,The Sun,major,,81.25,meaning_searches_the_fool_100_in_en,
+country,SG,the-chariot,The Chariot,major,,78.26,meaning_searches_the_fool_100_in_en,
+country,SG,wheel-of-fortune,Wheel of Fortune,major,,77.78,meaning_searches_the_fool_100_in_en,
+country,SG,the-hierophant,The Hierophant,major,,73.91,meaning_searches_the_fool_100_in_en,
+country,SG,temperance,Temperance,major,,71.43,meaning_searches_the_fool_100_in_en,
+country,SG,the-empress,The Empress,major,,53.85,meaning_searches_the_fool_100_in_en,
+country,SG,the-high-priestess,The High Priestess,major,,53.85,meaning_searches_the_fool_100_in_en,
+country,ZA,the-world,The World,major,,257.14,meaning_searches_the_fool_100_in_en,
+country,ZA,the-star,The Star,major,,175.0,meaning_searches_the_fool_100_in_en,
+country,ZA,the-moon,The Moon,major,,150.0,meaning_searches_the_fool_100_in_en,
+country,ZA,death,Death,major,,141.18,meaning_searches_the_fool_100_in_en,
+country,ZA,the-hanged-man,The Hanged Man,major,,131.58,meaning_searches_the_fool_100_in_en,
+country,ZA,the-sun,The Sun,major,,131.25,meaning_searches_the_fool_100_in_en,
+country,ZA,the-devil,The Devil,major,,129.41,meaning_searches_the_fool_100_in_en,
+country,ZA,the-emperor,The Emperor,major,,120.0,meaning_searches_the_fool_100_in_en,
+country,ZA,the-tower,The Tower,major,,117.65,meaning_searches_the_fool_100_in_en,
+country,ZA,the-hierophant,The Hierophant,major,,115.0,meaning_searches_the_fool_100_in_en,
+country,ZA,the-empress,The Empress,major,,110.0,meaning_searches_the_fool_100_in_en,
+country,ZA,strength,Strength,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,ZA,temperance,Temperance,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,ZA,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,ZA,the-hermit,The Hermit,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,ZA,the-lovers,The Lovers,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,ZA,wheel-of-fortune,Wheel of Fortune,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,ZA,justice,Justice,major,,94.74,meaning_searches_the_fool_100_in_en,
+country,ZA,the-high-priestess,The High Priestess,major,,90.0,meaning_searches_the_fool_100_in_en,
+country,ZA,the-chariot,The Chariot,major,,85.0,meaning_searches_the_fool_100_in_en,
+country,ZA,the-magician,The Magician,major,,80.0,meaning_searches_the_fool_100_in_en,
+country,ZA,judgement,Judgement,major,,68.75,meaning_searches_the_fool_100_in_en,
+country,ES,the-tower,The Tower,major,,133.33,meaning_searches_the_fool_100_in_es,
+country,ES,the-moon,The Moon,major,,127.78,meaning_searches_the_fool_100_in_es,
+country,ES,the-sun,The Sun,major,,127.78,meaning_searches_the_fool_100_in_es,
+country,ES,the-devil,The Devil,major,,122.22,meaning_searches_the_fool_100_in_es,
+country,ES,death,Death,major,,116.67,meaning_searches_the_fool_100_in_es,
+country,ES,the-world,The World,major,,112.77,meaning_searches_the_fool_100_in_es,
+country,ES,the-star,The Star,major,,111.11,meaning_searches_the_fool_100_in_es,
+country,ES,the-chariot,The Chariot,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,ES,the-empress,The Empress,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,ES,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_es,
+country,ES,the-hanged-man,The Hanged Man,major,,95.65,meaning_searches_the_fool_100_in_es,
+country,ES,the-high-priestess,The High Priestess,major,,95.24,meaning_searches_the_fool_100_in_es,
+country,ES,strength,Strength,major,,91.3,meaning_searches_the_fool_100_in_es,
+country,ES,the-emperor,The Emperor,major,,90.48,meaning_searches_the_fool_100_in_es,
+country,ES,the-magician,The Magician,major,,90.48,meaning_searches_the_fool_100_in_es,
+country,ES,judgement,Judgement,major,,88.89,meaning_searches_the_fool_100_in_es,
+country,ES,justice,Justice,major,,86.96,meaning_searches_the_fool_100_in_es,
+country,ES,the-lovers,The Lovers,major,,86.96,meaning_searches_the_fool_100_in_es,
+country,ES,temperance,Temperance,major,,83.33,meaning_searches_the_fool_100_in_es,
+country,ES,the-hermit,The Hermit,major,,82.61,meaning_searches_the_fool_100_in_es,
+country,ES,wheel-of-fortune,Wheel of Fortune,major,,69.57,meaning_searches_the_fool_100_in_es,
+country,ES,the-hierophant,The Hierophant,major,,56.52,meaning_searches_the_fool_100_in_es,
+country,UA,the-magician,The Magician,major,,113.04,meaning_searches_the_fool_100_in_ru,
+country,UA,the-hierophant,The Hierophant,major,,109.09,meaning_searches_the_fool_100_in_ru,
+country,UA,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_ru,
+country,UA,judgement,Judgement,major,,95.45,meaning_searches_the_fool_100_in_ru,
+country,UA,the-moon,The Moon,major,,95.45,meaning_searches_the_fool_100_in_ru,
+country,UA,the-devil,The Devil,major,,91.67,meaning_searches_the_fool_100_in_ru,
+country,UA,the-star,The Star,major,,90.91,meaning_searches_the_fool_100_in_ru,
+country,UA,the-world,The World,major,,88.68,meaning_searches_the_fool_100_in_ru,
+country,UA,death,Death,major,,87.5,meaning_searches_the_fool_100_in_ru,
+country,UA,the-high-priestess,The High Priestess,major,,86.96,meaning_searches_the_fool_100_in_ru,
+country,UA,strength,Strength,major,,86.36,meaning_searches_the_fool_100_in_ru,
+country,UA,the-chariot,The Chariot,major,,81.82,meaning_searches_the_fool_100_in_ru,
+country,UA,the-tower,The Tower,major,,79.17,meaning_searches_the_fool_100_in_ru,
+country,UA,the-lovers,The Lovers,major,,77.27,meaning_searches_the_fool_100_in_ru,
+country,UA,the-empress,The Empress,major,,73.91,meaning_searches_the_fool_100_in_ru,
+country,UA,the-sun,The Sun,major,,72.73,meaning_searches_the_fool_100_in_ru,
+country,UA,justice,Justice,major,,68.97,meaning_searches_the_fool_100_in_ru,
+country,UA,the-hanged-man,The Hanged Man,major,,68.97,meaning_searches_the_fool_100_in_ru,
+country,UA,the-emperor,The Emperor,major,,60.87,meaning_searches_the_fool_100_in_ru,
+country,UA,the-hermit,The Hermit,major,,58.62,meaning_searches_the_fool_100_in_ru,
+country,UA,temperance,Temperance,major,,58.33,meaning_searches_the_fool_100_in_ru,
+country,UA,wheel-of-fortune,Wheel of Fortune,major,,48.28,meaning_searches_the_fool_100_in_ru,
+country,GB,the-moon,The Moon,major,,168.75,meaning_searches_the_fool_100_in_en,
+country,GB,the-world,The World,major,,163.16,meaning_searches_the_fool_100_in_en,
+country,GB,the-star,The Star,major,,156.25,meaning_searches_the_fool_100_in_en,
+country,GB,the-sun,The Sun,major,,118.75,meaning_searches_the_fool_100_in_en,
+country,GB,the-empress,The Empress,major,,113.64,meaning_searches_the_fool_100_in_en,
+country,GB,death,Death,major,,105.0,meaning_searches_the_fool_100_in_en,
+country,GB,the-devil,The Devil,major,,105.0,meaning_searches_the_fool_100_in_en,
+country,GB,the-lovers,The Lovers,major,,104.55,meaning_searches_the_fool_100_in_en,
+country,GB,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,GB,the-tower,The Tower,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,GB,justice,Justice,major,,91.3,meaning_searches_the_fool_100_in_en,
+country,GB,the-chariot,The Chariot,major,,90.91,meaning_searches_the_fool_100_in_en,
+country,GB,temperance,Temperance,major,,90.0,meaning_searches_the_fool_100_in_en,
+country,GB,strength,Strength,major,,86.36,meaning_searches_the_fool_100_in_en,
+country,GB,the-high-priestess,The High Priestess,major,,86.36,meaning_searches_the_fool_100_in_en,
+country,GB,the-hanged-man,The Hanged Man,major,,82.61,meaning_searches_the_fool_100_in_en,
+country,GB,the-hermit,The Hermit,major,,82.61,meaning_searches_the_fool_100_in_en,
+country,GB,the-magician,The Magician,major,,81.82,meaning_searches_the_fool_100_in_en,
+country,GB,judgement,Judgement,major,,81.25,meaning_searches_the_fool_100_in_en,
+country,GB,wheel-of-fortune,Wheel of Fortune,major,,78.26,meaning_searches_the_fool_100_in_en,
+country,GB,the-emperor,The Emperor,major,,72.73,meaning_searches_the_fool_100_in_en,
+country,GB,the-hierophant,The Hierophant,major,,72.73,meaning_searches_the_fool_100_in_en,
+country,US,the-star,The Star,major,,230.77,meaning_searches_the_fool_100_in_en,
+country,US,the-world,The World,major,,222.58,meaning_searches_the_fool_100_in_en,
+country,US,the-moon,The Moon,major,,215.38,meaning_searches_the_fool_100_in_en,
+country,US,the-hermit,The Hermit,major,,136.84,meaning_searches_the_fool_100_in_en,
+country,US,the-sun,The Sun,major,,130.77,meaning_searches_the_fool_100_in_en,
+country,US,the-lovers,The Lovers,major,,125.0,meaning_searches_the_fool_100_in_en,
+country,US,death,Death,major,,115.79,meaning_searches_the_fool_100_in_en,
+country,US,justice,Justice,major,,110.53,meaning_searches_the_fool_100_in_en,
+country,US,strength,Strength,major,,110.0,meaning_searches_the_fool_100_in_en,
+country,US,temperance,Temperance,major,,105.26,meaning_searches_the_fool_100_in_en,
+country,US,the-tower,The Tower,major,,105.26,meaning_searches_the_fool_100_in_en,
+country,US,the-devil,The Devil,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,US,the-empress,The Empress,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,US,the-fool,The Fool,major,,100.0,meaning_searches_the_fool_100_in_en,
+country,US,the-hanged-man,The Hanged Man,major,,94.74,meaning_searches_the_fool_100_in_en,
+country,US,judgement,Judgement,major,,92.31,meaning_searches_the_fool_100_in_en,
+country,US,the-high-priestess,The High Priestess,major,,90.91,meaning_searches_the_fool_100_in_en,
+country,US,the-chariot,The Chariot,major,,90.0,meaning_searches_the_fool_100_in_en,
+country,US,the-magician,The Magician,major,,86.36,meaning_searches_the_fool_100_in_en,
+country,US,wheel-of-fortune,Wheel of Fortune,major,,84.21,meaning_searches_the_fool_100_in_en,
+country,US,the-emperor,The Emperor,major,,77.27,meaning_searches_the_fool_100_in_en,
+country,US,the-hierophant,The Hierophant,major,,75.0,meaning_searches_the_fool_100_in_en,
+wikipedia,de,death,Death,major,,4192,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,judgement,Judgement,major,,2624,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,justice,Justice,major,,3037,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,strength,Strength,major,,1699,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,temperance,Temperance,major,,3333,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-chariot,The Chariot,major,,3211,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-devil,The Devil,major,,2954,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-emperor,The Emperor,major,,1860,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-empress,The Empress,major,,2367,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-fool,The Fool,major,,7151,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-hanged-man,The Hanged Man,major,,4039,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-hermit,The Hermit,major,,3319,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-hierophant,The Hierophant,major,,4618,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-high-priestess,The High Priestess,major,,5441,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-lovers,The Lovers,major,,2182,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-magician,The Magician,major,,3573,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-moon,The Moon,major,,3300,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-star,The Star,major,,5267,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-sun,The Sun,major,,3947,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-tower,The Tower,major,,4697,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,the-world,The World,major,,3838,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,de,wheel-of-fortune,Wheel of Fortune,major,,3558,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,ace-of-cups,Ace of Cups,minor,Cups,22048,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,ace-of-pentacles,Ace of Pentacles,minor,Pentacles,12082,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,ace-of-swords,Ace of Swords,minor,Swords,13121,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,ace-of-wands,Ace of Wands,minor,Wands,18738,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,death,Death,major,,84617,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,eight-of-cups,Eight of Cups,minor,Cups,11023,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,eight-of-pentacles,Eight of Pentacles,minor,Pentacles,7280,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,eight-of-swords,Eight of Swords,minor,Swords,12827,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,eight-of-wands,Eight of Wands,minor,Wands,9921,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,five-of-cups,Five of Cups,minor,Cups,12662,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,five-of-pentacles,Five of Pentacles,minor,Pentacles,7618,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,five-of-swords,Five of Swords,minor,Swords,15998,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,five-of-wands,Five of Wands,minor,Wands,8192,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,four-of-cups,Four of Cups,minor,Cups,14964,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,four-of-pentacles,Four of Pentacles,minor,Pentacles,7406,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,four-of-swords,Four of Swords,minor,Swords,10049,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,four-of-wands,Four of Wands,minor,Wands,10673,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,judgement,Judgement,major,,55492,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,justice,Justice,major,,57416,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,king-of-cups,King of Cups,minor,Cups,13652,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,king-of-pentacles,King of Pentacles,minor,Pentacles,9892,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,king-of-swords,King of Swords,minor,Swords,11261,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,king-of-wands,King of Wands,minor,Wands,10019,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,knight-of-cups,Knight of Cups,minor,Cups,15410,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,knight-of-pentacles,Knight of Pentacles,minor,Pentacles,7843,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,knight-of-swords,Knight of Swords,minor,Swords,10838,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,knight-of-wands,Knight of Wands,minor,Wands,10884,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,nine-of-cups,Nine of Cups,minor,Cups,9693,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,nine-of-pentacles,Nine of Pentacles,minor,Pentacles,12266,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,nine-of-swords,Nine of Swords,minor,Swords,16444,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,nine-of-wands,Nine of Wands,minor,Wands,9448,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,page-of-cups,Page of Cups,minor,Cups,13771,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,page-of-pentacles,Page of Pentacles,minor,Pentacles,7290,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,page-of-swords,Page of Swords,minor,Swords,9332,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,page-of-wands,Page of Wands,minor,Wands,12330,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,queen-of-cups,Queen of Cups,minor,Cups,14631,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,queen-of-pentacles,Queen of Pentacles,minor,Pentacles,10587,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,queen-of-swords,Queen of Swords,minor,Swords,16457,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,queen-of-wands,Queen of Wands,minor,Wands,17009,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,seven-of-cups,Seven of Cups,minor,Cups,12648,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,seven-of-pentacles,Seven of Pentacles,minor,Pentacles,8257,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,seven-of-swords,Seven of Swords,minor,Swords,9645,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,seven-of-wands,Seven of Wands,minor,Wands,9779,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,six-of-cups,Six of Cups,minor,Cups,11542,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,six-of-pentacles,Six of Pentacles,minor,Pentacles,7082,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,six-of-swords,Six of Swords,minor,Swords,12781,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,six-of-wands,Six of Wands,minor,Wands,9769,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,strength,Strength,major,,68779,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,temperance,Temperance,major,,72061,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,ten-of-cups,Ten of Cups,minor,Cups,13581,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,ten-of-pentacles,Ten of Pentacles,minor,Pentacles,8977,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,ten-of-swords,Ten of Swords,minor,Swords,12212,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,ten-of-wands,Ten of Wands,minor,Wands,8834,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-chariot,The Chariot,major,,68446,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-devil,The Devil,major,,69401,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-emperor,The Emperor,major,,62614,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-empress,The Empress,major,,75678,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-fool,The Fool,major,,195949,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-hanged-man,The Hanged Man,major,,108570,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-hermit,The Hermit,major,,84398,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-hierophant,The Hierophant,major,,93614,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-high-priestess,The High Priestess,major,,108124,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-lovers,The Lovers,major,,61023,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-magician,The Magician,major,,123247,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-moon,The Moon,major,,53317,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-star,The Star,major,,72734,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-sun,The Sun,major,,64096,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-tower,The Tower,major,,92072,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,the-world,The World,major,,93161,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,three-of-cups,Three of Cups,minor,Cups,12389,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,three-of-pentacles,Three of Pentacles,minor,Pentacles,9619,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,three-of-swords,Three of Swords,minor,Swords,14171,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,three-of-wands,Three of Wands,minor,Wands,10052,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,two-of-cups,Two of Cups,minor,Cups,17649,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,two-of-pentacles,Two of Pentacles,minor,Pentacles,9049,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,two-of-swords,Two of Swords,minor,Swords,11583,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,two-of-wands,Two of Wands,minor,Wands,10625,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,en,wheel-of-fortune,Wheel of Fortune,major,,80607,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,death,Death,major,,9230,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,judgement,Judgement,major,,9164,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,justice,Justice,major,,6412,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,strength,Strength,major,,8056,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,temperance,Temperance,major,,5553,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-chariot,The Chariot,major,,10894,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-devil,The Devil,major,,12752,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-emperor,The Emperor,major,,11236,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-empress,The Empress,major,,13426,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-fool,The Fool,major,,24317,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-hanged-man,The Hanged Man,major,,11997,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-hermit,The Hermit,major,,15819,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-hierophant,The Hierophant,major,,20381,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-high-priestess,The High Priestess,major,,17174,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-lovers,The Lovers,major,,16430,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-magician,The Magician,major,,15203,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-moon,The Moon,major,,5767,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-star,The Star,major,,14886,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-sun,The Sun,major,,13484,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-tower,The Tower,major,,10437,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,the-world,The World,major,,16444,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,es,wheel-of-fortune,Wheel of Fortune,major,,7988,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,ace-of-cups,Ace of Cups,minor,Cups,377,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,death,Death,major,,6171,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,judgement,Judgement,major,,3422,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,justice,Justice,major,,2821,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,strength,Strength,major,,3539,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,temperance,Temperance,major,,4351,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-chariot,The Chariot,major,,4203,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-devil,The Devil,major,,3610,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-emperor,The Emperor,major,,3237,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-empress,The Empress,major,,4277,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-fool,The Fool,major,,12942,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-hanged-man,The Hanged Man,major,,6595,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-hermit,The Hermit,major,,4851,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-hierophant,The Hierophant,major,,5114,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-high-priestess,The High Priestess,major,,8523,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-lovers,The Lovers,major,,3615,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-magician,The Magician,major,,12679,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-moon,The Moon,major,,4239,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-star,The Star,major,,5605,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-sun,The Sun,major,,3666,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-tower,The Tower,major,,6672,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,the-world,The World,major,,5833,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,fr,wheel-of-fortune,Wheel of Fortune,major,,4692,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,death,Death,major,,15125,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,judgement,Judgement,major,,2157,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,justice,Justice,major,,1852,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,strength,Strength,major,,3850,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,temperance,Temperance,major,,8554,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-chariot,The Chariot,major,,12613,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-devil,The Devil,major,,309,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-emperor,The Emperor,major,,9305,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-empress,The Empress,major,,2616,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-fool,The Fool,major,,4805,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-hanged-man,The Hanged Man,major,,15421,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-hermit,The Hermit,major,,13325,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-hierophant,The Hierophant,major,,1949,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-high-priestess,The High Priestess,major,,3848,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-lovers,The Lovers,major,,13507,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-magician,The Magician,major,,21881,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-moon,The Moon,major,,12543,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-star,The Star,major,,14938,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-sun,The Sun,major,,8408,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-tower,The Tower,major,,14311,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,the-world,The World,major,,12527,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,it,wheel-of-fortune,Wheel of Fortune,major,,11897,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,death,Death,major,,2470,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,judgement,Judgement,major,,2545,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,justice,Justice,major,,2191,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,strength,Strength,major,,1802,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,temperance,Temperance,major,,2017,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-chariot,The Chariot,major,,2144,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-devil,The Devil,major,,2227,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-emperor,The Emperor,major,,1507,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-empress,The Empress,major,,2194,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-fool,The Fool,major,,4096,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-hanged-man,The Hanged Man,major,,3383,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-hermit,The Hermit,major,,2375,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-hierophant,The Hierophant,major,,2642,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-high-priestess,The High Priestess,major,,3208,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-lovers,The Lovers,major,,1991,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-magician,The Magician,major,,3075,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-moon,The Moon,major,,1948,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-star,The Star,major,,1902,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-sun,The Sun,major,,2074,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-tower,The Tower,major,,2444,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,the-world,The World,major,,2215,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pl,wheel-of-fortune,Wheel of Fortune,major,,1954,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,death,Death,major,,3291,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,judgement,Judgement,major,,3200,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,justice,Justice,major,,4910,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,strength,Strength,major,,4356,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,temperance,Temperance,major,,1835,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-chariot,The Chariot,major,,4666,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-devil,The Devil,major,,2982,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-emperor,The Emperor,major,,2953,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-empress,The Empress,major,,2342,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-fool,The Fool,major,,5769,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-hanged-man,The Hanged Man,major,,2432,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-hermit,The Hermit,major,,5897,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-hierophant,The Hierophant,major,,2827,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-high-priestess,The High Priestess,major,,5590,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-lovers,The Lovers,major,,2521,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-magician,The Magician,major,,7797,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-moon,The Moon,major,,2301,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-star,The Star,major,,4184,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-sun,The Sun,major,,2361,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-tower,The Tower,major,,2378,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,the-world,The World,major,,4370,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,pt,wheel-of-fortune,Wheel of Fortune,major,,4554,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,death,Death,major,,19826,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,judgement,Judgement,major,,7854,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,justice,Justice,major,,13396,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,strength,Strength,major,,16463,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,temperance,Temperance,major,,12264,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,ten-of-wands,Ten of Wands,minor,Wands,3314,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-chariot,The Chariot,major,,11237,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-devil,The Devil,major,,13854,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-emperor,The Emperor,major,,8816,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-empress,The Empress,major,,16190,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-fool,The Fool,major,,26377,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-hanged-man,The Hanged Man,major,,16351,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-hermit,The Hermit,major,,16697,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-hierophant,The Hierophant,major,,10393,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-high-priestess,The High Priestess,major,,14127,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-lovers,The Lovers,major,,14122,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-magician,The Magician,major,,14235,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-moon,The Moon,major,,13567,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-star,The Star,major,,14780,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-sun,The Sun,major,,7109,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-tower,The Tower,major,,10575,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,the-world,The World,major,,13630,pageviews_with_redirects_2025-11-01_2026-10-31,
+wikipedia,ru,wheel-of-fortune,Wheel of Fortune,major,,18935,pageviews_with_redirects_2025-11-01_2026-10-31,

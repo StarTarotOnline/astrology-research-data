@@ -74,3 +74,31 @@ README. Contains HM Land Registry data (c) Crown copyright and database right
 HDB Property Information accessed on 2026-11-04 from data.gov.sg, made available
 under the terms of the Singapore Open Data Licence version 1.0; not attributed
 to or endorsed by the Government.
+
+Third-party sources of which-tarot-card-does-the-world-search-for (indices and counts only):
+- Google Trends (search interest indices; cite as Google Trends), fetched 2026-11-08.
+- Wikimedia pageviews API (CC0).
+- Natural Earth 1:110m admin 0 countries, v5.1.2 (public domain).
+
+Third-party sources of zodiac-signs-of-athletes (aggregated counts only, no individual people):
+- Wikidata (CC0), via QLever, 28 October 2026.
+- Eurostat demo_fmonth; Human Fertility Database STFF (CC BY 4.0); NCHS and SSA daily US births
+  (public domain); INSEE daily French births (Licence Ouverte 2.0).
+- Lahman Baseball Database (SABR, CC BY-SA 3.0) was used only to check coverage; none of it is
+  redistributed here.
+
+Third-party sources of svadby-i-primety-rossiya (aggregated counts only):
+- Federal State Statistics Service (Rosstat), rosstat.gov.ru: Demographic Yearbook of Russia,
+  "Natural movement of the population" bulletins, "Regions of Russia", 2020 census vol. 5.
+
+Third-party sources of matrimoni-e-superstizioni-italia (aggregated counts only):
+- ISTAT, Istituto nazionale di statistica (I.Stat / esploradati), marriages by rite and month.
+- Eurostat, demo_nind (CC BY 4.0).
+
+Third-party sources of sluby-i-przesady-polska (aggregated counts only):
+- GUS, Statistics Poland, Baza Demografia (demografia.stat.gov.pl), tables 30 and 14.
+- Controls (not in the CSV): Statistics Lithuania, CZSO, Eurostat demo_nind (CC BY 4.0).
+
+Third-party sources of bauernregeln-wetterdaten:
+- Deutscher Wetterdienst (DWD), Climate Data Center, opendata.dwd.de, CC BY 4.0; values
+  aggregated and processed by StarTarot.
