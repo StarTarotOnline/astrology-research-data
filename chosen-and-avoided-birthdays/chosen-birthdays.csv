@@ -1,0 +1,793 @@
+series,country,group,years,measure,date_or_weekday,ratio,lower_95,upper_95,days,births,expected
+us_1969,us,all births,1969-1988,day 12 of the month,Monday,1.0004,0.9892,1.012,28,275826,275716
+us_1969,us,all births,1969-1988,day 12 of the month,Tuesday,1.0006,0.9894,1.0122,33,344373,344173
+us_1969,us,all births,1969-1988,day 12 of the month,Wednesday,0.9993,0.9881,1.0109,35,348925,349154
+us_1969,us,all births,1969-1988,day 12 of the month,Thursday,1.0073,0.996,1.019,34,344779,342270
+us_1969,us,all births,1969-1988,day 12 of the month,Friday,1.0029,0.9917,1.0146,33,340687,339689
+us_1969,us,all births,1969-1988,day 12 of the month,Saturday,0.9965,0.9854,1.0081,36,313295,314381
+us_1969,us,all births,1969-1988,day 12 of the month,Sunday,0.998,0.9868,1.0096,32,265559,266082
+us_1969,us,all births,1969-1988,day 12 of the month,not Friday,1.0005,0.9902,1.0109,198,1892757,1891776
+us_1969,us,all births,1969-1988,day 13 of the month,Monday,0.9853,0.9743,0.9968,30,296823,301245
+us_1969,us,all births,1969-1988,day 13 of the month,Tuesday,0.9921,0.981,1.0036,35,357489,360338
+us_1969,us,all births,1969-1988,day 13 of the month,Wednesday,0.9867,0.9757,0.9982,33,330996,335474
+us_1969,us,all births,1969-1988,day 13 of the month,Thursday,0.9914,0.9803,1.0029,35,343901,346898
+us_1969,us,all births,1969-1988,day 13 of the month,Friday,0.9708,0.96,0.9821,33,327734,337588
+us_1969,us,all births,1969-1988,day 13 of the month,Saturday,0.9989,0.9877,1.0105,33,290236,290569
+us_1969,us,all births,1969-1988,day 13 of the month,Sunday,0.9973,0.9862,1.0089,36,297726,298538
+us_1969,us,all births,1969-1988,day 13 of the month,not Friday,0.9918,0.9816,1.0021,202,1917171,1933061
+us_1969,us,all births,1969-1988,day 14 of the month,Monday,1.0051,0.9939,1.0168,34,343371,341630
+us_1969,us,all births,1969-1988,day 14 of the month,Tuesday,1.0121,1.0008,1.0239,33,346797,342663
+us_1969,us,all births,1969-1988,day 14 of the month,Wednesday,1.0046,0.9934,1.0163,35,352216,350614
+us_1969,us,all births,1969-1988,day 14 of the month,Thursday,1.0074,0.9961,1.0191,33,336015,333541
+us_1969,us,all births,1969-1988,day 14 of the month,Friday,1.0114,1.0001,1.0232,35,356424,352416
+us_1969,us,all births,1969-1988,day 14 of the month,Saturday,1.0052,0.994,1.0169,33,289552,288048
+us_1969,us,all births,1969-1988,day 14 of the month,Sunday,0.9986,0.9874,1.0102,33,276081,276465
+us_1969,us,all births,1969-1988,day 14 of the month,not Friday,1.0057,0.9953,1.0162,201,1944032,1932961
+us_1969,us,all births,1969-1988,fixed date,valentine,1.0434,1.0056,1.0742,20,194510,186418
+us_1969,us,all births,1969-1988,fixed date,valentine_weekdays,1.0513,1.0132,1.0824,13,132260,125808
+us_1969,us,all births,1969-1988,fixed date,leap_day,0.9657,0.9307,0.9942,5,46234,47874
+us_1969,us,all births,1969-1988,fixed date,leap_day_weekdays,0.9532,0.9186,0.9814,4,38675,40575
+us_1969,us,all births,1969-1988,fixed date,april_fools,0.9799,0.9444,1.0089,17,157115,160343
+us_1969,us,all births,1969-1988,fixed date,april_fools_weekdays,0.9723,0.9371,1.001,13,125211,128780
+us_1969,us,all births,1969-1988,fixed date,halloween,0.9672,0.9321,0.9958,20,186512,192840
+us_1969,us,all births,1969-1988,fixed date,halloween_weekdays,0.9523,0.9178,0.9804,14,133822,140523
+us_1969,us,all births,1969-1988,placebo date,placebo_mar_14,0.9988,0.9626,1.0283,20,188761,188996
+us_1969,us,all births,1969-1988,placebo date,placebo_jun_18,0.986,0.9503,1.0151,20,192651,195392
+us_1969,us,all births,1969-1988,placebo date,placebo_sep_22,1.0312,0.9938,1.0617,20,212673,206246
+us_1969,us,all births,1969-1988,placebo date,placebo_oct_24,0.9744,0.9391,1.0032,19,181119,185872
+us_1969,us,all births,1969-1988,public holiday,christmas_day,0.8115,0.7821,0.8355,20,153778,189491
+us_1969,us,all births,1969-1988,public holiday,new_years_day,0.8405,0.81,0.8653,20,160369,190806
+us_1969,us,all births,1969-1988,public holiday,independence_day_us,0.8778,0.846,0.9037,20,173413,197564
+us_1969,us,all births,1969-1988,repeating date,1977-07-07,1.0674,1.0278,1.1085,1,10424,9766
+us_1969,us,all births,1969-1988,repeating date,1988-08-08,1.061,1.0222,1.1014,1,12413,11699
+us_1994,us,all births,1994-2014,day 12 of the month,Monday,1.0037,0.9846,1.0207,30,356104,354797
+us_1994,us,all births,1994-2014,day 12 of the month,Tuesday,1.0053,0.9862,1.0224,35,453402,450993
+us_1994,us,all births,1994-2014,day 12 of the month,Wednesday,1.002,0.983,1.019,38,478695,477740
+us_1994,us,all births,1994-2014,day 12 of the month,Thursday,1.0089,0.9897,1.026,35,447459,443510
+us_1994,us,all births,1994-2014,day 12 of the month,Friday,0.998,0.979,1.0149,36,446686,447589
+us_1994,us,all births,1994-2014,day 12 of the month,Saturday,0.9991,0.9801,1.016,37,316834,317134
+us_1994,us,all births,1994-2014,day 12 of the month,Sunday,1.001,0.982,1.018,33,252389,252125
+us_1994,us,all births,1994-2014,day 12 of the month,not Friday,1.0037,0.9898,1.0178,208,2304883,2296299
+us_1994,us,all births,1994-2014,day 13 of the month,Monday,0.9742,0.9557,0.9907,29,332461,341282
+us_1994,us,all births,1994-2014,day 13 of the month,Tuesday,0.9831,0.9644,0.9998,36,453031,460803
+us_1994,us,all births,1994-2014,day 13 of the month,Wednesday,0.9752,0.9567,0.9917,35,432957,443988
+us_1994,us,all births,1994-2014,day 13 of the month,Thursday,0.9717,0.9532,0.9882,38,465493,479042
+us_1994,us,all births,1994-2014,day 13 of the month,Friday,0.9397,0.9218,0.9556,34,399053,424673
+us_1994,us,all births,1994-2014,day 13 of the month,Saturday,0.9971,0.9781,1.014,36,308329,309212
+us_1994,us,all births,1994-2014,day 13 of the month,Sunday,0.9912,0.9724,1.008,37,278865,281340
+us_1994,us,all births,1994-2014,day 13 of the month,not Friday,0.9808,0.9672,0.9946,211,2271136,2315668
+us_1994,us,all births,1994-2014,day 14 of the month,Monday,1.0039,0.9848,1.0209,34,403172,401589
+us_1994,us,all births,1994-2014,day 14 of the month,Tuesday,1.0078,0.9886,1.0249,35,452446,448953
+us_1994,us,all births,1994-2014,day 14 of the month,Wednesday,1.0056,0.9865,1.0227,36,458925,456347
+us_1994,us,all births,1994-2014,day 14 of the month,Thursday,1.004,0.9849,1.021,35,446237,444443
+us_1994,us,all births,1994-2014,day 14 of the month,Friday,1.0063,0.9872,1.0234,36,450177,447350
+us_1994,us,all births,1994-2014,day 14 of the month,Saturday,1.0067,0.9876,1.0238,34,294254,292281
+us_1994,us,all births,1994-2014,day 14 of the month,Sunday,1.0051,0.986,1.0222,36,275461,274075
+us_1994,us,all births,1994-2014,day 14 of the month,not Friday,1.0055,0.9916,1.0196,210,2330495,2317690
+us_1994,us,all births,1994-2014,fixed date,valentine,1.0518,1.0115,1.0863,21,244358,232322
+us_1994,us,all births,1994-2014,fixed date,valentine_weekdays,1.0544,1.014,1.089,16,202683,192220
+us_1994,us,all births,1994-2014,fixed date,leap_day,0.9177,0.8826,0.9478,5,52311,57003
+us_1994,us,all births,1994-2014,fixed date,leap_day_weekdays,0.9088,0.874,0.9386,4,45010,49529
+us_1994,us,all births,1994-2014,fixed date,april_fools,0.9475,0.9112,0.9786,18,185137,195391
+us_1994,us,all births,1994-2014,fixed date,april_fools_weekdays,0.9408,0.9048,0.9717,12,138915,147662
+us_1994,us,all births,1994-2014,fixed date,halloween,0.8768,0.8432,0.9056,21,209533,238975
+us_1994,us,all births,1994-2014,fixed date,halloween_weekdays,0.8604,0.8275,0.8886,16,171765,199642
+us_1994,us,all births,1994-2014,placebo date,placebo_mar_14,0.998,0.9598,1.0308,21,233494,233951
+us_1994,us,all births,1994-2014,placebo date,placebo_jun_18,0.9884,0.9506,1.0208,21,238125,240919
+us_1994,us,all births,1994-2014,placebo date,placebo_sep_22,1.0148,0.9759,1.0481,21,250310,246654
+us_1994,us,all births,1994-2014,placebo date,placebo_oct_24,0.9887,0.9508,1.0212,21,236786,239482
+us_1994,us,all births,1994-2014,public holiday,christmas_day,0.5958,0.573,0.6154,21,138054,231704
+us_1994,us,all births,1994-2014,public holiday,new_years_day,0.7195,0.692,0.7431,21,163634,227432
+us_1994,us,all births,1994-2014,public holiday,independence_day_us,0.7528,0.724,0.7775,21,184726,245392
+us_1994,us,all births,1994-2014,repeating date against the same holiday in other years,2001-01-01,0.9928,,,,7437,
+us_1994,us,all births,1994-2014,repeating date,2002-02-02,1.0399,0.9984,1.0831,1,8799,8461
+us_1994,us,all births,1994-2014,repeating date,2003-03-03,1.0748,1.0357,1.1153,1,12491,11622
+us_1994,us,all births,1994-2014,repeating date,2004-04-04,1.0092,0.9707,1.0492,1,7559,7490
+us_1994,us,all births,1994-2014,repeating date,2005-05-05,1.0932,1.0476,1.1409,1,14357,13132
+us_1994,us,all births,1994-2014,repeating date,2006-06-06,0.8493,0.8157,0.8843,1,11661,13730
+us_1994,us,all births,1994-2014,repeating date,2007-07-07,1.1447,1.1015,1.1897,1,10499,9172
+us_1994,us,all births,1994-2014,repeating date,2008-08-08,1.1152,1.0727,1.1593,1,15374,13786
+us_1994,us,all births,1994-2014,repeating date,2009-09-09,1.1677,1.1216,1.2157,1,16081,13772
+us_1994,us,all births,1994-2014,repeating date,2010-10-10,1.1398,1.0942,1.1872,1,8490,7449
+us_1994,us,all births,1994-2014,repeating date against the same holiday in other years,2011-11-11,1.2165,,,,14392,
+us_1994,us,all births,1994-2014,repeating date,2012-12-12,1.1648,1.1157,1.216,1,14667,12592
+us_1994,us,all births,1994-2014,repeating date,1999-09-09,1.1356,1.091,1.1821,1,14540,12804
+fr,fr,all births,1968-2024,day 12 of the month,Monday,1.0104,1.0004,1.0186,92,201230,199160
+fr,fr,all births,1968-2024,day 12 of the month,Tuesday,1.0079,0.9979,1.0161,98,219710,217980
+fr,fr,all births,1968-2024,day 12 of the month,Wednesday,1.0042,0.9943,1.0124,97,213995,213099
+fr,fr,all births,1968-2024,day 12 of the month,Thursday,1.0067,0.9967,1.0149,95,209948,208558
+fr,fr,all births,1968-2024,day 12 of the month,Friday,1.0031,0.9932,1.0113,97,214081,213420
+fr,fr,all births,1968-2024,day 12 of the month,Saturday,1.0001,0.9902,1.0083,97,187479,187460
+fr,fr,all births,1968-2024,day 12 of the month,Sunday,1.0029,0.993,1.0111,93,164567,164085
+fr,fr,all births,1968-2024,day 12 of the month,not Friday,1.0055,0.9993,1.0117,572,1196929,1190341
+fr,fr,all births,1968-2024,day 13 of the month,Monday,0.9997,0.9898,1.0078,93,201121,201178
+fr,fr,all births,1968-2024,day 13 of the month,Tuesday,0.9982,0.9883,1.0063,98,218704,219103
+fr,fr,all births,1968-2024,day 13 of the month,Wednesday,0.9974,0.9875,1.0055,98,213784,214347
+fr,fr,all births,1968-2024,day 13 of the month,Thursday,0.9987,0.9888,1.0068,94,207452,207715
+fr,fr,all births,1968-2024,day 13 of the month,Friday,0.9878,0.978,0.9959,95,206523,209071
+fr,fr,all births,1968-2024,day 13 of the month,Saturday,0.9975,0.9876,1.0056,97,185743,186208
+fr,fr,all births,1968-2024,day 13 of the month,Sunday,1.0001,0.9902,1.0083,97,171893,171868
+fr,fr,all births,1968-2024,day 13 of the month,not Friday,0.9986,0.9925,1.0047,577,1198697,1200419
+fr,fr,all births,1968-2024,day 14 of the month,Monday,1.0032,0.9933,1.0114,89,192790,192166
+fr,fr,all births,1968-2024,day 14 of the month,Tuesday,1.0086,0.9986,1.0168,89,198957,197269
+fr,fr,all births,1968-2024,day 14 of the month,Wednesday,1.0108,1.0008,1.019,90,198621,196504
+fr,fr,all births,1968-2024,day 14 of the month,Thursday,1.0088,0.9988,1.017,89,196530,194807
+fr,fr,all births,1968-2024,day 14 of the month,Friday,1.0059,0.996,1.0141,86,191064,189938
+fr,fr,all births,1968-2024,day 14 of the month,Saturday,1.0049,0.995,1.0131,87,167319,166498
+fr,fr,all births,1968-2024,day 14 of the month,Sunday,0.9982,0.9883,1.0063,86,151103,151379
+fr,fr,all births,1968-2024,day 14 of the month,not Friday,1.0061,0.9999,1.0123,530,1105320,1098623
+fr,fr,all births,1968-2024,fixed date,valentine,1.0195,0.9825,1.0565,57,119315,117031
+fr,fr,all births,1968-2024,fixed date,valentine_weekdays,1.0206,0.9836,1.0576,41,89396,87595
+fr,fr,all births,1968-2024,fixed date,leap_day,0.9555,0.9209,0.9902,15,29457,30828
+fr,fr,all births,1968-2024,fixed date,leap_day_weekdays,0.9455,0.9112,0.9798,11,22632,23936
+fr,fr,all births,1968-2024,fixed date,april_fools,0.9823,0.9467,1.0179,48,98357,100128
+fr,fr,all births,1968-2024,fixed date,april_fools_weekdays,0.9815,0.9459,1.0171,34,73649,75035
+fr,fr,all births,1968-2024,placebo date,placebo_mar_14,0.9979,0.9617,1.0341,57,117062,117310
+fr,fr,all births,1968-2024,placebo date,placebo_jun_18,0.9934,0.9574,1.0294,57,122523,123335
+fr,fr,all births,1968-2024,placebo date,placebo_sep_22,1.0304,0.9931,1.0678,57,122896,119267
+fr,fr,all births,1968-2024,placebo date,placebo_oct_24,0.9766,0.9412,1.012,57,116214,118993
+fr,fr,all births,1968-2024,public holiday,christmas_day,0.7837,0.7553,0.8121,57,91808,117144
+fr,fr,all births,1968-2024,public holiday,new_years_day,0.7931,0.7644,0.8219,57,93493,117889
+fr,fr,all births,1968-2024,public holiday,bastille_day,0.8875,0.8553,0.9197,57,109620,123514
+fr,fr,all births,1968-2024,repeating date against the same holiday in other years,2001-01-01,0.877,,,,1559,
+fr,fr,all births,1968-2024,repeating date,2002-02-02,0.9697,0.9041,1.0401,1,1729,1783
+fr,fr,all births,1968-2024,repeating date,2003-03-03,1.0451,0.9743,1.1211,1,2254,2157
+fr,fr,all births,1968-2024,repeating date,2004-04-04,1.0206,0.9648,1.0796,1,1633,1600
+fr,fr,all births,1968-2024,repeating date against the same holiday in other years,2005-05-05,0.9313,,,,1800,
+fr,fr,all births,1968-2024,repeating date,2006-06-06,0.9885,0.924,1.0576,1,2365,2392
+fr,fr,all births,1968-2024,repeating date,2007-07-07,1.0969,1.0311,1.167,1,2005,1828
+fr,fr,all births,1968-2024,repeating date,2008-08-08,1.0127,0.9438,1.0865,1,2461,2430
+fr,fr,all births,1968-2024,repeating date,2009-09-09,1.0225,0.9536,1.0964,1,2423,2370
+fr,fr,all births,1968-2024,repeating date,2010-10-10,1.0207,0.9632,1.0816,1,1967,1927
+fr,fr,all births,1968-2024,repeating date against the same holiday in other years,2011-11-11,1.0323,,,,2064,
+fr,fr,all births,1968-2024,repeating date,2012-12-12,0.991,0.9382,1.0468,1,2264,2284
+fr,fr,all births,1968-2024,repeating date,1977-07-07,1.0463,0.9785,1.1187,1,2316,2214
+fr,fr,all births,1968-2024,repeating date,1988-08-08,1.0542,0.9804,1.1336,1,2295,2177
+fr,fr,all births,1968-2024,repeating date,1999-09-09,1.0394,0.9707,1.1131,1,2364,2274
+fr,fr,all births,1968-2024,repeating date,2020-02-20,0.9598,0.9012,1.0223,1,1893,1972
+fr,fr,all births,1968-2024,repeating date,2022-02-22,1.0125,0.9526,1.0761,1,2030,2005
+fr,fr,all births,1968-2024,repeating date,2020-02-02,0.9907,0.9302,1.0551,1,1612,1627
+fr,fr,all births,1968-2024,repeating date,2022-02-02,1.0702,1.0069,1.1374,1,2097,1960
+ew,ew,all births,1995-2024,day 12 of the month,Monday,0.9973,0.989,1.0062,50,92250,92498
+ew,ew,all births,1995-2024,day 12 of the month,Tuesday,1.0032,0.9948,1.0121,52,98295,97983
+ew,ew,all births,1995-2024,day 12 of the month,Wednesday,1.0017,0.9934,1.0106,51,97053,96884
+ew,ew,all births,1995-2024,day 12 of the month,Thursday,1.0044,0.996,1.0133,52,100869,100432
+ew,ew,all births,1995-2024,day 12 of the month,Friday,0.9998,0.9915,1.0087,52,99622,99641
+ew,ew,all births,1995-2024,day 12 of the month,Saturday,0.9958,0.9875,1.0046,50,80549,80891
+ew,ew,all births,1995-2024,day 12 of the month,Sunday,1.0056,0.9972,1.0145,49,75239,74821
+ew,ew,all births,1995-2024,day 12 of the month,not Friday,1.0014,0.9979,1.0049,304,544255,543509
+ew,ew,all births,1995-2024,day 13 of the month,Monday,0.9878,0.9796,0.9966,49,88793,89890
+ew,ew,all births,1995-2024,day 13 of the month,Tuesday,0.988,0.9798,0.9968,51,95236,96391
+ew,ew,all births,1995-2024,day 13 of the month,Wednesday,0.9884,0.9802,0.9972,52,97379,98525
+ew,ew,all births,1995-2024,day 13 of the month,Thursday,0.9851,0.9769,0.9938,51,96643,98104
+ew,ew,all births,1995-2024,day 13 of the month,Friday,0.9658,0.9578,0.9744,51,95139,98511
+ew,ew,all births,1995-2024,day 13 of the month,Saturday,0.9959,0.9876,1.0047,52,83088,83429
+ew,ew,all births,1995-2024,day 13 of the month,Sunday,0.9924,0.9841,1.0012,50,76484,77072
+ew,ew,all births,1995-2024,day 13 of the month,not Friday,0.9893,0.9859,0.9927,305,537623,543411
+ew,ew,all births,1995-2024,day 14 of the month,Monday,1.0019,0.9936,1.0108,50,92635,92461
+ew,ew,all births,1995-2024,day 14 of the month,Tuesday,1.0031,0.9947,1.012,52,98181,97873
+ew,ew,all births,1995-2024,day 14 of the month,Wednesday,1.0053,0.9969,1.0142,51,97372,96855
+ew,ew,all births,1995-2024,day 14 of the month,Thursday,0.9979,0.9896,1.0068,52,99865,100077
+ew,ew,all births,1995-2024,day 14 of the month,Friday,0.9946,0.9863,1.0034,48,91599,92097
+ew,ew,all births,1995-2024,day 14 of the month,Saturday,0.9965,0.9882,1.0053,51,82153,82442
+ew,ew,all births,1995-2024,day 14 of the month,Sunday,1.0009,0.9926,1.0098,52,79307,79233
+ew,ew,all births,1995-2024,day 14 of the month,not Friday,1.001,0.9975,1.0045,308,549513,548941
+ew,ew,all births,1995-2024,fixed date,valentine,1.0103,0.974,1.0334,30,53704,53155
+ew,ew,all births,1995-2024,fixed date,valentine_weekdays,1.0165,0.98,1.0397,22,41176,40507
+ew,ew,all births,1995-2024,fixed date,leap_day,0.9833,0.948,1.0057,8,13960,14198
+ew,ew,all births,1995-2024,fixed date,leap_day_weekdays,0.9796,0.9444,1.002,6,11060,11290
+ew,ew,all births,1995-2024,fixed date,april_fools,0.9797,0.9445,1.0021,26,44958,45888
+ew,ew,all births,1995-2024,fixed date,april_fools_weekdays,0.9825,0.9472,1.0049,18,33141,33731
+ew,ew,all births,1995-2024,fixed date,halloween,0.9885,0.953,1.0111,30,53699,54325
+ew,ew,all births,1995-2024,fixed date,halloween_weekdays,0.9808,0.9456,1.0032,22,40866,41666
+ew,ew,all births,1995-2024,placebo date,placebo_mar_14,0.9961,0.9603,1.0188,30,53020,53229
+ew,ew,all births,1995-2024,placebo date,placebo_jun_18,0.9963,0.9605,1.019,30,54363,54564
+ew,ew,all births,1995-2024,placebo date,placebo_sep_22,1.0307,0.9937,1.0542,30,57471,55758
+ew,ew,all births,1995-2024,placebo date,placebo_oct_24,0.9834,0.9481,1.0059,30,54106,55022
+ew,ew,all births,1995-2024,public holiday,christmas_day,0.7758,0.748,0.7935,30,41110,52988
+ew,ew,all births,1995-2024,public holiday,new_years_day,0.874,0.8426,0.894,30,46087,52729
+ew,ew,all births,1995-2024,public holiday,boxing_day,0.7331,0.7068,0.7498,30,39061,53280
+ew,ew,all births,1995-2024,repeating date against the same holiday in other years,2001-01-01,0.9759,,,,1337,
+ew,ew,all births,1995-2024,repeating date,2002-02-02,1.0162,0.95,1.0869,1,1433,1410
+ew,ew,all births,1995-2024,repeating date,2003-03-03,1.0648,1.0041,1.1291,1,1772,1664
+ew,ew,all births,1995-2024,repeating date,2004-04-04,0.9753,0.9231,1.0305,1,1397,1432
+ew,ew,all births,1995-2024,repeating date,2005-05-05,1.0107,0.9547,1.0701,1,1872,1852
+ew,ew,all births,1995-2024,repeating date,2006-06-06,0.949,0.8948,1.0064,1,1826,1924
+ew,ew,all births,1995-2024,repeating date,2007-07-07,0.9878,0.9295,1.0499,1,1732,1753
+ew,ew,all births,1995-2024,repeating date,2008-08-08,1.0341,0.9757,1.096,1,2191,2119
+ew,ew,all births,1995-2024,repeating date,2009-09-09,1.0346,0.9764,1.0963,1,2138,2066
+ew,ew,all births,1995-2024,repeating date,2010-10-10,1.0096,0.9516,1.0711,1,1880,1862
+ew,ew,all births,1995-2024,repeating date,2011-11-11,1.0749,1.0258,1.1264,1,2245,2088
+ew,ew,all births,1995-2024,repeating date,2012-12-12,1.0,0.9457,1.0574,1,2040,2040
+ew,ew,all births,1995-2024,repeating date,1999-09-09,0.9769,0.9219,1.035,1,1843,1887
+ew,ew,all births,1995-2024,repeating date,2020-02-20,1.0494,0.9935,1.1086,1,1860,1772
+ew,ew,all births,1995-2024,repeating date,2022-02-22,1.0108,0.9592,1.0651,1,1754,1735
+ew,ew,all births,1995-2024,repeating date,2020-02-02,0.9877,0.9351,1.0434,1,1450,1468
+ew,ew,all births,1995-2024,repeating date,2022-02-02,1.0524,0.9988,1.109,1,1816,1726
+mx_all,mx,all births,2008-2025,day 12 of the month,Monday,1.0217,1.0011,1.0452,26,145796,142699
+mx_all,mx,all births,2008-2025,day 12 of the month,Tuesday,1.0141,0.9937,1.0375,30,169167,166810
+mx_all,mx,all births,2008-2025,day 12 of the month,Wednesday,1.0118,0.9914,1.0351,28,153153,151361
+mx_all,mx,all births,2008-2025,day 12 of the month,Thursday,1.0262,1.0056,1.0498,28,160271,156175
+mx_all,mx,all births,2008-2025,day 12 of the month,Friday,1.0268,1.0061,1.0505,28,158997,154844
+mx_all,mx,all births,2008-2025,day 12 of the month,Saturday,1.0133,0.9929,1.0367,29,144759,142863
+mx_all,mx,all births,2008-2025,day 12 of the month,Sunday,1.01,0.9897,1.0333,27,112623,111504
+mx_all,mx,all births,2008-2025,day 12 of the month,not Friday,1.0165,0.9969,1.0365,168,885769,871412
+mx_all,mx,all births,2008-2025,day 13 of the month,Monday,0.9895,0.9696,1.0123,29,155632,157283
+mx_all,mx,all births,2008-2025,day 13 of the month,Tuesday,0.976,0.9564,0.9985,29,159736,163669
+mx_all,mx,all births,2008-2025,day 13 of the month,Wednesday,0.9822,0.9624,1.0048,32,172422,175547
+mx_all,mx,all births,2008-2025,day 13 of the month,Thursday,0.9835,0.9637,1.0062,29,155167,157768
+mx_all,mx,all births,2008-2025,day 13 of the month,Friday,0.9657,0.9463,0.988,31,169514,175538
+mx_all,mx,all births,2008-2025,day 13 of the month,Saturday,0.9952,0.9752,1.0181,31,149411,150138
+mx_all,mx,all births,2008-2025,day 13 of the month,Sunday,0.9943,0.9743,1.0172,32,133906,134675
+mx_all,mx,all births,2008-2025,day 13 of the month,not Friday,0.9864,0.9673,1.0058,182,926274,939080
+mx_all,mx,all births,2008-2025,day 14 of the month,Monday,1.0142,0.9938,1.0376,32,177307,174833
+mx_all,mx,all births,2008-2025,day 14 of the month,Tuesday,1.0147,0.9943,1.0381,31,173803,171280
+mx_all,mx,all births,2008-2025,day 14 of the month,Wednesday,1.0122,0.9918,1.0355,29,163288,161325
+mx_all,mx,all births,2008-2025,day 14 of the month,Thursday,1.009,0.9887,1.0323,31,171492,169967
+mx_all,mx,all births,2008-2025,day 14 of the month,Friday,1.0044,0.9842,1.0275,29,161412,160705
+mx_all,mx,all births,2008-2025,day 14 of the month,Saturday,1.0211,1.0006,1.0446,31,156424,153190
+mx_all,mx,all births,2008-2025,day 14 of the month,Sunday,1.0099,0.9896,1.0332,31,128472,127217
+mx_all,mx,all births,2008-2025,day 14 of the month,not Friday,1.0135,0.9939,1.0335,185,970786,957811
+mx_all,mx,all births,2008-2025,fixed date,valentine,1.04,0.9783,1.0806,18,92393,88843
+mx_all,mx,all births,2008-2025,fixed date,valentine_weekdays,1.0325,0.9712,1.0728,13,68764,66597
+mx_all,mx,all births,2008-2025,fixed date,leap_day,0.8346,0.7851,0.8672,5,21286,25505
+mx_all,mx,all births,2008-2025,fixed date,leap_day_weekdays,0.8372,0.7875,0.8699,4,17656,21089
+mx_all,mx,all births,2008-2025,fixed date,mothers_day_mx,0.9157,0.8614,0.9515,18,81097,88565
+mx_all,mx,all births,2008-2025,fixed date,mothers_day_mx_weekdays,0.8881,0.8354,0.9228,12,55791,62819
+mx_all,mx,all births,2008-2025,placebo date,placebo_mar_14,1.0053,0.9457,1.0446,18,90594,90119
+mx_all,mx,all births,2008-2025,placebo date,placebo_jun_18,1.0078,0.948,1.0472,18,91991,91276
+mx_all,mx,all births,2008-2025,placebo date,placebo_sep_22,1.0395,0.9778,1.0801,18,108128,104018
+mx_all,mx,all births,2008-2025,placebo date,placebo_oct_24,0.9795,0.9214,1.0178,18,99165,101239
+mx_all,mx,all births,2008-2025,public holiday,christmas_day,0.6661,0.6266,0.6921,18,61123,91760
+mx_all,mx,all births,2008-2025,public holiday,new_years_day,0.7172,0.6747,0.7452,18,66170,92261
+mx_all,mx,all births,2008-2025,repeating date,2008-08-08,1.0461,0.9921,1.103,1,6475,6190
+mx_all,mx,all births,2008-2025,repeating date,2009-09-09,1.0729,1.0184,1.1303,1,6981,6507
+mx_all,mx,all births,2008-2025,repeating date,2010-10-10,1.0641,1.0061,1.1255,1,5470,5140
+mx_all,mx,all births,2008-2025,repeating date,2011-11-11,1.0363,0.9794,1.0964,1,6902,6660
+mx_all,mx,all births,2008-2025,repeating date against the same holiday in other years,2012-12-12,1.021,,,,6413,
+mx_all,mx,all births,2008-2025,repeating date,2020-02-20,1.0105,0.9493,1.0758,1,4888,4837
+mx_all,mx,all births,2008-2025,repeating date,2022-02-22,1.0242,0.9635,1.0886,1,4828,4714
+mx_all,mx,all births,2008-2025,repeating date,2020-02-02,1.0272,0.9649,1.0935,1,3812,3711
+mx_all,mx,all births,2008-2025,repeating date,2022-02-02,1.0445,0.9827,1.1103,1,4785,4581
+mx_vaginal,mx,vaginal births,2008-2025,day 12 of the month,Monday,1.0095,0.9971,1.0209,26,73180,72493
+mx_vaginal,mx,vaginal births,2008-2025,day 12 of the month,Tuesday,1.0029,0.9905,1.0142,30,84588,84342
+mx_vaginal,mx,vaginal births,2008-2025,day 12 of the month,Wednesday,0.9977,0.9854,1.009,28,75341,75512
+mx_vaginal,mx,vaginal births,2008-2025,day 12 of the month,Thursday,1.0028,0.9904,1.0141,28,79146,78922
+mx_vaginal,mx,vaginal births,2008-2025,day 12 of the month,Friday,1.0124,0.9999,1.0238,28,76360,75428
+mx_vaginal,mx,vaginal births,2008-2025,day 12 of the month,Saturday,1.0011,0.9888,1.0124,29,77599,77511
+mx_vaginal,mx,vaginal births,2008-2025,day 12 of the month,Sunday,1.0025,0.9902,1.0138,27,68782,68613
+mx_vaginal,mx,vaginal births,2008-2025,day 12 of the month,not Friday,1.0027,0.9933,1.0122,168,458636,457392
+mx_vaginal,mx,vaginal births,2008-2025,day 13 of the month,Monday,0.9915,0.9793,1.0027,29,78772,79447
+mx_vaginal,mx,vaginal births,2008-2025,day 13 of the month,Tuesday,0.993,0.9808,1.0042,29,82315,82892
+mx_vaginal,mx,vaginal births,2008-2025,day 13 of the month,Wednesday,0.987,0.9748,0.9982,32,86851,87992
+mx_vaginal,mx,vaginal births,2008-2025,day 13 of the month,Thursday,0.9917,0.9795,1.0029,29,77802,78455
+mx_vaginal,mx,vaginal births,2008-2025,day 13 of the month,Friday,0.9943,0.9821,1.0055,31,85449,85937
+mx_vaginal,mx,vaginal births,2008-2025,day 13 of the month,Saturday,1.0013,0.989,1.0126,31,80927,80821
+mx_vaginal,mx,vaginal births,2008-2025,day 13 of the month,Sunday,0.9988,0.9865,1.0101,32,83220,83324
+mx_vaginal,mx,vaginal births,2008-2025,day 13 of the month,not Friday,0.9938,0.9845,1.0032,182,489887,492931
+mx_vaginal,mx,vaginal births,2008-2025,day 14 of the month,Monday,1.0058,0.9934,1.0172,32,89481,88967
+mx_vaginal,mx,vaginal births,2008-2025,day 14 of the month,Tuesday,1.004,0.9916,1.0153,31,86345,86003
+mx_vaginal,mx,vaginal births,2008-2025,day 14 of the month,Wednesday,0.9998,0.9875,1.0111,29,81072,81091
+mx_vaginal,mx,vaginal births,2008-2025,day 14 of the month,Thursday,0.9958,0.9835,1.0071,31,84732,85089
+mx_vaginal,mx,vaginal births,2008-2025,day 14 of the month,Friday,0.9982,0.9859,1.0095,29,77700,77838
+mx_vaginal,mx,vaginal births,2008-2025,day 14 of the month,Saturday,1.0056,0.9932,1.017,31,83638,83171
+mx_vaginal,mx,vaginal births,2008-2025,day 14 of the month,Sunday,1.0027,0.9903,1.014,31,78386,78173
+mx_vaginal,mx,vaginal births,2008-2025,day 14 of the month,not Friday,1.0023,0.9929,1.0117,185,503654,502494
+mx_vaginal,mx,vaginal births,2008-2025,fixed date,valentine,1.0244,0.9637,1.0487,18,47479,46349
+mx_vaginal,mx,vaginal births,2008-2025,fixed date,valentine_weekdays,1.0234,0.9628,1.0477,13,33779,33005
+mx_vaginal,mx,vaginal births,2008-2025,fixed date,leap_day,0.9283,0.8733,0.9503,5,12007,12934
+mx_vaginal,mx,vaginal births,2008-2025,fixed date,leap_day_weekdays,0.9314,0.8763,0.9535,4,9882,10610
+mx_vaginal,mx,vaginal births,2008-2025,fixed date,mothers_day_mx,1.0019,0.9426,1.0257,18,46195,46109
+mx_vaginal,mx,vaginal births,2008-2025,fixed date,mothers_day_mx_weekdays,0.9916,0.9329,1.0151,12,30881,31142
+mx_vaginal,mx,vaginal births,2008-2025,placebo date,placebo_mar_14,0.9922,0.9335,1.0158,18,45939,46301
+mx_vaginal,mx,vaginal births,2008-2025,placebo date,placebo_jun_18,0.9992,0.94,1.0229,18,47001,47039
+mx_vaginal,mx,vaginal births,2008-2025,placebo date,placebo_sep_22,1.0553,0.9928,1.0803,18,57317,54312
+mx_vaginal,mx,vaginal births,2008-2025,placebo date,placebo_oct_24,0.9825,0.9243,1.0058,18,50959,51867
+mx_vaginal,mx,vaginal births,2008-2025,public holiday,christmas_day,0.837,0.7874,0.8569,18,39442,47124
+mx_vaginal,mx,vaginal births,2008-2025,public holiday,new_years_day,0.8972,0.8441,0.9185,18,43098,48034
+mx_vaginal,mx,vaginal births,2008-2025,repeating date,2008-08-08,0.9958,0.9375,1.0577,1,3253,3267
+mx_vaginal,mx,vaginal births,2008-2025,repeating date,2009-09-09,1.0259,0.9714,1.0834,1,3591,3500
+mx_vaginal,mx,vaginal births,2008-2025,repeating date,2010-10-10,1.0266,0.9678,1.089,1,3409,3321
+mx_vaginal,mx,vaginal births,2008-2025,repeating date,2011-11-11,0.9948,0.9374,1.0557,1,3423,3441
+mx_vaginal,mx,vaginal births,2008-2025,repeating date against the same holiday in other years,2012-12-12,0.9954,,,,3178,
+mx_vaginal,mx,vaginal births,2008-2025,repeating date,2020-02-20,0.9895,0.9348,1.0475,1,2341,2366
+mx_vaginal,mx,vaginal births,2008-2025,repeating date,2022-02-22,1.0164,0.9461,1.0919,1,2168,2133
+mx_vaginal,mx,vaginal births,2008-2025,repeating date,2020-02-02,1.0193,0.9629,1.0789,1,2303,2260
+mx_vaginal,mx,vaginal births,2008-2025,repeating date,2022-02-02,1.0498,0.9772,1.1278,1,2216,2111
+mx_cs,mx,all C-sections,2008-2025,day 12 of the month,Monday,1.0344,0.9984,1.0722,26,72169,69770
+mx_cs,mx,all C-sections,2008-2025,day 12 of the month,Tuesday,1.0253,0.9896,1.0628,30,84029,81957
+mx_cs,mx,all C-sections,2008-2025,day 12 of the month,Wednesday,1.0264,0.9907,1.0639,28,77361,75374
+mx_cs,mx,all C-sections,2008-2025,day 12 of the month,Thursday,1.0507,1.0141,1.0891,28,80639,76745
+mx_cs,mx,all C-sections,2008-2025,day 12 of the month,Friday,1.0407,1.0045,1.0788,28,82146,78935
+mx_cs,mx,all C-sections,2008-2025,day 12 of the month,Saturday,1.0273,0.9915,1.0649,29,66636,64863
+mx_cs,mx,all C-sections,2008-2025,day 12 of the month,Sunday,1.0222,0.9866,1.0596,27,43466,42521
+mx_cs,mx,all C-sections,2008-2025,day 12 of the month,not Friday,1.0318,0.997,1.0679,168,424300,411230
+mx_cs,mx,all C-sections,2008-2025,day 13 of the month,Monday,0.9871,0.9527,1.0232,29,76334,77329
+mx_cs,mx,all C-sections,2008-2025,day 13 of the month,Tuesday,0.9579,0.9245,0.9929,29,76889,80271
+mx_cs,mx,all C-sections,2008-2025,day 13 of the month,Wednesday,0.9773,0.9433,1.013,32,85049,87021
+mx_cs,mx,all C-sections,2008-2025,day 13 of the month,Thursday,0.9754,0.9414,1.0111,29,76901,78842
+mx_cs,mx,all C-sections,2008-2025,day 13 of the month,Friday,0.9378,0.9051,0.9721,31,83529,89071
+mx_cs,mx,all C-sections,2008-2025,day 13 of the month,Saturday,0.9879,0.9535,1.024,31,68021,68853
+mx_cs,mx,all C-sections,2008-2025,day 13 of the month,Sunday,0.9872,0.9528,1.0233,32,50229,50881
+mx_cs,mx,all C-sections,2008-2025,day 13 of the month,not Friday,0.9779,0.9449,1.0121,182,433423,443197
+mx_cs,mx,all C-sections,2008-2025,day 14 of the month,Monday,1.0226,0.987,1.06,32,87220,85292
+mx_cs,mx,all C-sections,2008-2025,day 14 of the month,Tuesday,1.0256,0.9899,1.0631,31,86913,84743
+mx_cs,mx,all C-sections,2008-2025,day 14 of the month,Wednesday,1.0251,0.9894,1.0626,29,81697,79700
+mx_cs,mx,all C-sections,2008-2025,day 14 of the month,Thursday,1.0225,0.9869,1.0599,31,86249,84351
+mx_cs,mx,all C-sections,2008-2025,day 14 of the month,Friday,1.0106,0.9754,1.0476,29,83250,82379
+mx_cs,mx,all C-sections,2008-2025,day 14 of the month,Saturday,1.0396,1.0034,1.0776,31,72272,69521
+mx_cs,mx,all C-sections,2008-2025,day 14 of the month,Sunday,1.0205,0.985,1.0578,31,49630,48632
+mx_cs,mx,all C-sections,2008-2025,day 14 of the month,not Friday,1.026,0.9914,1.0619,185,463981,452239
+mx_cs,mx,all C-sections,2008-2025,fixed date,valentine,1.0567,0.9715,1.1217,18,44606,42213
+mx_cs,mx,all C-sections,2008-2025,fixed date,valentine_weekdays,1.0413,0.9573,1.1053,13,34771,33391
+mx_cs,mx,all C-sections,2008-2025,fixed date,leap_day,0.7381,0.6786,0.7835,5,9230,12505
+mx_cs,mx,all C-sections,2008-2025,fixed date,leap_day_weekdays,0.7418,0.682,0.7874,4,7733,10424
+mx_cs,mx,all C-sections,2008-2025,fixed date,mothers_day_mx,0.8216,0.7553,0.8721,18,34649,42171
+mx_cs,mx,all C-sections,2008-2025,fixed date,mothers_day_mx_weekdays,0.7858,0.7224,0.8341,12,24738,31480
+mx_cs,mx,all C-sections,2008-2025,placebo date,placebo_mar_14,1.0188,0.9366,1.0815,18,44352,43532
+mx_cs,mx,all C-sections,2008-2025,placebo date,placebo_jun_18,1.0167,0.9347,1.0792,18,44675,43943
+mx_cs,mx,all C-sections,2008-2025,placebo date,placebo_sep_22,1.0222,0.9398,1.0851,18,50471,49376
+mx_cs,mx,all C-sections,2008-2025,placebo date,placebo_oct_24,0.9766,0.8978,1.0367,18,47912,49061
+mx_cs,mx,all C-sections,2008-2025,public holiday,christmas_day,0.4839,0.4449,0.5137,18,21474,44374
+mx_cs,mx,all C-sections,2008-2025,public holiday,new_years_day,0.5201,0.4782,0.5521,18,22856,43946
+mx_cs,mx,all C-sections,2008-2025,repeating date,2008-08-08,1.1009,1.0231,1.1846,1,3189,2897
+mx_cs,mx,all C-sections,2008-2025,repeating date,2009-09-09,1.1269,1.0371,1.2244,1,3366,2987
+mx_cs,mx,all C-sections,2008-2025,repeating date,2010-10-10,1.1345,1.051,1.2247,1,2041,1799
+mx_cs,mx,all C-sections,2008-2025,repeating date,2011-11-11,1.0788,0.9952,1.1695,1,3452,3200
+mx_cs,mx,all C-sections,2008-2025,repeating date against the same holiday in other years,2012-12-12,1.0499,,,,3227,
+mx_cs,mx,all C-sections,2008-2025,repeating date,2020-02-20,1.0316,0.9452,1.1258,1,2537,2459
+mx_cs,mx,all C-sections,2008-2025,repeating date,2022-02-22,1.0324,0.9607,1.1095,1,2639,2556
+mx_cs,mx,all C-sections,2008-2025,repeating date,2020-02-02,1.0404,0.9533,1.1354,1,1499,1441
+mx_cs,mx,all C-sections,2008-2025,repeating date,2022-02-02,1.0391,0.9669,1.1167,1,2537,2442
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 12 of the month,Monday,1.0619,0.9945,1.1272,26,30200,28441
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 12 of the month,Tuesday,1.0494,0.9828,1.1139,30,30882,29429
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 12 of the month,Wednesday,1.0491,0.9825,1.1136,28,29477,28098
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 12 of the month,Thursday,1.1017,1.0318,1.1694,28,31015,28152
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 12 of the month,Friday,1.0748,1.0066,1.1408,28,35500,33030
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 12 of the month,Saturday,1.055,0.988,1.1198,29,30117,28546
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 12 of the month,Sunday,1.0357,0.97,1.0993,27,14651,14147
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 12 of the month,not Friday,1.0608,0.9943,1.1317,168,166342,156812
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 13 of the month,Monday,0.9489,0.8887,1.0072,29,30226,31853
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 13 of the month,Tuesday,0.8805,0.8246,0.9346,29,25615,29092
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 13 of the month,Wednesday,0.9378,0.8783,0.9954,32,30466,32487
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 13 of the month,Thursday,0.922,0.8635,0.9787,29,27283,29590
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 13 of the month,Friday,0.8641,0.8093,0.9172,31,31772,36771
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 13 of the month,Saturday,0.9596,0.8987,1.0186,31,29737,30990
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 13 of the month,Sunday,0.9648,0.9036,1.0241,32,16411,17009
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 13 of the month,not Friday,0.934,0.8755,0.9964,182,159738,171021
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 14 of the month,Monday,1.0259,0.9608,1.0889,32,35576,34679
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 14 of the month,Tuesday,1.0439,0.9776,1.108,31,32237,30882
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 14 of the month,Wednesday,1.0634,0.9959,1.1287,29,31479,29603
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 14 of the month,Thursday,1.0462,0.9798,1.1105,31,32905,31453
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 14 of the month,Friday,1.0232,0.9583,1.0861,29,35295,34496
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 14 of the month,Saturday,1.0795,1.011,1.1458,31,33082,30645
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 14 of the month,Sunday,1.0413,0.9752,1.1053,31,17056,16379
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,day 14 of the month,not Friday,1.0501,0.9843,1.1203,185,182335,173640
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,fixed date,valentine,1.1539,1.0019,1.2747,18,18408,15953
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,fixed date,valentine_weekdays,1.127,0.9786,1.245,13,14263,12655
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,fixed date,leap_day,0.5286,0.459,0.584,5,2570,4862
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,fixed date,leap_day_weekdays,0.5287,0.4591,0.5841,4,2086,3945
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,fixed date,mothers_day_mx,0.7602,0.6601,0.8398,18,12224,16079
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,fixed date,mothers_day_mx_weekdays,0.7302,0.634,0.8067,12,8687,11896
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,placebo date,placebo_mar_14,1.0251,0.8901,1.1325,18,17420,16993
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,placebo date,placebo_jun_18,1.0314,0.8956,1.1394,18,17359,16830
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,placebo date,placebo_sep_22,1.0123,0.879,1.1183,18,19641,19402
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,placebo date,placebo_oct_24,0.9848,0.8551,1.0879,18,19273,19570
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,public holiday,christmas_day,0.3817,0.3314,0.4217,18,6642,17403
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,public holiday,new_years_day,0.4275,0.3712,0.4723,18,7202,16846
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date,2008-08-08,1.2902,1.142,1.4577,1,1404,1088
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date,2009-09-09,1.2014,1.052,1.372,1,1118,931
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date,2010-10-10,1.3596,1.1998,1.5407,1,707,520
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date,2011-11-11,1.2112,1.0727,1.3675,1,1450,1197
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date against the same holiday in other years,2012-12-12,1.1232,,,,1201,
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date,2020-02-20,1.0911,0.9425,1.2631,1,1016,931
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date,2022-02-22,1.084,0.948,1.2394,1,1239,1143
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date,2020-02-02,1.0039,0.8672,1.1622,1,468,466
+mx_cs_private,mx,"C-sections, private hospitals",2008-2025,repeating date,2022-02-02,1.1004,0.9624,1.2582,1,1151,1046
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 12 of the month,Monday,1.0155,0.9947,1.0472,26,41651,41016
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 12 of the month,Tuesday,1.0105,0.9898,1.0421,30,52674,52126
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 12 of the month,Wednesday,1.012,0.9913,1.0436,28,47499,46938
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 12 of the month,Thursday,1.021,1.0001,1.0529,28,49325,48311
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 12 of the month,Friday,1.0149,0.9942,1.0466,28,46120,45443
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 12 of the month,Saturday,1.0061,0.9855,1.0375,29,36247,36029
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 12 of the month,Sunday,1.0164,0.9956,1.0482,27,28649,28186
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 12 of the month,not Friday,1.0136,0.9923,1.0354,168,256045,252606
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 13 of the month,Monday,1.014,0.9933,1.0457,29,45721,45088
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 13 of the month,Tuesday,1.0023,0.9818,1.0336,29,51005,50887
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 13 of the month,Wednesday,1.001,0.9805,1.0323,32,54138,54082
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 13 of the month,Thursday,1.0076,0.987,1.0391,29,49241,48868
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 13 of the month,Friday,0.9895,0.9693,1.0204,31,51336,51882
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 13 of the month,Saturday,1.0123,0.9916,1.0439,31,37923,37463
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 13 of the month,Sunday,0.9983,0.9779,1.0295,32,33636,33693
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 13 of the month,not Friday,1.0059,0.9848,1.0275,182,271664,270081
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 14 of the month,Monday,1.0203,0.9994,1.0522,32,51274,50256
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 14 of the month,Tuesday,1.015,0.9943,1.0467,31,54242,53438
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 14 of the month,Wednesday,1.0027,0.9822,1.034,29,49926,49793
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 14 of the month,Thursday,1.0076,0.987,1.0391,31,52883,52482
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 14 of the month,Friday,1.001,0.9805,1.0323,29,47483,47434
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 14 of the month,Saturday,1.009,0.9884,1.0405,31,38874,38526
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 14 of the month,Sunday,1.009,0.9884,1.0405,31,32318,32028
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,day 14 of the month,not Friday,1.0108,0.9896,1.0325,185,279517,276524
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,fixed date,valentine,0.9959,0.9488,1.0434,18,25935,26042
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,fixed date,valentine_weekdays,0.9871,0.9404,1.0341,13,20267,20531
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,fixed date,leap_day,0.8743,0.8329,0.916,5,6618,7569
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,fixed date,leap_day_weekdays,0.8722,0.8309,0.9138,4,5633,6459
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,fixed date,mothers_day_mx,0.8606,0.8199,0.9016,18,22254,25858
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,fixed date,mothers_day_mx_weekdays,0.8213,0.7824,0.8604,12,15939,19408
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,placebo date,placebo_mar_14,1.0153,0.9672,1.0637,18,26729,26327
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,placebo date,placebo_jun_18,1.0062,0.9586,1.0542,18,27060,26894
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,placebo date,placebo_sep_22,1.0294,0.9807,1.0785,18,30651,29777
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,placebo date,placebo_oct_24,0.9714,0.9254,1.0177,18,28447,29285
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,public holiday,christmas_day,0.5505,0.5244,0.5767,18,14729,26755
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,public holiday,new_years_day,0.5785,0.5511,0.6061,18,15557,26890
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date,2008-08-08,0.987,0.9114,1.0689,1,1784,1808
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date,2009-09-09,1.0933,1.0113,1.1819,1,2246,2054
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date,2010-10-10,1.0424,0.9663,1.1245,1,1332,1278
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date,2011-11-11,1.0,0.9298,1.0755,1,2002,2002
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date against the same holiday in other years,2012-12-12,1.0193,,,,2025,
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date,2020-02-20,0.9918,0.9182,1.0714,1,1459,1471
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date,2022-02-22,0.9939,0.9282,1.0642,1,1381,1390
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date,2020-02-02,1.059,0.9804,1.1439,1,996,940
+mx_cs_public,mx,"C-sections, public hospitals",2008-2025,repeating date,2022-02-02,0.9929,0.9272,1.0631,1,1366,1376
+mx_cs_planned,mx,planned C-sections,2023-2025,day 12 of the month,Monday,1.0799,0.9711,1.1568,4,4904,4541
+mx_cs_planned,mx,planned C-sections,2023-2025,day 12 of the month,Tuesday,1.0595,0.9527,1.135,4,4805,4535
+mx_cs_planned,mx,planned C-sections,2023-2025,day 12 of the month,Wednesday,1.0452,0.9399,1.1196,6,6517,6235
+mx_cs_planned,mx,planned C-sections,2023-2025,day 12 of the month,Thursday,1.0949,0.9846,1.1729,4,4977,4546
+mx_cs_planned,mx,planned C-sections,2023-2025,day 12 of the month,Friday,1.0984,0.9877,1.1766,5,6616,6023
+mx_cs_planned,mx,planned C-sections,2023-2025,day 12 of the month,Saturday,0.9995,0.8988,1.0707,4,3542,3544
+mx_cs_planned,mx,planned C-sections,2023-2025,day 12 of the month,Sunday,1.0314,0.9275,1.1049,6,2667,2586
+mx_cs_planned,mx,planned C-sections,2023-2025,day 12 of the month,not Friday,1.0548,0.9859,1.1285,28,27412,25987
+mx_cs_planned,mx,planned C-sections,2023-2025,day 13 of the month,Monday,0.9387,0.8441,1.0056,6,6355,6770
+mx_cs_planned,mx,planned C-sections,2023-2025,day 13 of the month,Tuesday,0.8776,0.7892,0.9401,4,3811,4342
+mx_cs_planned,mx,planned C-sections,2023-2025,day 13 of the month,Wednesday,0.9197,0.827,0.9852,5,5245,5703
+mx_cs_planned,mx,planned C-sections,2023-2025,day 13 of the month,Thursday,0.9371,0.8427,1.0038,6,5990,6392
+mx_cs_planned,mx,planned C-sections,2023-2025,day 13 of the month,Friday,0.8476,0.7622,0.908,5,5467,6450
+mx_cs_planned,mx,planned C-sections,2023-2025,day 13 of the month,Saturday,0.9634,0.8663,1.032,6,5088,5281
+mx_cs_planned,mx,planned C-sections,2023-2025,day 13 of the month,Sunday,0.978,0.8795,1.0477,4,1804,1845
+mx_cs_planned,mx,planned C-sections,2023-2025,day 13 of the month,not Friday,0.9327,0.8718,0.9979,31,28293,30334
+mx_cs_planned,mx,planned C-sections,2023-2025,day 14 of the month,Monday,1.0388,0.9341,1.1128,4,4970,4784
+mx_cs_planned,mx,planned C-sections,2023-2025,day 14 of the month,Tuesday,1.0445,0.9393,1.1189,6,6758,6470
+mx_cs_planned,mx,planned C-sections,2023-2025,day 14 of the month,Wednesday,1.036,0.9316,1.1098,4,4397,4244
+mx_cs_planned,mx,planned C-sections,2023-2025,day 14 of the month,Thursday,1.0686,0.9609,1.1447,5,6120,5727
+mx_cs_planned,mx,planned C-sections,2023-2025,day 14 of the month,Friday,1.0461,0.9407,1.1206,6,7319,6997
+mx_cs_planned,mx,planned C-sections,2023-2025,day 14 of the month,Saturday,1.0512,0.9453,1.1261,5,4789,4556
+mx_cs_planned,mx,planned C-sections,2023-2025,day 14 of the month,Sunday,1.0349,0.9306,1.1086,6,2881,2784
+mx_cs_planned,mx,planned C-sections,2023-2025,day 14 of the month,not Friday,1.0472,0.9788,1.1204,30,29915,28566
+mx_cs_planned,mx,planned C-sections,2023-2025,fixed date,valentine,1.0015,0.8561,1.1187,3,3115,3110
+mx_cs_planned,mx,planned C-sections,2023-2025,fixed date,valentine_weekdays,1.0015,0.8561,1.1187,3,3115,3110
+mx_cs_planned,mx,planned C-sections,2023-2025,fixed date,leap_day,0.4929,0.4213,0.5506,1,516,1047
+mx_cs_planned,mx,planned C-sections,2023-2025,fixed date,leap_day_weekdays,0.4929,0.4213,0.5506,1,516,1047
+mx_cs_planned,mx,planned C-sections,2023-2025,fixed date,mothers_day_mx,0.5732,0.49,0.6403,3,1671,2915
+mx_cs_planned,mx,planned C-sections,2023-2025,fixed date,mothers_day_mx_weekdays,0.5682,0.4857,0.6347,2,1191,2096
+mx_cs_planned,mx,planned C-sections,2023-2025,placebo date,placebo_mar_14,1.0301,0.8806,1.1506,3,3337,3240
+mx_cs_planned,mx,planned C-sections,2023-2025,placebo date,placebo_jun_18,1.0062,0.8601,1.124,3,2532,2516
+mx_cs_planned,mx,planned C-sections,2023-2025,placebo date,placebo_sep_22,1.0098,0.8632,1.128,3,3286,3254
+mx_cs_planned,mx,planned C-sections,2023-2025,placebo date,placebo_oct_24,0.9891,0.8455,1.1049,3,3828,3870
+mx_cs_planned,mx,planned C-sections,2023-2025,public holiday,christmas_day,0.206,0.1761,0.2301,3,724,3515
+mx_cs_planned,mx,planned C-sections,2023-2025,public holiday,new_years_day,0.2475,0.2116,0.2765,3,671,2711
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 12 of the month,Monday,1.0244,0.9864,1.0733,4,4762,4649
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 12 of the month,Tuesday,0.9855,0.9489,1.0325,4,5055,5130
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 12 of the month,Wednesday,0.9982,0.9611,1.0458,6,7143,7156
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 12 of the month,Thursday,1.0187,0.9809,1.0673,4,5120,5026
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 12 of the month,Friday,1.0241,0.9861,1.073,5,6167,6022
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 12 of the month,Saturday,1.0052,0.9679,1.0532,4,4024,4003
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 12 of the month,Sunday,1.0294,0.9912,1.0785,6,5303,5152
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 12 of the month,not Friday,1.0094,0.9886,1.0306,28,31407,31115
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 13 of the month,Monday,1.0244,0.9864,1.0733,6,7194,7022
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 13 of the month,Tuesday,1.0155,0.9778,1.064,4,5027,4950
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 13 of the month,Wednesday,0.9728,0.9367,1.0192,5,6152,6324
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 13 of the month,Thursday,1.006,0.9686,1.054,6,7085,7043
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 13 of the month,Friday,0.9781,0.9418,1.0248,5,6039,6174
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 13 of the month,Saturday,1.0044,0.9671,1.0523,6,5892,5866
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 13 of the month,Sunday,0.9953,0.9583,1.0428,4,3484,3500
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 13 of the month,not Friday,1.0037,0.983,1.0248,31,34834,34706
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 14 of the month,Monday,1.048,1.0091,1.098,4,5038,4807
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 14 of the month,Tuesday,1.0032,0.9659,1.0511,6,7476,7452
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 14 of the month,Wednesday,0.9864,0.9498,1.0335,4,4791,4857
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 14 of the month,Thursday,1.0174,0.9796,1.0659,5,6245,6138
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 14 of the month,Friday,1.0075,0.9701,1.0556,6,6998,6946
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 14 of the month,Saturday,1.0149,0.9772,1.0633,5,5075,5000
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 14 of the month,Sunday,1.0023,0.9651,1.0501,6,5172,5160
+mx_cs_emergency,mx,emergency C-sections,2023-2025,day 14 of the month,not Friday,1.0114,0.9905,1.0327,30,33797,33415
+mx_cs_emergency,mx,emergency C-sections,2023-2025,fixed date,valentine,1.0112,0.9471,1.0648,3,3496,3457
+mx_cs_emergency,mx,emergency C-sections,2023-2025,fixed date,valentine_weekdays,1.0112,0.9471,1.0648,3,3496,3457
+mx_cs_emergency,mx,emergency C-sections,2023-2025,fixed date,leap_day,0.9215,0.8631,0.9703,1,1023,1110
+mx_cs_emergency,mx,emergency C-sections,2023-2025,fixed date,leap_day_weekdays,0.9215,0.8631,0.9703,1,1023,1110
+mx_cs_emergency,mx,emergency C-sections,2023-2025,fixed date,mothers_day_mx,0.858,0.8036,0.9035,3,2813,3279
+mx_cs_emergency,mx,emergency C-sections,2023-2025,fixed date,mothers_day_mx_weekdays,0.8425,0.7891,0.8871,2,1970,2338
+mx_cs_emergency,mx,emergency C-sections,2023-2025,placebo date,placebo_mar_14,1.0233,0.9585,1.0775,3,3494,3414
+mx_cs_emergency,mx,emergency C-sections,2023-2025,placebo date,placebo_jun_18,0.9785,0.9165,1.0303,3,3143,3212
+mx_cs_emergency,mx,emergency C-sections,2023-2025,placebo date,placebo_sep_22,1.023,0.9582,1.0772,3,3662,3580
+mx_cs_emergency,mx,emergency C-sections,2023-2025,placebo date,placebo_oct_24,1.0116,0.9475,1.0652,3,3993,3947
+mx_cs_emergency,mx,emergency C-sections,2023-2025,public holiday,christmas_day,0.5954,0.5577,0.6269,3,2135,3586
+mx_cs_emergency,mx,emergency C-sections,2023-2025,public holiday,new_years_day,0.6427,0.602,0.6767,3,2042,3177
+br_all,br,all births,2011-2024,day 12 of the month,Monday,1.0328,1.0047,1.0621,19,166651,161352
+br_all,br,all births,2011-2024,day 12 of the month,Tuesday,1.02,0.9923,1.0489,24,206477,202431
+br_all,br,all births,2011-2024,day 12 of the month,Wednesday,1.0163,0.9887,1.0451,20,171397,168651
+br_all,br,all births,2011-2024,day 12 of the month,Thursday,1.0255,0.9976,1.0546,23,196696,191798
+br_all,br,all births,2011-2024,day 12 of the month,Friday,1.0114,0.9839,1.0401,20,162263,160428
+br_all,br,all births,2011-2024,day 12 of the month,Saturday,1.0121,0.9846,1.0408,21,142274,140575
+br_all,br,all births,2011-2024,day 12 of the month,Sunday,0.9995,0.9723,1.0278,22,129162,129221
+br_all,br,all births,2011-2024,day 12 of the month,not Friday,1.0187,0.9961,1.0418,129,1012657,994028
+br_all,br,all births,2011-2024,day 13 of the month,Monday,0.9805,0.9538,1.0083,23,195821,199707
+br_all,br,all births,2011-2024,day 13 of the month,Tuesday,0.9858,0.959,1.0137,21,172201,174689
+br_all,br,all births,2011-2024,day 13 of the month,Wednesday,0.9791,0.9525,1.0068,25,205794,210184
+br_all,br,all births,2011-2024,day 13 of the month,Thursday,0.9668,0.9405,0.9942,23,184791,191142
+br_all,br,all births,2011-2024,day 13 of the month,Friday,0.9643,0.9381,0.9916,25,194546,201755
+br_all,br,all births,2011-2024,day 13 of the month,Saturday,0.9763,0.9497,1.004,23,148913,152526
+br_all,br,all births,2011-2024,day 13 of the month,Sunday,0.9879,0.961,1.0159,24,137987,139671
+br_all,br,all births,2011-2024,day 13 of the month,not Friday,0.979,0.9573,1.0012,139,1045507,1067920
+br_all,br,all births,2011-2024,day 14 of the month,Monday,1.0016,0.9744,1.03,24,204859,204536
+br_all,br,all births,2011-2024,day 14 of the month,Tuesday,1.0134,0.9858,1.0421,24,204413,201714
+br_all,br,all births,2011-2024,day 14 of the month,Wednesday,1.0156,0.988,1.0444,21,174854,172164
+br_all,br,all births,2011-2024,day 14 of the month,Thursday,1.0053,0.978,1.0338,26,216948,215798
+br_all,br,all births,2011-2024,day 14 of the month,Friday,1.0041,0.9768,1.0326,22,176096,175378
+br_all,br,all births,2011-2024,day 14 of the month,Saturday,1.0082,0.9808,1.0368,25,166544,165196
+br_all,br,all births,2011-2024,day 14 of the month,Sunday,0.9976,0.9705,1.0259,22,127509,127818
+br_all,br,all births,2011-2024,day 14 of the month,not Friday,1.0073,0.985,1.0301,142,1095127,1087225
+br_all,br,all births,2011-2024,fixed date,leap_day,0.8596,0.8142,0.8906,4,28468,33119
+br_all,br,all births,2011-2024,fixed date,leap_day_weekdays,0.8409,0.7965,0.8712,3,22075,26252
+br_all,br,all births,2011-2024,fixed date,april_fools,0.9131,0.8649,0.946,11,83719,91683
+br_all,br,all births,2011-2024,fixed date,april_fools_weekdays,0.9013,0.8537,0.9338,8,64615,71691
+br_all,br,all births,2011-2024,fixed date,valentine_br,0.9851,0.9331,1.0206,13,101067,102595
+br_all,br,all births,2011-2024,fixed date,valentine_br_weekdays,0.9855,0.9335,1.021,9,76949,78085
+br_all,br,all births,2011-2024,placebo date,placebo_mar_14,1.0024,0.9495,1.0385,14,118914,118633
+br_all,br,all births,2011-2024,placebo date,placebo_jun_18,1.0158,0.9622,1.0524,14,110362,108648
+br_all,br,all births,2011-2024,placebo date,placebo_sep_22,1.0272,0.973,1.0642,14,104532,101763
+br_all,br,all births,2011-2024,placebo date,placebo_oct_24,0.955,0.9046,0.9894,14,100317,105047
+br_all,br,all births,2011-2024,public holiday,christmas_day,0.6928,0.6562,0.7178,14,71402,103066
+br_all,br,all births,2011-2024,public holiday,new_years_day,0.7192,0.6812,0.7451,14,74698,103866
+br_all,br,all births,2011-2024,repeating date,2011-11-11,1.079,1.0255,1.1354,1,8542,7916
+br_all,br,all births,2011-2024,repeating date,2012-12-12,1.1053,1.0494,1.1641,1,9359,8468
+br_all,br,all births,2011-2024,repeating date,2020-02-20,1.1091,1.0448,1.1773,1,9283,8370
+br_all,br,all births,2011-2024,repeating date,2022-02-22,1.0851,1.0383,1.134,1,8537,7867
+br_all,br,all births,2011-2024,repeating date,2020-02-02,1.0383,0.9782,1.1022,1,5987,5766
+br_all,br,all births,2011-2024,repeating date,2022-02-02,1.0451,1.0001,1.0922,1,8164,7812
+br_vaginal,br,vaginal births,2011-2024,day 12 of the month,Monday,1.0197,1.0077,1.0311,19,64332,63087
+br_vaginal,br,vaginal births,2011-2024,day 12 of the month,Tuesday,1.0092,0.9973,1.0205,24,81845,81101
+br_vaginal,br,vaginal births,2011-2024,day 12 of the month,Wednesday,0.9935,0.9818,1.0047,20,67098,67539
+br_vaginal,br,vaginal births,2011-2024,day 12 of the month,Thursday,1.008,0.9961,1.0193,23,78475,77851
+br_vaginal,br,vaginal births,2011-2024,day 12 of the month,Friday,1.0033,0.9915,1.0146,20,66101,65882
+br_vaginal,br,vaginal births,2011-2024,day 12 of the month,Saturday,1.0043,0.9925,1.0156,21,70508,70206
+br_vaginal,br,vaginal births,2011-2024,day 12 of the month,Sunday,1.0005,0.9887,1.0117,22,71620,71587
+br_vaginal,br,vaginal births,2011-2024,day 12 of the month,not Friday,1.0058,0.9997,1.012,129,433878,431371
+br_vaginal,br,vaginal births,2011-2024,day 13 of the month,Monday,1.0059,0.9941,1.0172,23,78466,78010
+br_vaginal,br,vaginal births,2011-2024,day 13 of the month,Tuesday,1.0063,0.9945,1.0176,21,70280,69837
+br_vaginal,br,vaginal births,2011-2024,day 13 of the month,Wednesday,0.9945,0.9828,1.0057,25,83839,84299
+br_vaginal,br,vaginal births,2011-2024,day 13 of the month,Thursday,0.9858,0.9742,0.9969,23,75915,77012
+br_vaginal,br,vaginal births,2011-2024,day 13 of the month,Friday,0.9988,0.9871,1.01,25,83167,83267
+br_vaginal,br,vaginal births,2011-2024,day 13 of the month,Saturday,0.9894,0.9778,1.0005,23,74265,75058
+br_vaginal,br,vaginal births,2011-2024,day 13 of the month,Sunday,1.0022,0.9904,1.0134,24,78000,77827
+br_vaginal,br,vaginal births,2011-2024,day 13 of the month,not Friday,0.9972,0.9911,1.0033,139,460765,462043
+br_vaginal,br,vaginal births,2011-2024,day 14 of the month,Monday,1.0043,0.9925,1.0156,24,81133,80789
+br_vaginal,br,vaginal births,2011-2024,day 14 of the month,Tuesday,0.9957,0.984,1.0069,24,81198,81549
+br_vaginal,br,vaginal births,2011-2024,day 14 of the month,Wednesday,0.9997,0.9879,1.0109,21,69476,69494
+br_vaginal,br,vaginal births,2011-2024,day 14 of the month,Thursday,0.9968,0.9851,1.008,26,87311,87588
+br_vaginal,br,vaginal births,2011-2024,day 14 of the month,Friday,0.993,0.9813,1.0041,22,71982,72491
+br_vaginal,br,vaginal births,2011-2024,day 14 of the month,Saturday,0.9919,0.9802,1.003,25,81397,82059
+br_vaginal,br,vaginal births,2011-2024,day 14 of the month,Sunday,0.9984,0.9867,1.0096,22,70490,70602
+br_vaginal,br,vaginal births,2011-2024,day 14 of the month,not Friday,0.9977,0.9916,1.0038,142,471005,472081
+br_vaginal,br,vaginal births,2011-2024,fixed date,leap_day,0.9851,0.9447,1.0103,4,13498,13702
+br_vaginal,br,vaginal births,2011-2024,fixed date,leap_day_weekdays,0.985,0.9446,1.0102,3,10186,10341
+br_vaginal,br,vaginal births,2011-2024,fixed date,april_fools,0.999,0.958,1.0246,11,39801,39842
+br_vaginal,br,vaginal births,2011-2024,fixed date,april_fools_weekdays,0.997,0.9561,1.0225,8,29351,29439
+br_vaginal,br,vaginal births,2011-2024,fixed date,valentine_br,0.9947,0.9539,1.0202,13,44494,44731
+br_vaginal,br,vaginal births,2011-2024,fixed date,valentine_br_weekdays,0.9952,0.9544,1.0207,9,31117,31266
+br_vaginal,br,vaginal births,2011-2024,placebo date,placebo_mar_14,1.0036,0.9624,1.0293,14,50171,49990
+br_vaginal,br,vaginal births,2011-2024,placebo date,placebo_jun_18,0.999,0.958,1.0246,14,47612,47661
+br_vaginal,br,vaginal births,2011-2024,placebo date,placebo_sep_22,1.0411,0.9984,1.0677,14,46069,44250
+br_vaginal,br,vaginal births,2011-2024,placebo date,placebo_oct_24,0.9774,0.9373,1.0024,14,42361,43341
+br_vaginal,br,vaginal births,2011-2024,public holiday,christmas_day,0.9145,0.877,0.9379,14,39962,43698
+br_vaginal,br,vaginal births,2011-2024,public holiday,new_years_day,0.9416,0.903,0.9657,14,42629,45274
+br_vaginal,br,vaginal births,2011-2024,repeating date,2011-11-11,1.0647,1.0118,1.1203,1,3521,3307
+br_vaginal,br,vaginal births,2011-2024,repeating date,2012-12-12,1.0129,0.9642,1.0641,1,3406,3362
+br_vaginal,br,vaginal births,2011-2024,repeating date,2020-02-20,0.9763,0.9241,1.0315,1,3319,3399
+br_vaginal,br,vaginal births,2011-2024,repeating date,2022-02-22,1.0393,0.9895,1.0916,1,3301,3176
+br_vaginal,br,vaginal births,2011-2024,repeating date,2020-02-02,1.0378,0.9823,1.0965,1,3215,3098
+br_vaginal,br,vaginal births,2011-2024,repeating date,2022-02-02,0.9991,0.9512,1.0493,1,3159,3162
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 12 of the month,Monday,1.019,1.007,1.0331,17,40249,39500
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 12 of the month,Tuesday,1.0141,1.0022,1.0281,22,52227,51499
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 12 of the month,Wednesday,0.9951,0.9834,1.0088,19,44052,44268
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 12 of the month,Thursday,1.0106,0.9987,1.0245,22,51114,50579
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 12 of the month,Friday,1.0045,0.9927,1.0184,19,44067,43869
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 12 of the month,Saturday,1.0034,0.9916,1.0172,18,41598,41457
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 12 of the month,Sunday,0.9962,0.9845,1.0099,21,47953,48136
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 12 of the month,not Friday,1.0064,0.9999,1.013,119,277193,275439
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 13 of the month,Monday,1.0029,0.9911,1.0167,22,52444,52294
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 13 of the month,Tuesday,1.0065,0.9947,1.0204,19,44028,43746
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 13 of the month,Wednesday,0.9988,0.9871,1.0126,23,53751,53815
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 13 of the month,Thursday,0.9905,0.9789,1.0042,21,48135,48596
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 13 of the month,Friday,1.0041,0.9923,1.0179,24,54828,54606
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 13 of the month,Saturday,0.9909,0.9792,1.0046,22,50026,50487
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 13 of the month,Sunday,1.0078,0.9959,1.0217,21,47794,47423
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 13 of the month,not Friday,0.9994,0.9929,1.0059,128,296178,296360
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 14 of the month,Monday,1.0023,0.9905,1.0161,21,49109,48998
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 14 of the month,Tuesday,0.9972,0.9855,1.011,23,53955,54109
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 14 of the month,Wednesday,0.9953,0.9836,1.009,19,43271,43477
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 14 of the month,Thursday,0.9956,0.9839,1.0093,24,55588,55831
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 14 of the month,Friday,0.9998,0.988,1.0136,20,45459,45468
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 14 of the month,Saturday,0.9952,0.9835,1.0089,24,53773,54032
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 14 of the month,Sunday,1.0045,0.9927,1.0184,21,48132,47916
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,day 14 of the month,not Friday,0.9982,0.9917,1.0047,132,303828,304362
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,fixed date,leap_day,0.9773,0.9343,1.0057,4,9191,9404
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,fixed date,leap_day_weekdays,0.9808,0.9376,1.0093,3,6751,6883
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,fixed date,april_fools,1.0102,0.9657,1.0395,10,25307,25052
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,fixed date,april_fools_weekdays,1.0129,0.9683,1.0423,7,18212,17980
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,fixed date,valentine_br,0.9953,0.9515,1.0242,12,28393,28528
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,fixed date,valentine_br_weekdays,0.9971,0.9532,1.0261,9,21362,21424
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,placebo date,placebo_mar_14,1.0064,0.9621,1.0356,13,32198,31993
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,placebo date,placebo_jun_18,1.0008,0.9567,1.0299,13,30844,30818
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,placebo date,placebo_sep_22,1.0435,0.9976,1.0738,13,30039,28787
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,placebo date,placebo_oct_24,0.9836,0.9403,1.0122,13,27521,27979
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,public holiday,christmas_day,0.9386,0.8973,0.9659,13,26816,28569
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,public holiday,new_years_day,0.9656,0.9231,0.9936,13,28031,29031
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,repeating date,2012-12-12,1.0221,0.9627,1.0852,1,2094,2049
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,repeating date,2020-02-20,0.9566,0.9023,1.0141,1,2441,2552
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,repeating date,2022-02-22,1.048,0.9963,1.1024,1,2511,2396
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,repeating date,2020-02-02,1.026,0.9678,1.0877,1,2403,2342
+br_vag_spont,br,vaginal births after spontaneous labour,2012-2024,repeating date,2022-02-02,0.9936,0.9445,1.0452,1,2372,2387
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 12 of the month,Monday,1.0192,1.0011,1.0412,17,14386,14115
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 12 of the month,Tuesday,1.0058,0.988,1.0275,22,18996,18886
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 12 of the month,Wednesday,0.9922,0.9746,1.0136,19,16773,16905
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 12 of the month,Thursday,1.0144,0.9964,1.0363,22,19974,19690
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 12 of the month,Friday,1.0048,0.987,1.0265,19,16242,16164
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 12 of the month,Saturday,0.9926,0.975,1.0141,18,15264,15378
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 12 of the month,Sunday,1.0049,0.9871,1.0266,21,16934,16852
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 12 of the month,not Friday,1.0049,0.9972,1.0127,119,102327,101825
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 13 of the month,Monday,1.0169,0.9989,1.0389,22,18861,18547
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 13 of the month,Tuesday,1.0011,0.9833,1.0227,19,16409,16392
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 13 of the month,Wednesday,0.9922,0.9746,1.0136,23,19625,19779
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 13 of the month,Thursday,0.9844,0.9669,1.0057,21,18116,18404
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 13 of the month,Friday,0.9852,0.9677,1.0065,24,20744,21055
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 13 of the month,Saturday,0.9827,0.9653,1.0039,22,18048,18366
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 13 of the month,Sunday,0.9862,0.9687,1.0075,21,16459,16690
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 13 of the month,not Friday,0.9939,0.9863,1.0016,128,107518,108177
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 14 of the month,Monday,1.0059,0.9881,1.0276,21,17580,17476
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 14 of the month,Tuesday,0.9976,0.9799,1.0192,23,20124,20173
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 14 of the month,Wednesday,1.0035,0.9857,1.0252,19,16524,16466
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 14 of the month,Thursday,0.9977,0.98,1.0193,24,20823,20872
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 14 of the month,Friday,0.9759,0.9586,0.997,20,16873,17289
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 14 of the month,Saturday,0.9821,0.9647,1.0033,24,20244,20612
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 14 of the month,Sunday,0.989,0.9715,1.0104,21,16428,16610
+br_vag_induced,br,vaginal births after induced labour,2012-2024,day 14 of the month,not Friday,0.9957,0.988,1.0034,132,111723,112209
+br_vag_induced,br,vaginal births after induced labour,2012-2024,fixed date,leap_day,1.0083,0.9693,1.0404,4,3580,3551
+br_vag_induced,br,vaginal births after induced labour,2012-2024,fixed date,leap_day_weekdays,0.9926,0.9542,1.0242,3,2788,2809
+br_vag_induced,br,vaginal births after induced labour,2012-2024,fixed date,april_fools,0.9942,0.9557,1.0259,10,9075,9128
+br_vag_induced,br,vaginal births after induced labour,2012-2024,fixed date,april_fools_weekdays,0.9871,0.9489,1.0185,7,6277,6359
+br_vag_induced,br,vaginal births after induced labour,2012-2024,fixed date,valentine_br,0.9855,0.9473,1.0169,12,10513,10667
+br_vag_induced,br,vaginal births after induced labour,2012-2024,fixed date,valentine_br_weekdays,0.9921,0.9537,1.0237,9,8340,8407
+br_vag_induced,br,vaginal births after induced labour,2012-2024,placebo date,placebo_mar_14,0.9784,0.9405,1.0096,13,11723,11982
+br_vag_induced,br,vaginal births after induced labour,2012-2024,placebo date,placebo_jun_18,0.9972,0.9586,1.029,13,11253,11285
+br_vag_induced,br,vaginal births after induced labour,2012-2024,placebo date,placebo_sep_22,1.0417,1.0014,1.0749,13,10833,10399
+br_vag_induced,br,vaginal births after induced labour,2012-2024,placebo date,placebo_oct_24,0.9613,0.9241,0.9919,13,9893,10291
+br_vag_induced,br,vaginal births after induced labour,2012-2024,public holiday,christmas_day,0.8296,0.7975,0.856,13,8563,10322
+br_vag_induced,br,vaginal births after induced labour,2012-2024,public holiday,new_years_day,0.8594,0.8261,0.8868,13,9294,10815
+br_vag_induced,br,vaginal births after induced labour,2012-2024,repeating date,2012-12-12,1.0072,0.9314,1.0891,1,1086,1078
+br_vag_induced,br,vaginal births after induced labour,2012-2024,repeating date,2020-02-20,1.0595,0.9611,1.1679,1,798,753
+br_vag_induced,br,vaginal births after induced labour,2012-2024,repeating date,2022-02-22,1.0124,0.9211,1.1128,1,718,709
+br_vag_induced,br,vaginal births after induced labour,2012-2024,repeating date,2020-02-02,1.0939,0.9924,1.2059,1,729,666
+br_vag_induced,br,vaginal births after induced labour,2012-2024,repeating date,2022-02-02,1.0176,0.9258,1.1185,1,712,700
+br_cs,br,all C-sections,2011-2024,day 12 of the month,Monday,1.0414,0.9934,1.0872,19,102144,98081
+br_cs,br,all C-sections,2011-2024,day 12 of the month,Tuesday,1.0274,0.98,1.0726,24,124438,121118
+br_cs,br,all C-sections,2011-2024,day 12 of the month,Wednesday,1.0315,0.984,1.0769,20,104119,100936
+br_cs,br,all C-sections,2011-2024,day 12 of the month,Thursday,1.0375,0.9897,1.0831,23,117988,113724
+br_cs,br,all C-sections,2011-2024,day 12 of the month,Friday,1.0172,0.9703,1.0619,20,96006,94383
+br_cs,br,all C-sections,2011-2024,day 12 of the month,Saturday,1.0197,0.9727,1.0646,21,71577,70195
+br_cs,br,all C-sections,2011-2024,day 12 of the month,Sunday,0.9979,0.9519,1.0418,22,57380,57499
+br_cs,br,all C-sections,2011-2024,day 12 of the month,not Friday,1.0287,0.9917,1.0671,129,577646,561552
+br_cs,br,all C-sections,2011-2024,day 13 of the month,Monday,0.9643,0.9199,1.0067,23,117161,121494
+br_cs,br,all C-sections,2011-2024,day 13 of the month,Tuesday,0.9719,0.9271,1.0146,21,101710,104650
+br_cs,br,all C-sections,2011-2024,day 13 of the month,Wednesday,0.9686,0.924,1.0112,25,121727,125679
+br_cs,br,all C-sections,2011-2024,day 13 of the month,Thursday,0.9538,0.9098,0.9958,23,108657,113921
+br_cs,br,all C-sections,2011-2024,day 13 of the month,Friday,0.9397,0.8964,0.981,25,111130,118266
+br_cs,br,all C-sections,2011-2024,day 13 of the month,Saturday,0.9638,0.9194,1.0062,23,74503,77303
+br_cs,br,all C-sections,2011-2024,day 13 of the month,Sunday,0.9698,0.9251,1.0125,24,59798,61660
+br_cs,br,all C-sections,2011-2024,day 13 of the month,not Friday,0.965,0.9303,1.001,139,583556,604708
+br_cs,br,all C-sections,2011-2024,day 14 of the month,Monday,1.0,0.9539,1.044,24,123511,123517
+br_cs,br,all C-sections,2011-2024,day 14 of the month,Tuesday,1.0253,0.978,1.0704,24,122997,119958
+br_cs,br,all C-sections,2011-2024,day 14 of the month,Wednesday,1.0261,0.9788,1.0712,21,105161,102482
+br_cs,br,all C-sections,2011-2024,day 14 of the month,Thursday,1.011,0.9644,1.0555,26,129412,127998
+br_cs,br,all C-sections,2011-2024,day 14 of the month,Friday,1.0121,0.9654,1.0566,22,103932,102694
+br_cs,br,all C-sections,2011-2024,day 14 of the month,Saturday,1.0241,0.9769,1.0691,25,84944,82947
+br_cs,br,all C-sections,2011-2024,day 14 of the month,Sunday,0.9969,0.9509,1.0407,22,56892,57071
+br_cs,br,all C-sections,2011-2024,day 14 of the month,not Friday,1.0146,0.9781,1.0525,142,622917,613973
+br_cs,br,all C-sections,2011-2024,fixed date,leap_day,0.7703,0.7195,0.809,4,14926,19377
+br_cs,br,all C-sections,2011-2024,fixed date,leap_day_weekdays,0.7466,0.6974,0.7841,3,11853,15877
+br_cs,br,all C-sections,2011-2024,fixed date,april_fools,0.8472,0.7913,0.8897,11,43838,51746
+br_cs,br,all C-sections,2011-2024,fixed date,april_fools_weekdays,0.8346,0.7796,0.8765,8,35205,42182
+br_cs,br,all C-sections,2011-2024,fixed date,valentine_br,0.9775,0.913,1.0266,13,56454,57753
+br_cs,br,all C-sections,2011-2024,fixed date,valentine_br_weekdays,0.9788,0.9142,1.0279,9,45741,46734
+br_cs,br,all C-sections,2011-2024,placebo date,placebo_mar_14,1.0016,0.9355,1.0519,14,68625,68516
+br_cs,br,all C-sections,2011-2024,placebo date,placebo_jun_18,1.0289,0.961,1.0805,14,62615,60856
+br_cs,br,all C-sections,2011-2024,placebo date,placebo_sep_22,1.0164,0.9494,1.0674,14,58347,57404
+br_cs,br,all C-sections,2011-2024,placebo date,placebo_oct_24,0.9389,0.877,0.986,14,57833,61598
+br_cs,br,all C-sections,2011-2024,public holiday,christmas_day,0.5292,0.4943,0.5558,14,31362,59265
+br_cs,br,all C-sections,2011-2024,public holiday,new_years_day,0.5465,0.5105,0.5739,14,31955,58475
+br_cs,br,all C-sections,2011-2024,repeating date,2011-11-11,1.0914,1.0056,1.1845,1,5007,4588
+br_cs,br,all C-sections,2011-2024,repeating date,2012-12-12,1.1676,1.0733,1.2702,1,5942,5089
+br_cs,br,all C-sections,2011-2024,repeating date,2020-02-20,1.1983,1.1096,1.2941,1,5945,4961
+br_cs,br,all C-sections,2011-2024,repeating date,2022-02-22,1.1155,1.0424,1.1939,1,5231,4689
+br_cs,br,all C-sections,2011-2024,repeating date,2020-02-02,1.0376,0.9608,1.1205,1,2762,2662
+br_cs,br,all C-sections,2011-2024,repeating date,2022-02-02,1.0764,1.0058,1.152,1,4999,4644
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 12 of the month,Monday,1.0442,0.9846,1.1063,17,48301,46258
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 12 of the month,Tuesday,1.0305,0.9717,1.0917,22,59059,57311
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 12 of the month,Wednesday,1.0396,0.9803,1.1014,19,51047,49104
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 12 of the month,Thursday,1.0517,0.9917,1.1142,22,57370,54547
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 12 of the month,Friday,1.025,0.9665,1.0859,19,47493,46333
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 12 of the month,Saturday,1.0262,0.9677,1.0872,18,27951,27238
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 12 of the month,Sunday,1.0022,0.945,1.0618,21,22376,22327
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 12 of the month,not Friday,1.0363,0.9888,1.0861,119,266104,256786
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 13 of the month,Monday,0.9593,0.9046,1.0163,22,58171,60637
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 13 of the month,Tuesday,0.9524,0.8981,1.009,19,46271,48583
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 13 of the month,Wednesday,0.9509,0.8967,1.0074,23,56779,59713
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 13 of the month,Thursday,0.9347,0.8814,0.9903,21,49781,53259
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 13 of the month,Friday,0.9004,0.849,0.9539,24,51819,57549
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 13 of the month,Saturday,0.9427,0.8889,0.9987,22,31969,33912
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 13 of the month,Sunday,0.9667,0.9116,1.0242,21,21397,22135
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 13 of the month,not Friday,0.9501,0.9065,0.9958,128,264368,278239
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 14 of the month,Monday,1.0089,0.9514,1.0689,21,57206,56700
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 14 of the month,Tuesday,1.0467,0.987,1.1089,23,61366,58625
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 14 of the month,Wednesday,1.033,0.9741,1.0944,19,49030,47464
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 14 of the month,Thursday,1.0103,0.9527,1.0703,24,61046,60426
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 14 of the month,Friday,1.0195,0.9613,1.0801,20,48714,47781
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 14 of the month,Saturday,1.0291,0.9704,1.0903,24,36781,35742
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 14 of the month,Sunday,0.9976,0.9407,1.0569,21,22329,22383
+br_cs_prelabour,br,C-sections before labour,2012-2024,day 14 of the month,not Friday,1.0228,0.9759,1.0719,132,287758,281340
+br_cs_prelabour,br,C-sections before labour,2012-2024,fixed date,leap_day,0.6948,0.6315,0.7497,4,6768,9742
+br_cs_prelabour,br,C-sections before labour,2012-2024,fixed date,leap_day_weekdays,0.6683,0.6074,0.7211,3,5444,8146
+br_cs_prelabour,br,C-sections before labour,2012-2024,fixed date,april_fools,0.8057,0.7323,0.8694,10,18684,23191
+br_cs_prelabour,br,C-sections before labour,2012-2024,fixed date,april_fools_weekdays,0.7932,0.721,0.8559,7,15105,19042
+br_cs_prelabour,br,C-sections before labour,2012-2024,fixed date,valentine_br,0.9745,0.8857,1.0515,12,26868,27572
+br_cs_prelabour,br,C-sections before labour,2012-2024,fixed date,valentine_br_weekdays,0.975,0.8862,1.0521,9,23367,23966
+br_cs_prelabour,br,C-sections before labour,2012-2024,placebo date,placebo_mar_14,0.98,0.8907,1.0574,13,31253,31890
+br_cs_prelabour,br,C-sections before labour,2012-2024,placebo date,placebo_jun_18,1.0386,0.944,1.1207,13,29553,28454
+br_cs_prelabour,br,C-sections before labour,2012-2024,placebo date,placebo_sep_22,1.0093,0.9174,1.0891,13,26213,25972
+br_cs_prelabour,br,C-sections before labour,2012-2024,placebo date,placebo_oct_24,0.9202,0.8364,0.9929,13,26405,28696
+br_cs_prelabour,br,C-sections before labour,2012-2024,public holiday,christmas_day,0.4034,0.3667,0.4353,13,11681,28955
+br_cs_prelabour,br,C-sections before labour,2012-2024,public holiday,new_years_day,0.4178,0.3797,0.4508,13,11506,27540
+br_cs_prelabour,br,C-sections before labour,2012-2024,repeating date,2012-12-12,1.2105,1.0915,1.3425,1,3035,2507
+br_cs_prelabour,br,C-sections before labour,2012-2024,repeating date,2020-02-20,1.2957,1.1631,1.4434,1,3296,2544
+br_cs_prelabour,br,C-sections before labour,2012-2024,repeating date,2022-02-22,1.1744,1.0704,1.2884,1,2900,2469
+br_cs_prelabour,br,C-sections before labour,2012-2024,repeating date,2020-02-02,1.0594,0.951,1.1801,1,1192,1125
+br_cs_prelabour,br,C-sections before labour,2012-2024,repeating date,2022-02-02,1.1106,1.0123,1.2185,1,2713,2443
+br_cs_labour,br,C-sections in labour,2012-2024,day 12 of the month,Monday,1.0364,1.0075,1.0717,17,35656,34403
+br_cs_labour,br,C-sections in labour,2012-2024,day 12 of the month,Tuesday,1.0244,0.9958,1.0593,22,45827,44734
+br_cs_labour,br,C-sections in labour,2012-2024,day 12 of the month,Wednesday,1.0247,0.9961,1.0596,19,39821,38863
+br_cs_labour,br,C-sections in labour,2012-2024,day 12 of the month,Thursday,1.0235,0.9949,1.0583,22,45002,43969
+br_cs_labour,br,C-sections in labour,2012-2024,day 12 of the month,Friday,1.0029,0.9749,1.037,19,36800,36693
+br_cs_labour,br,C-sections in labour,2012-2024,day 12 of the month,Saturday,1.0252,0.9966,1.0601,18,28496,27795
+br_cs_labour,br,C-sections in labour,2012-2024,day 12 of the month,Sunday,0.9942,0.9664,1.028,21,27770,27933
+br_cs_labour,br,C-sections in labour,2012-2024,day 12 of the month,not Friday,1.0224,0.9977,1.0477,119,222572,217696
+br_cs_labour,br,C-sections in labour,2012-2024,day 13 of the month,Monday,0.9804,0.953,1.0138,22,44921,45818
+br_cs_labour,br,C-sections in labour,2012-2024,day 13 of the month,Tuesday,0.9853,0.9578,1.0188,19,37636,38196
+br_cs_labour,br,C-sections in labour,2012-2024,day 13 of the month,Wednesday,0.9895,0.9619,1.0232,23,46299,46791
+br_cs_labour,br,C-sections in labour,2012-2024,day 13 of the month,Thursday,0.9757,0.9485,1.0089,21,41451,42485
+br_cs_labour,br,C-sections in labour,2012-2024,day 13 of the month,Friday,0.9759,0.9486,1.0091,24,44719,45823
+br_cs_labour,br,C-sections in labour,2012-2024,day 13 of the month,Saturday,0.9794,0.9521,1.0127,22,33514,34220
+br_cs_labour,br,C-sections in labour,2012-2024,day 13 of the month,Sunday,0.9638,0.9369,0.9966,21,26515,27510
+br_cs_labour,br,C-sections in labour,2012-2024,day 13 of the month,not Friday,0.9801,0.9564,1.0044,128,230336,235020
+br_cs_labour,br,C-sections in labour,2012-2024,day 14 of the month,Monday,0.9998,0.9719,1.0338,21,42603,42613
+br_cs_labour,br,C-sections in labour,2012-2024,day 14 of the month,Tuesday,1.0068,0.9787,1.0411,23,46959,46641
+br_cs_labour,br,C-sections in labour,2012-2024,day 14 of the month,Wednesday,1.0142,0.9859,1.0487,19,38165,37632
+br_cs_labour,br,C-sections in labour,2012-2024,day 14 of the month,Thursday,1.0098,0.9816,1.0442,24,48649,48176
+br_cs_labour,br,C-sections in labour,2012-2024,day 14 of the month,Friday,1.0045,0.9765,1.0387,20,38436,38263
+br_cs_labour,br,C-sections in labour,2012-2024,day 14 of the month,Saturday,1.0164,0.988,1.051,24,37141,36540
+br_cs_labour,br,C-sections in labour,2012-2024,day 14 of the month,Sunday,0.9987,0.9708,1.0327,21,27810,27846
+br_cs_labour,br,C-sections in labour,2012-2024,day 14 of the month,not Friday,1.0079,0.9835,1.0329,132,241327,239447
+br_cs_labour,br,C-sections in labour,2012-2024,fixed date,leap_day,0.851,0.8065,0.8879,4,6615,7773
+br_cs_labour,br,C-sections in labour,2012-2024,fixed date,leap_day_weekdays,0.832,0.7885,0.8681,3,5063,6086
+br_cs_labour,br,C-sections in labour,2012-2024,fixed date,april_fools,0.9038,0.8566,0.943,10,17604,19478
+br_cs_labour,br,C-sections in labour,2012-2024,fixed date,april_fools_weekdays,0.8982,0.8513,0.9372,7,13446,14970
+br_cs_labour,br,C-sections in labour,2012-2024,fixed date,valentine_br,0.982,0.9307,1.0246,12,22509,22921
+br_cs_labour,br,C-sections in labour,2012-2024,fixed date,valentine_br_weekdays,0.9849,0.9334,1.0277,9,18346,18627
+br_cs_labour,br,C-sections in labour,2012-2024,placebo date,placebo_mar_14,1.0179,0.9647,1.0621,13,26319,25856
+br_cs_labour,br,C-sections in labour,2012-2024,placebo date,placebo_jun_18,1.015,0.962,1.0591,13,24604,24240
+br_cs_labour,br,C-sections in labour,2012-2024,placebo date,placebo_sep_22,1.0234,0.9699,1.0678,13,23023,22496
+br_cs_labour,br,C-sections in labour,2012-2024,placebo date,placebo_oct_24,0.9642,0.9138,1.0061,13,22647,23488
+br_cs_labour,br,C-sections in labour,2012-2024,public holiday,christmas_day,0.6494,0.6155,0.6776,13,15211,23421
+br_cs_labour,br,C-sections in labour,2012-2024,public holiday,new_years_day,0.6807,0.6451,0.7103,13,15614,22938
+br_cs_labour,br,C-sections in labour,2012-2024,repeating date,2012-12-12,1.13,1.0467,1.2199,1,2182,1931
+br_cs_labour,br,C-sections in labour,2012-2024,repeating date,2020-02-20,1.0732,0.9922,1.1608,1,2285,2129
+br_cs_labour,br,C-sections in labour,2012-2024,repeating date,2022-02-22,1.0482,0.9836,1.1171,1,2069,1974
+br_cs_labour,br,C-sections in labour,2012-2024,repeating date,2020-02-02,1.0341,0.956,1.1185,1,1421,1374
+br_cs_labour,br,C-sections in labour,2012-2024,repeating date,2022-02-02,1.0491,0.9844,1.118,1,2040,1944

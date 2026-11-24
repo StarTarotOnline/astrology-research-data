@@ -116,3 +116,16 @@ records are redistributed):
 - Mexico: Nacimientos (SINAC), Secretaria de Salud, Direccion General de Informacion en
   Salud (DGIS), open data.
 - Brazil: SINASC, Ministerio da Saude / DATASUS (OpenDataSUS, CC BY-ND 3.0).
+
+Third-party sources of chosen-and-avoided-birthdays (aggregated counts only, no individual
+records are redistributed):
+- USA 1969-1988: NCHS natality files summed by day, from A. Vehtari's "Birthdays" case
+  study (github.com/avehtari/casestudies).
+- USA 1994-2014: FiveThirtyEight births (CC BY 4.0), from CDC/NCHS and the Social Security
+  Administration.
+- France: INSEE, births per day (T79jnais).
+- England and Wales: Office for National Statistics, birth registrations (Open Government
+  Licence v3.0).
+- Mexico: Nacimientos (SINAC), Secretaria de Salud, Direccion General de Informacion en
+  Salud (DGIS), open data.
+- Brazil: SINASC, Ministerio da Saude / DATASUS (OpenDataSUS, CC BY-ND 3.0).
